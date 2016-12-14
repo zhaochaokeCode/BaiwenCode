@@ -1,0 +1,97 @@
+<extend name="Public:layout" />
+<block name="main-content">
+	<div class="main-content">
+		<div class="breadcrumbs" id="breadcrumbs">
+			<script type="text/javascript">
+				try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+			</script>
+
+			<ul class="breadcrumb">
+				<li>
+					<i class="icon-home home-icon"></i>
+					<a href="#">首页</a>
+				</li>
+
+				<!-- <li>
+					<a href="#">用户管理</a>
+				</li>
+				<li class="active">添加用户</li> -->
+			</ul><!-- .breadcrumb -->
+
+			<div class="nav-search" id="nav-search">
+				<form class="form-search">
+					<span class="input-icon">
+						<input type="text" placeholder="搜索 ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+						<i class="icon-search nav-search-icon"></i>
+					</span>
+				</form>
+			</div><!-- #nav-search -->
+		</div>
+
+		<div class="page-content">
+			<div class="page-header">
+				<h1>
+					游戏管理
+					<small>
+						<i class="icon-double-angle-right"></i>
+						添加游戏服务器
+					</small>
+				</h1>
+			</div><!-- /.page-header -->
+
+			<div class="row">
+				<div class="col-xs-12">
+					<!-- PAGE CONTENT BEGINS -->
+
+					<form action="__CONTROLLER__/server_add" method="post" class="form-horizontal" role="form">
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 服务器名称 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="s_name" id="form-field-1" placeholder="服务器名称" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" required/>
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 所属游戏 </label>
+
+							<div class="col-sm-9">
+							<foreach name="games" item="games">
+								<input type="radio" name="g_id" value="{$games.g_id}" style="width:40px;" required/>{$games.g_name}
+							</foreach>
+								
+							</div>
+						</div>
+						<!-- <div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 出生年月 </label>
+							
+							<div id="birth" class="col-sm-9">
+						   		<p>
+							    	<select id="sel_year" name="birth_year"></select>年
+							        <select id="sel_month" name="birth_mon"></select>月
+							        <select id="sel_day" name="birth_day"></select>日
+						      	</p>
+							</div>
+						</div> -->
+						<div class="space-4"></div>
+						<div class="clearfix form-actions">
+							<div class="col-md-offset-3 col-md-9">
+								<input class="btn btn-info" type="submit" name="sub" value="添加">
+									<!-- <i class="icon-ok bigger-110"></i>
+									添加 -->
+								</input>
+
+								&nbsp; &nbsp; &nbsp;
+								<button class="btn" type="reset" name="reset">
+									<!-- <i class="icon-undo bigger-110"></i> -->
+									重置
+								</button>
+							</div>
+						</div>
+					</form>
+					<!-- <div class="hr hr-24"></div> -->
+						
+					</div><!-- PAGE CONTENT ENDS -->
+				</div><!-- /.row -->
+		</div><!-- /.page-content -->
+	</div><!-- /.main-content -->
+</block>

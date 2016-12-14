@@ -1,0 +1,615 @@
+[ 2016-08-04T09:50:33+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T09:50:45+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T09:50:59+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T09:52:02+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T10:19:19+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T10:19:23+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T10:22:20+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T10:22:21+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T10:22:37+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T10:23:22+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T10:23:34+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T10:28:43+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T10:28:45+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-04T11:13:36+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T11:13:40+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T11:13:42+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T11:13:46+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T12:03:19+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T12:03:24+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T12:07:08+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T12:07:11+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T12:11:10+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T12:11:11+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T12:11:20+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T12:12:51+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T12:12:53+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T12:12:54+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T12:12:58+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T12:13:26+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T12:13:27+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T12:13:30+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T12:14:08+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T12:14:09+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T12:18:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T13:34:14+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T13:34:17+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T13:34:27+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T13:42:53+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T14:30:31+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T14:32:02+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T14:32:31+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T14:32:56+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T14:33:07+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T14:33:13+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T14:34:49+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T14:34:53+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T14:35:40+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T14:41:16+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T14:41:28+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/ZiB0B2kMqrhf2sqwtfgdm3EPIjJ_MqreyuBr-8OGEcc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T14:41:48+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T14:41:55+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T14:42:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/ADPrWeTUJ70RORnyHnTyYiRELyWTIgCapsYECr6CRdM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:01:44+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:01:50+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:02:34+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:02:58+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:03:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/0mEInN_4RqS13JtsamA51RJWzVIe_cmaRy9YAL_wqDI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:06:35+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:06:39+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:07:22+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:15:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:26:28+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:26:30+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:26:32+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:27:19+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:27:24+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/2Kw5u2Ug7rPAZzWuaFfdqxXhTvvWDEVXBwWLIuj8Xpw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:27:27+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:27:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/4bX64fFRnYI9T0lBjcl1UX9zZ-zViu3lBNFAELVnN1g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:27:32+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:27:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/kQ3eccBLRDvCbxyIET5sFD2Ouuj0iEXWdSImzHTH84M
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:27:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/17EIdifja7e98TyNbDKQZ-J9TJxxRtLgqzoXyOv53aE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:27:56+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:28:00+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:29:16+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:31:37+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:31:54+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:32:02+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:32:09+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/0CXwjwtNIQyA2h_sptvNovW_dW3mgbX_0B4yJAuaWg4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:32:14+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:32:28+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:32:32+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:32:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/u-LPuHjIJU1T0SZv4sL3P_W_dW3mgbX_0B4yJAuaWg4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:33:07+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:33:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/OciQKClCgk-XMdmDY25orKykdedOCkOCKVZCNqdKZz8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:33:40+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:35:13+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:48:07+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:48:08+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:48:11+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/bpy8L1lYHUaFMkMfXvKk7gpnBACM3MkiKEjkZwE9Vy4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:48:15+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T15:48:18+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T15:48:20+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T16:56:06+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T16:56:31+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T16:56:51+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:34:35+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:36:18+08:00 ] 127.0.0.1 /gamenoll.com/index.php/News/details?id=52
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:36:42+08:00 ] 127.0.0.1 /gamenoll.com/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:36:49+08:00 ] 127.0.0.1 /gamenoll.com/index.php/News/details?id=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:40:14+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T17:40:34+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:40:42+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/ImCPr71Z0LX7BIUak0csOL9VmqqsY2JUwPHk9s6ySvA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T17:40:46+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:41:24+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:41:26+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:41:29+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:41:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/L_2aCjZA1TCuzqMjjTJAAX0iMU2YgrDUTDg5l_gTRw0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T17:41:37+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:42:37+08:00 ] 127.0.0.1 /gamenoll.com/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T17:42:38+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:42:48+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T17:42:50+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:42:53+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:43:12+08:00 ] 127.0.0.1 /gamenoll.com/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:43:13+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:43:16+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T17:43:57+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T18:04:01+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Pay/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T18:04:06+08:00 ] 127.0.0.1 /gamenoll.com/index.php/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T18:13:08+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Pay/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T18:13:12+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Faq/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T18:13:15+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Help/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T18:13:21+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+

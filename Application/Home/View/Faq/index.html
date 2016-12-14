@@ -1,0 +1,98 @@
+<extend name="Public:layout" />
+<block name="main-layout">
+    <!-- container -->
+    <div id="container_home">
+            <!-- content -->
+            <div id="content_list">
+                <div class="cont_list_left">
+                    <p class="cont_list_tt">よくある質問<a href="#" style=" float:right; margin-right:20px; color:#fff;">トップ >> お知らせ</a></p>   
+                    <div class="cont_list_bot">
+                    <foreach name="faq" item="faq">
+                        <table class="ask">
+                              <tr>
+                                  <td style=" width:38px; height:38px;"><img src="__PUBLIC__/home/img/ask.jpg" width="25" height="25"  alt=""/></td>
+                                  <td class="ask_tt">{$faq.title}</td>
+                              </tr>
+                              <tr>
+                                  <td style=" vertical-align:top"><img src="__PUBLIC__/home/img/answer.jpg" width="25" height="25"  alt=""/></td>
+                                  <td class="answer_tt">{$faq.content}</td>
+                              </tr>
+                        </table>
+                    </foreach>
+                    <div style="float:right;margin-right:20px;">{$page}</div>
+                    </div>
+                </div>
+                <div class="cont_list_right">
+                     <div class="con_right">
+                      <?php if($_SESSION['isLog'] == 2 || !empty($_SESSION['userinfo']['loginname'])){  ?>
+                      <div class="user_box_02">
+                          <p class="user_box_tt"><em>{$Think.session.userinfo.loginname}</em><span>様</span><a href="{:U('Index/logout',"'id'=$id")}">ログアウト</a></p>
+                          <p style=" width:320px !important; margin:5px auto 0 auto; height:20px; text-align:center;">
+                                 <select class="user_box_choice">
+                                      <option value="1">ブラウザプロ野球..</option>
+                                      <option value="2">ブラウザプロ野球..</option>
+                                      <option value="3">ブラウザプロ野球..</option>
+                                      <option value="4">ブラウザプロ野球..</option>
+                                 </select>
+                                 <select class="user_box_choice" style="color:#999;">
+                                      <option value="1">服务器</option>
+                                      <option value="2">服务器</option>
+                                      <option value="3">服务器</option>
+                                      <option value="4">服务器</option>
+                                 </select>
+                          </p>
+                          <p style=" width:150px; height:25px; margin:5px auto 10px auto;"><a class="user_box_btn" href="#">ゲームへ</a></p>
+                          <p style=" width:180px; height:19px; margin:5px auto 5px auto; display:block; padding:0 10px; background:#875921; text-align:center; line-height:19px; border-radius:18px; color:#fff;">RC残高:<span>{$rc}</span></p>
+                          <p class="link_11"><a href="__APP__/Reg">無料会員登録</a>|<a href="{:U('Pay/index')}">RCチャージ</a></p>
+                      </div>
+                      <?php }else{?> 
+                      <div class="uesr_box">
+                          <form action="__APP__/Index/dologin" method="post">
+                          <table class="dl_01">
+                               <tr>
+                                    <td><input type="text" name="loginname" value="ID" onfocus="javascript:if(this.value=='ID')this.value='';" class="dl_input"></td>
+                                    <td rowspan="2"><input type="submit" name="sub" class="dl_btn" value="ログイン<"></td>
+                               </tr>
+                               <tr>
+                                    <td><input type="password" name="password" value="PASSWORD" onfocus="javascript:if(this.value=='PASSWORD')this.value='';" class="dl_input"></td>
+                               </tr>
+                          </table>
+                          </form>
+                          <p class="link_09"><a href="__APP__/Reg">無料会員登録</a>|<a href="#">RCチャージ</a></p>
+                      </div>
+                      <?php }?>
+                          <!-- <p style=" margin-top:5px;">Open ID ご利用な方</p>
+                          <p class="link_10">
+                               <a href="#" class="weblink_01"></a>
+                               <a href="#" class="weblink_02"></a>
+                               <a href="#" class="weblink_03"></a>
+                               <a href="#" class="weblink_04"></a>
+                               <a href="#" class="weblink_05"></a>
+                               <a href="#" class="weblink_06"></a>
+                          </p> -->
+                          <div id="slideBox" class="slideBox3">
+                                <div class="hd">
+                                    <ul><li></li><li></li><li></li><li></li></ul>
+                                </div>
+                                <div class="bd">
+                                    <ul>
+                                      <foreach name="sideplaypic" item="sideplaypic">
+                                        <li><a href="#" target="_blank"><img src="__PUBLIC__/{$sideplaypic.image}" /></a></li>
+                                      </foreach>
+                                        <!-- <li><a href="#" target="_blank"><img src="__PUBLIC__/home/img/img_10.png" /></a></li>
+                                        <li><a href="#" target="_blank"><img src="__PUBLIC__/home/img/img_10.png" /></a></li>
+                                        <li><a href="#" target="_blank"><img src="__PUBLIC__/home/img/img_10.png" /></a></li>
+                                        <li><a href="#" target="_blank"><img src="__PUBLIC__/home/img/img_10.png" /></a></li> -->
+                                    </ul>
+                                </div>
+                            </div>
+                    <script type="text/javascript">
+                    jQuery(".slideBox3").slide({mainCell:".bd ul",autoPlay:true});
+                    </script>
+                     </div>
+                </div>
+            </div>
+            <!-- //content -->
+    </div>
+    <!-- //container -->
+</block>

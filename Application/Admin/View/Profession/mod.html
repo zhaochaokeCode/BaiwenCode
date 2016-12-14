@@ -1,0 +1,166 @@
+<extend name="Public:layout" />
+<block name="main-content">
+	<div class="main-content">
+		<div class="breadcrumbs" id="breadcrumbs">
+			<script type="text/javascript">
+				try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+			</script>
+
+			<ul class="breadcrumb">
+				<li>
+					<i class="icon-home home-icon"></i>
+					<a href="#">首页</a>
+				</li>
+
+				<!-- <li>
+					<a href="#">用户管理</a>
+				</li>
+				<li class="active">添加用户</li> -->
+			</ul><!-- .breadcrumb -->
+
+			<div class="nav-search" id="nav-search">
+				<form class="form-search">
+					<span class="input-icon">
+						<input type="text" placeholder="搜索 ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+						<i class="icon-search nav-search-icon"></i>
+					</span>
+				</form>
+			</div><!-- #nav-search -->
+		</div>
+
+		<div class="page-content">
+			<div class="page-header">
+				<h1>
+					资料管理
+					<small>
+						<i class="icon-double-angle-right"></i>
+						修改职业信息
+					</small>
+				</h1>
+			</div><!-- /.page-header -->
+
+			<div class="row">
+				<div class="col-xs-12">
+					<!-- PAGE CONTENT BEGINS -->
+
+					<form action="__CONTROLLER__/modpro" method="post" class="form-horizontal" role="form" enctype="multipart/form-data">
+						<input type="hidden" value="{$data.id}" name="id">
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 职业名 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="name" id="form-field-1" placeholder="职业名" value="{$data.name}" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 武器 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="weapon" id="form-field-1" placeholder="武器" value="{$data.weapon}" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 特性 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="charater" id="form-field-1" placeholder="特性" value="{$data.charater}" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 门派属性 </label>
+							<div class="col-sm-9">
+								<select name="property" id="">
+									<option value="{$data.property}">{$data.property}</option>
+									<option value="金">金</option>
+									<option value="木">木</option>
+									<option value="水">水</option>
+									<option value="火">火</option>
+									<option value="土">土</option>
+								</select>
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 克制门派 </label>
+
+							<div class="col-sm-9">
+								<select name="restrain" id="">
+									<foreach name="profession" item="info">
+										<option value="{$info.name}"
+										<if condition="$info.name eq $data['restrain'] ">selected</if>
+										>{$info.name}</option>
+									</foreach>
+								</select>
+								
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 操作难度 </label>
+
+							<div class="col-sm-9">
+								<select name="difficulty" id="">
+									<option value="{$data.difficulty}">{$data.difficulty}</option>
+									<option value="1">1</option>
+									<option value="2">2</option>
+									<option value="3">3</option>
+									<option value="4">4</option>
+									<option value="5">5</option>
+								</select>
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 封面图 </label>
+
+							<div class="col-sm-9">
+								<input type="file" name="cover">
+								<input type="hidden" name="old_cover" value="{$data.cover}">
+								<img src="__PUBLIC__/{$data.cover}" alt="" width="100" height="100">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 视频 </label>
+							
+							<div id="birth" class="col-sm-9">
+						   		<input type="file" name="view" >
+						   		{$data.view}
+						   		<input type="hidden" name="old_view" value="{$data.view}">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 技能小图标 </label>
+
+							<div class="col-sm-9">
+								<input type="file" name="icon">
+								<input type="hidden" name="old_icon" value="{$data.icon}">
+								<img src="__PUBLIC__/{$data.icon}" alt=""  width="100" height="100">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 简介 </label>
+
+							<div class="col-sm-9">
+								<textarea name="desc" id="" cols="44" rows="10">{$data.desc}</textarea>
+							</div>
+						</div>
+						<div class="space-4"></div>
+						<div class="clearfix form-actions">
+							<div class="col-md-offset-3 col-md-9">
+								<input class="btn btn-info" type="submit" name="submit" value="修改">
+									<!-- <i class="icon-ok bigger-110"></i>
+									添加 -->
+								</input>
+
+								&nbsp; &nbsp; &nbsp;
+								<button class="btn" type="reset" name="reset">
+									<!-- <i class="icon-undo bigger-110"></i> -->
+									重置
+								</button>
+							</div>
+						</div>
+					</form>
+					<!-- <div class="hr hr-24"></div> -->
+						
+					</div><!-- PAGE CONTENT ENDS -->
+				</div><!-- /.row -->
+		</div><!-- /.page-content -->
+	</div><!-- /.main-content -->
+</block>

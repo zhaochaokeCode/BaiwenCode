@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style>
+body{padding:200px;}
+.notice{font-size:12px; width:500px; padding:20px; border:1px dotted #ccc; list-style:none;}
+.notice li{line-height:25px; border-bottom:1px dotted #ccc;}
+.notice img{margin-right:10px;}
+.notice span{float:right;}
+</style>
+</head>
+
+<body>
+<ul class="notice">
+<foreach name="news" item="news" key="k">
+	<li>
+		<if condition="$news.type eq '活动' "><img src="__PUBLIC__/img/ico_event.png" />
+		<elseif condition="$news.type eq '维护' "/><img src="__PUBLIC__/img/ico_maintenance.jpg" />
+		<elseif condition="$news.type eq '通知' "/><img src="__PUBLIC__/img/ico_notice.png" />
+		</if>
+		<a href="__CONTROLLER__/details?id={$news.id}" class="news bg">{$news.title}</a><span class="date">{$news.createtime|msubstr=0,10,'utf-8',false}</span><?php if($k < 3){ ?><img src="__PUBLIC__/home/img/img_14.jpg" alt=""/><?php } ?>
+	</li>
+</foreach>
+</ul>
+</body>
+</html>

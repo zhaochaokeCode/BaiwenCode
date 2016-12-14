@@ -1,0 +1,328 @@
+
+body{
+	font-size: 16px;
+}
+
+.header{
+	width: 100%;
+	height:400px;
+	background: url(../images/bg5.jpg) no-repeat;
+	background-size: cover;
+	-webkit-background-size:cover;
+	background-position:center 0 ;
+}
+
+
+
+
+
+.new{
+	background:url(../images/bg6.jpg) no-repeat;
+	background-size: cover;
+	-webkit-background-size:cover;
+	background-position:center 0 ;
+	width: 100%;
+	overflow: hidden;
+}
+
+.fluid-right{
+	width: 332px;
+	overflow: hidden;
+	background-color: #f8f7f5;
+	float: right;
+	margin-top: 230px;
+}
+.hot{
+	overflow: hidden;
+	margin-bottom: 40px;
+}
+.xiaz{
+	margin:40px 0 23px 18px;
+}
+
+.sys{
+	margin:0 auto 40px;
+}
+
+.luobo-img img{
+	margin:23px auto 0;
+}
+
+
+
+.yuan{
+	float: left;
+
+}
+
+.caption{
+	overflow: hidden;
+	display: flex;
+	margin-bottom: 23px;
+}
+.caption h4{
+	flex:1;
+	margin-left: 18px;
+
+}
+.caption p{
+	margin-left: 142px;
+
+}
+.clearfix a{
+	float: left;
+	color: #333;
+	font-size: 0.75em;
+}
+.clearfix img{
+	float: right;
+	margin-left: 15px;
+}
+
+.head{
+	overflow: hidden;
+}
+.head dl{
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.head-tu2{
+	margin-right: 0;
+}
+.head dl dd {
+	text-align: center;
+	margin:8px 0 10px 0;
+	font-size: 0.75em;
+	color: #666;
+}
+
+.head-c{
+	background-color: #f6f3f2;
+	border-radius: 10px;
+	margin-top: 12px;
+
+}
+.head-c dl{
+	height: 50px;
+}
+.head-c dl dt{
+	margin-left: 10px;
+	float: left;
+}
+.head-c dl dd{
+	float: right;
+}
+
+
+.head-c dl{
+	padding-top:21px;
+}
+.hp{
+	line-height: 20px;
+	width: 261px;
+}
+.hp h4{
+	color: #ec4727;
+	margin-top:9px;
+	font-size: 0.75em;
+}
+.hp p{
+	color: #333;
+	font-size: 0.875em;
+}
+.head-c dl dd span{
+	color: #999;
+	font-size: 0.75em;
+}
+
+.offic{
+	display: flex;
+
+}
+.erweima{
+	flex:1;
+	margin-left: 29px;
+}
+.erweima2{
+	margin-right: 30px;
+}
+.gzh{
+	margin:10px auto 49px;
+}
+.guanf{
+	margin-top: 40px;
+	margin-bottom: 23px;
+}
+
+
+
+
+
+.footer{
+	height:70px;
+	width: 100%;
+	background-color: #22313f;
+	/*margin-top: 70px;*/
+}
+.footerText {
+	width: 1200px;
+	height: 47px;
+	margin: 0 auto;
+	color:#53616e;
+	text-align: center;
+	padding-top: 23px;
+	font-size: 0.75em;
+
+}
+
+
+/*------------------new------------------------*/
+
+
+.span10 h2 span{
+	font-size: 0.875em;
+	color:#f6dad5;
+}
+/*----------------------------------------*/
+.featured-left a:hover h4{
+	background: #ed593e;
+	color: #fff;
+	font-size: 0.875em;
+}
+
+
+.featured-right h4 a:hover{
+	color: #ed593e;
+}
+/*------------------------------------------*/
+.picImg{
+	position:relative;
+}
+.picImg .slide{
+	position: absolute;
+	top:60px;
+	display: none;
+}
+
+
+
+/*----------------------nav--------------------------*/
+.navbar{
+	width:1252px;
+	height: 138px;
+	margin:0 auto;
+	padding-top:30px;
+	display: flex;
+}
+
+
+.brand-center{
+	flex:1;
+	position: relative;
+}
+
+.logo{
+	position: absolute;
+	left:0;
+}
+
+
+.icon{
+	margin:0 28px;
+	color:#434547;
+}
+.tj{
+	margin-left: 23px; 
+	display: none;
+}
+
+
+.tj-block{
+	display: block;
+	margin-left: 23px; 
+}
+
+
+
+.nav{
+	float: left;
+}
+.nav1{
+	width:563px;
+	height:51px;
+}
+.nav-left{  
+	 float:left; 
+  }
+.nav-left li{
+	float:left;
+	 z-index:99;
+
+	}
+.nav-left li a {
+	 font-size:0.875em; 
+	 font-weight: 900;
+}
+
+
+.nav-left .drop{
+	position: relative;
+}
+.shouye a{
+	color:#fff;
+}
+
+.sub_menu{
+	width: 180px; 
+	height:428px;
+	background: #3395a8;
+	position:absolute;
+	top:25px;
+	left: -92px;
+	right:0;
+	z-index: 130;
+	display: none;
+
+}
+
+.jiantou{
+	position: absolute;
+	top:-8px;
+	left: 121px;
+	z-index: 999;
+}
+
+
+.sub_menu p{
+	text-align: center;
+	font-size: 0.875em;
+	color: #024653;
+}
+.appluntan a{
+	display: block;
+	width: 48px;
+	height:48px;
+	margin:25px auto 9px;
+	background: url(../images/appluntan.png);
+}
+
+.appluntan a:hover {
+	background-image:url(../images/appImg.png);
+	margin-top: 25px;
+}
+.officialForum{
+	margin-bottom: 17px;
+}
+.officialForum2{
+	margin-bottom: 10px;
+}
+.officialForum3{
+	margin-bottom: 10px;
+}
+.sub_menu .officialForum4{
+	font-size: 0.75em;
+	color: #d1f4fe;
+	margin-bottom: 5px;
+}

@@ -1,0 +1,106 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title></title>
+<link rel="stylesheet" type="text/css" href="/gamenoll.com/Public/home/css/style.css">
+</head>
+<body>
+<div id="wrap">
+    <!-- header -->
+    <div id="header">
+        <div class="header_in">
+             <a href="<?php echo U('index/index');;?>" class="logo"><img src="/gamenoll.com/Public/home/img/logo.jpg" alt=""/></a>
+             <p class="link_01">
+                 <a href="<?php echo U('Login/index');?>">ログイン</a>
+                 <a href="/gamenoll.com/index.php/Reg">無料会員登録</a>
+             </p>
+        </div>
+  </div>
+    <!-- //header -->
+    <!-- container -->
+    <div id="container">
+            <!-- content -->
+            <div id="content">
+                 <p class="nav_box">
+                     <a href="#" class="nav_01 act"><em>01</em>メールアドレス入力</a>
+                     <a href="#" class="nav_02"><em>02</em>会員情報入力</a>
+                     <a href="#" class="nav_03"><em>03</em>会員情報確認</a>
+                     <a href="#" class="nav_04"><em>04</em>登録完了</a>
+                 </p>
+                 <div class="send_box">
+                     <p class="tt_01">登録メールアドレス</p>
+                     <table class="name_box">
+                           <tr>
+                               <td class="name_act"><em class="name_01">メールアドレス</em></td>
+                               <td><span class="name_input"><input type="email" name="email" value="<?php echo ($reg["email"]); ?>" onfocus="javascript:if(this.value=='{kimura2988@g-mail.com}')this.value='';" disabled></span></td>
+                           </tr>
+                     </table>
+                     <p class="tt_06">アカウント</p>
+                     <table class="name_box">
+                           <tr>
+                               <td class="name_act"><em class="name_01">メールアドレス</em></td>
+                               <td><span class="name_input"><input type="text" name="loginname" value="<?php echo ($reg["loginname"]); ?>" onfocus="javascript:if(this.value=='kimura2988@g-mail.com')this.value='';" disabled></span></td>
+                           </tr>
+                           <tr>
+                               <td class="name_act"><em class="name_01">ニックネーム</em></td>
+                               <td><span class="name_input"><input type="text" name="nicename" value="<?php echo ($reg["nicename"]); ?>" onfocus="javascript:if(this.value=='kimura2988@g-mail.com')this.value='';" disabled></span></td>
+                           </tr>
+                           <!-- <tr>
+                               <td class="name_act"><em class="name_01">お名前</em></td>
+                               <td><span class="name_input"><input type="text" name="" value="<?php echo ($reg["surname"]); echo ($reg["name"]); ?>" onfocus="javascript:if(this.value=='kimura2988@g-mail.com')this.value='';" disabled></span></td>
+                           </tr>
+                           <tr>
+                               <td class="name_act"><em class="name_01">ふりがな</em></td>
+                               <td><span class="name_input"><input type="text" name="" value="<?php echo ($reg["sur_name"]); echo ($reg["pname"]); ?>" onfocus="javascript:if(this.value=='kimura2988@g-mail.com')this.value='';" disabled></span></td>
+                           </tr> -->
+                           <tr>
+                               <td class="name_act"><em class="name_01">性別</em></td>
+                               <td><span class="name_input"><input type="text" name="sex" value="<?php echo ($reg['sex'] == 0 ? '男' :'女'); ?>" onfocus="javascript:if(this.value=='kimura2988@g-mail.com')this.value='';" disabled></span></td>
+                           </tr>
+                           <tr>
+                               <td class="name_act"><em class="name_01">生年月日</em></td>
+                               <td><span class="name_input"><input type="text" name="" value="<?php echo ($reg["birth_year"]); ?>年<?php echo ($reg["birth_mon"]); ?>月<?php echo ($reg["birth_day"]); ?>日" onfocus="javascript:if(this.value=='kimura2988@g-mail.com')this.value='';" disabled></span></td>
+                           </tr>
+                     </table>
+                     <form action="/gamenoll.com/index.php/Reg/infoverify" method="post">
+                   <div class="ty">
+                     <p class="tt_01" style=" border:none !important; font-size:16px;">インフォメーションメール設定</p>
+                   </div>
+                     <table class="name_box">
+                           <tr>
+                               <td class="name_act"><em class="name_01">受信設定</em></td>
+                               <td><span class="name_input"><input type="search" value=" GMAENOLLインフォメーションメールを受信しない" onfocus="javascript:if(this.value=='kimura2988@g-mail.com')this.value='';" disabled></span></td>
+                           </tr>
+                           </table>
+                     <ul class="btn_08" style=" margin-top:15px !important;">
+                          <li class="xg">
+                            <a href="#" class="btn_01"></a>
+                            <a href="#" onClick="javascript :history.back(-1);" class="btn_02">修正する</a>
+                          </li>
+                          <!-- <li class="dl"> -->
+                            <!-- <a href="#" class="btn_01"></a> -->
+                            <!-- <a href="#" class="btn_02">登録する</a> -->
+                            <input type="submit" name="submit" class="btn_04" style="border:none;color: #fff;font-size: 16px;" value="登録する">
+                          <!-- </li> -->
+                     </ul>
+                     </form>
+                 </div>
+            </div>
+            <!-- //content -->
+    </div>
+    <!-- //container -->
+    <!-- footer -->
+    <div id="footer">
+        <div class="footer_in">
+         <div style="margin:0 auto;width:auto;">
+            <a href="#" class="logo_bot"><img src="/gamenoll.com/Public/home/img/logo_bot.jpg" alt=""/></a> <div class="foot_wz" style="width:500px;height:84px;line-height:84px;overflow:hidden;">人生を楽しくする楽しいゲームならゲームノール！BeiJing Gamenoll Technology Co.,Ltd.</div>
+         </div>
+        </div>
+    </div>
+    <!-- //footer -->
+</div>
+</body>
+</html>

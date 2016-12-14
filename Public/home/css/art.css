@@ -1,0 +1,138 @@
+.container-fluid{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+.row-fluid{
+	width: 1156px;
+	overflow: hidden;
+	float: left;
+	margin-left: 382px;
+}
+
+.span10 h2{
+	text-align: center;
+	padding-top: 50px;
+	color:#ed593e;
+	font-size: 1.875em;
+
+}
+.message{
+	display: flex;
+	margin-left: 266px;
+	margin-bottom: 40px;
+}
+.news1{
+	margin-right: 18px;
+	z-index: 99;
+}
+.news2{
+	margin-top:59px; 
+}
+
+.row-news{
+	border-top:1px solid #e7e7e7;
+	width:1156px;
+}
+
+
+.center{
+	height: 1530px;
+	width: 1156px;
+	padding-top: 35px;
+	position: relative;
+}
+.headCenter{
+	height:1419px;
+}
+.center .popup{
+	width: 1300px;
+	height: 1088px;
+	background: #fff;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	visibility: hidden;
+}
+.center .popup div{
+	text-align: center;
+}
+.center .popup div:nth-child(1){
+	margin-top: 72px;
+	margin-bottom: 42px;
+	color: #333333;
+	font-size: 26px;
+}
+.center .popup .popupPage{
+	margin-top: 27px;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+.center .popup .popupPage span{
+	color: #ed593e;
+	font-size: 26px;
+}
+.center .popup .popupSimg{
+	width: 974px;
+	height: 145px;
+	border-radius: 5px;
+	margin: 0 auto;
+}
+.center .popup .popupSimg ul li{
+	float: left;
+	width: 114px;
+	padding-top: 4px;
+}
+.center .popup .popupSimg ul .popupBtn{
+	width: 40px;
+	height: 145px;
+	border-radius: 5px;
+	line-height: 145px;
+	font-size: 24px;
+	color: #fff;
+}
+.center .popup .popupSimg ul .popupBtnRight{
+	background: #414c5d;
+}
+.center .popup .popupSimg ul .popupBtnLeft{
+	background: #ec4727;
+}
+
+.headCenter ul li{
+	float: left;
+}
+.headCenterLi{
+	margin-left: 56px;
+}
+.headCenterTu{
+	margin: 0 40px;
+}
+
+.headCenter ul li span{
+	text-align: center;
+	display: block;
+	margin-top: 9px;
+	margin-bottom: 38px;
+	font-size: 0.875em;
+	color: #666;
+}
+
+
+
+.qiehuan{
+	width: 265px;
+	margin:40px auto 0;
+	display: flex;
+}
+.qieh{
+	flex:1;
+}
+
+.center .qiehuan .popupPage{
+	margin: 0 27px;
+}
+.center .qiehuan .popupPage span{
+	color: #ed593e;
+	font-size: 26px;
+}

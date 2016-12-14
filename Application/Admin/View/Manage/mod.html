@@ -1,0 +1,115 @@
+<extend name="Public:layout" />
+<block name="main-content">
+	<div class="main-content">
+		<div class="breadcrumbs" id="breadcrumbs">
+			<script type="text/javascript">
+				try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+			</script>
+
+			<ul class="breadcrumb">
+				<li>
+					<i class="icon-home home-icon"></i>
+					<a href="#">首页</a>
+				</li>
+
+				<!-- <li>
+					<a href="#">管理员管理</a>
+				</li>
+				<li class="active">编辑管理员</li> -->
+			</ul><!-- .breadcrumb -->
+
+			<div class="nav-search" id="nav-search">
+				<form class="form-search">
+					<span class="input-icon">
+						<input type="text" placeholder="搜索 ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+						<i class="icon-search nav-search-icon"></i>
+					</span>
+				</form>
+			</div><!-- #nav-search -->
+		</div>
+
+		<div class="page-content">
+			<div class="page-header">
+				<h1>
+					管理员管理
+					<small>
+						<i class="icon-double-angle-right"></i>
+						编辑管理员
+					</small>
+				</h1>
+			</div><!-- /.page-header -->
+
+			<div class="row">
+				<div class="col-xs-12">
+					<!-- PAGE CONTENT BEGINS -->
+
+					<form action="__CONTROLLER__/mod" method="post" class="form-horizontal" role="form" enctype="multipart/form-data">
+						<input type="hidden" name="id" value="{$admins['id']}">
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 用户名 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="username" value="{$admins['username']}" id="form-field-1" placeholder="用户名" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 密码 </label>
+
+							<div class="col-sm-9">
+								<input type="password" name="password"  value="{$admins['password']}" id="form-field-1" placeholder="密码" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 确认密码 </label>
+
+							<div class="col-sm-9">
+								<input type="password" name="repwd"  value="{$admins['password']}" id="form-field-1" placeholder="确认密码" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 头像 </label>
+
+							<div class="col-sm-9">
+								<input type="file" name="avatar" value="{$admins.avatar}" id="form-field-1" placeholder="LOGO" class="col-xs-10 col-sm-5" style="width:150px;" /><img src="__PUBLIC__/{$admins.avatar}" style="width:183px;height:66px;">
+							</div>
+						</div>
+
+						<!-- <div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 管理 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="status" value="{$admins['status']}" id="form-field-1" placeholder="管理" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 类型 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="type" value="{$admins['type']}" id="form-field-1" placeholder="类型" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div> -->
+						
+						<div class="space-4"></div>
+						<div class="clearfix form-actions">
+							<div class="col-md-offset-3 col-md-9">
+								<input class="btn btn-info" type="submit" name="sub" value="修改管理员">
+									<!-- <i class="icon-ok bigger-110"></i>
+									编辑 -->
+								</input>
+
+								&nbsp; &nbsp; &nbsp;
+								<button class="btn" type="reset" name="reset">
+									<!-- <i class="icon-undo bigger-110"></i> -->
+									重置
+								</button>
+							</div>
+						</div>
+					</form>
+					<!-- <div class="hr hr-24"></div> -->
+						
+					</div><!-- PAGE CONTENT ENDS -->
+				</div><!-- /.row -->
+		</div><!-- /.page-content -->
+	</div><!-- /.main-content -->
+</block>

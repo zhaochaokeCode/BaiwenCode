@@ -1,0 +1,153 @@
+<extend name="Public:layout" />
+<block name="main-layout">
+    <!-- container -->
+    <?php if($_SESSION['isLog'] != 2 && empty($_SESSION['userinfo']['loginname'])){ echo "<script>alert('您尚未登录,请先登录!');location.href='__ROOT__/Login';</script>";}?>
+    <div id="container_home">
+            <!-- content -->
+            <div id="content_list">
+                <div class="cont_list_left">
+                    <p class="cont_list_tt">お問い合わせ<a href="#" style=" float:right; margin-right:20px; color:#fff;">トップ >> お知らせ</a></p>   
+                    <div class="cont_list_bot">
+                        <div class="dlqb">
+                            <p style="color:#8c8c8c;">こちらのページから、各種お問い合わせを承っております。下記ボタンより、該当する窓口へお問い合わせください。</p>
+                            <p style="color:#8c8c8c; text-indent:2em;line-height:18px;">受付時間 10:00 ～ 19:00</p>
+                            <p style="color:#8c8c8c; text-indent:2em;line-height:18px;">受付時間外のお問い合わせは、後日対応を行う場合がございますので、あらかじめご了承ください。</p>
+                            <p style="color:#8c8c8c; text-indent:2em;line-height:18px;">お問い合わせの前に、一度「よくある質問」をご確認ください。</p>
+                            <p style="color:#8c8c8c; color:#cb0101;line-height:18px;">※ログインしてください。</p>
+                            <p style=" border-bottom:#ececec 1px solid; border-top:#ececec 1px solid; padding:35px 0 10px 0; margin-top:15px;">お問い合わせ　フォーム</p>
+                            <form action="__CONTROLLER__" method="post" enctype="multipart/form-data">
+                            <input type="hidden" name="email" value="{$_SESSION['userinfo']['email']}" >
+                     <table class="dlqb_list">
+                          <tr>
+                               <td class="list_left">件名</td>
+                               <td><input type="text" name="title" style=" padding:5px 10px;width:290px; height:21px; border:#cdd1d9 1px solid; float:left;"></td>
+                          </tr>
+                          <tr>
+                               <td class="list_left">お名前</td>
+                               <td><input type="text" name="uname" value="{$_SESSION['userinfo']['loginname']}" style=" padding:5px 10px;width:290px; height:21px; border:#cdd1d9 1px solid; float:left;" disabled></td>
+                          </tr>
+                          <tr>
+                               <td class="list_left">ゲーム</td>
+                               <td>                                               
+                                   <select name="game" style="width:310px; height:21px; border:#cdd1d9 1px solid; float:left;">
+                                         <option value="游戏1">游戏1</option>
+                                         <option value="游戏2">游戏2</option>
+                                         <option value="游戏3">游戏3</option>
+                                         <option value="游戏4">游戏4</option>
+                                   </select>
+</td>
+                          </tr>
+                          <tr>
+                               <td class="list_left">サーバー</td>
+                               <td>                                               
+                                   <select name="gameserver" style="width:310px; height:21px; border:#cdd1d9 1px solid; float:left;">
+                                         <option value="服务器1">服务器1</option>
+                                         <option value="服务器2">服务器2</option>
+                                         <option value="服务器3">服务器3</option>
+                                         <option value="服务器4">服务器4</option>
+                                   </select>
+</td>
+                          </tr>
+                          <tr>
+                               <td class="list_left">カテゴリ</td>
+                               <td style=" width:310px;">
+                                    <label><input name="sort[]" type="checkbox" value="游戏相关" />ゲーム関連</label> 
+                                    <label><input name="sort[]" type="checkbox" value="收费关联" />課金関連</label> 
+                                    <label><input name="sort[]" type="checkbox" value="不具合報告" />不具合報告 </label> 
+                                    <label><input name="sort[]" type="checkbox" value="控告检举" />告発・検挙</label> 
+                                    <label><input name="sort[]" type="checkbox" value="意见" />ご意見・ご要望</label> 
+                                    <label><input name="sort[]" type="checkbox" value="其他" />その他</label> 
+                               </td>
+                          </tr>
+                          <tr>
+                               <td class="list_left">お問い合わせ内容</td>
+                               <td><textarea name="content" style=" width:310px; height:175px;"></textarea></td>
+                          </tr>
+                          <tr>
+                               <td class="list_left">添付ファイル</td>
+                               <td><input type="file" name="accessory" style=" padding:5px 10px;width:218px; height:21px; border:#cdd1d9 1px solid; float:left;"><!-- <a href="#" class="id_btn">添  付</a> --><span>附件仅支持图片格式!</span></td>
+                          </tr>
+                     </table>
+                     <p class="btn_04" style=" margin:10px auto 20px auto !important">
+                          <!-- <a href="#" class="btn_01"></a> -->
+                          <input type="submit" name="submit" class="btn_04" style="border:none;color: #fff;font-size: 16px;" value="登録情報確認へ">
+                          <!-- <a href="#" class="btn_02">登録情報確認へ</a> -->
+                     </p>
+                     </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="cont_list_right">
+                     <div class="con_right">
+                          <?php if($_SESSION['isLogin'] == 2 || !empty($_SESSION['userinfo']['loginname'])){  ?>
+                      <div class="user_box_02">
+                          <p class="user_box_tt"><em>{$Think.session.userinfo.loginname}</em><span>様</span><a href="{:U('Index/logout',"'id'=$id")}">ログアウト</a></p>
+                          <p style=" width:320px !important; margin:5px auto 0 auto; height:20px; text-align:center;">
+                                 <select class="user_box_choice">
+                                      <option value="1">ブラウザプロ野球..</option>
+                                      <option value="2">ブラウザプロ野球..</option>
+                                      <option value="3">ブラウザプロ野球..</option>
+                                      <option value="4">ブラウザプロ野球..</option>
+                                 </select>
+                                 <select class="user_box_choice" style="color:#999;">
+                                      <option value="1">服务器</option>
+                                      <option value="2">服务器</option>
+                                      <option value="3">服务器</option>
+                                      <option value="4">服务器</option>
+                                 </select>
+                          </p>
+                          <p style=" width:150px; height:25px; margin:5px auto 10px auto;"><a class="user_box_btn" href="#">ゲームへ</a></p>
+                          <p style=" width:180px; height:19px; margin:5px auto 5px auto; display:block; padding:0 10px; background:#875921; text-align:center; line-height:19px; border-radius:18px; color:#fff;">RC残高:<span>{$rc}</span></p>
+                          <p class="link_11"><a href="__APP__/Reg">無料会員登録</a>|<a href="{:U('Pay/index')}">RCチャージ</a></p>
+                      </div>
+                      <?php }else{?> 
+                      <div class="uesr_box">
+                          <form action="__APP__/Index/dologin" method="post">
+                          <table class="dl_01">
+                               <tr>
+                                    <td><input type="text" name="loginname" value="ID" onfocus="javascript:if(this.value=='ID')this.value='';" class="dl_input"></td>
+                                    <td rowspan="2"><input type="submit" name="sub" class="dl_btn" value="ログイン<"></td>
+                               </tr>
+                               <tr>
+                                    <td><input type="password" name="password" value="PASSWORD" onfocus="javascript:if(this.value=='PASSWORD')this.value='';" class="dl_input"></td>
+                               </tr>
+                          </table>
+                          </form>
+                          <p class="link_09"><a href="__APP__/Reg">無料会員登録</a>|<a href="#">RCチャージ</a></p>
+                      </div>
+                      <?php }?>
+                         <!--  <p style=" margin-top:5px;">Open ID ご利用な方</p>
+                          <p class="link_10">
+                               <a href="#" class="weblink_01"></a>
+                               <a href="#" class="weblink_02"></a>
+                               <a href="#" class="weblink_03"></a>
+                               <a href="#" class="weblink_04"></a>
+                               <a href="#" class="weblink_05"></a>
+                               <a href="#" class="weblink_06"></a>
+                          </p> -->
+                          <div id="slideBox" class="slideBox3">
+                                <div class="hd">
+                                    <ul><li></li><li></li><li></li><li></li></ul>
+                                </div>
+                                <div class="bd">
+                                    <ul>
+                                      <foreach name="sideplaypic" item="sideplaypic">
+                                        <li><a href="#" target="_blank"><img src="__PUBLIC__/{$sideplaypic.image}" /></a></li>
+                                      </foreach>
+                                        <!-- <li><a href="#" target="_blank"><img src="__PUBLIC__/home/img/img_10.png" /></a></li>
+                                        <li><a href="#" target="_blank"><img src="__PUBLIC__/home/img/img_10.png" /></a></li>
+                                        <li><a href="#" target="_blank"><img src="__PUBLIC__/home/img/img_10.png" /></a></li>
+                                        <li><a href="#" target="_blank"><img src="__PUBLIC__/home/img/img_10.png" /></a></li> -->
+                                    </ul>
+                                </div>
+                            </div>
+                    <script type="text/javascript">
+                    jQuery(".slideBox3").slide({mainCell:".bd ul",autoPlay:true});
+                    </script>
+                     </div>
+                </div>
+            </div>
+            <!-- //content -->
+    </div>
+    <!-- //container -->
+</block>

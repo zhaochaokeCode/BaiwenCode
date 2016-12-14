@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/*按钮样式*/
+.ClickMe {
+	border: none;
+	position: absolute;
+	top:110px;
+	left:130px;
+	background: none;
+}
+:focus{
+    outline: 0;
+}
+
+
+.Video-top{
+	height:310px;
+	width:346px;
+	position: relative;
+	margin-bottom: 32px;
+	border: 1px solid #f0f0f0;
+	border-radius: 10px;
+	
+}
+.Video-top  .Video-t img{
+	width:346px;
+	height:310px;
+	border-radius: 10px;
+	
+	
+}
+
+
+#goodcover {
+	position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10000;
+	display: none;
+	background-color: black;
+	-moz-opacity: 0.8;
+	opacity: 0.50;
+	filter: alpha(opacity=80);
+}
+.video_wrap{
+	 width: 800px;
+    height: 520px;
+    background: #000;
+    border: 2px solid #b69a76;
+   /* position: fixed;*/
+    overflow: hidden;
+}
+#code {
+	
+    z-index: 10000;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-left: -100px;
+    margin-top: -5px;
+    display: none;
+}
+
+.close1 {
+	position: absolute;
+    width: 41px;
+    height: 41px;
+    right: -45px;
+    top: 0;
+}

@@ -1,0 +1,2519 @@
+[ 2016-08-17T09:25:22+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:25:24+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:26:12+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQA2DY4JuhmtxPo7iIreVqzAHxgzdL8KW-a9OIJWDClkyVUR67AfXx7DR4Mhw5HfSzxUv7-0P5fEtJq5udAyHPvyl9NlsMgi7tW25bLrc3xj7WEhxV8ZDfTH6xg-_CU25WvA05A1E9VkMQIvlxY_KppsSRW52f9uMQuyyFSFtS8DTxRE1oMmUIPgpi561FrQkcHLOEdYFKP3W8IT-9w4e0QxRSz0tU3QBs6O9UGJqHDCxnqF1_G4-nRYw1FluEFR0iVWizfmq3yTdzldTLoakV7poUhohNVWYqhfuJNEApcaCJRLEW0O543jCPQtaskUAV3VPYRDsAwGK85NSgQ4We3O
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:26:12+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:41:54+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:41:57+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQC1I1YTis3arVTPgGTk5iIToMwIAIA6k4AqztMRhs_HBb8jbftJYg1H4aHVZr70rPnYRY8G5HOaXreYme9aJUwO1uaDBFxIBO7_YFzPFVD3Ippk7rU7PYBT-AuoTEjzcMzwly2SLtSkj6KBOgb_fWte16NkGOnQ0wCfb0Ja_1l8IIEJR8SKXS7tZFlo9gfUaQg6FViJd8JZFpTm1saAMudvhjkzDvV5cmDekvhubO86DtsMie0Y_iwtQkmOixcL7SAO9TtZ7sWfsRTLbef9YZPAAbpOpHnMmAaxbitOOro-aWlc3a0Y5kWU-PaCrw3B3sJkCoM06uIs3S3hxFQLBwWg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:41:57+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:42:00+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:42:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQAEcPxxOTRRhom5F6OY-pzGDihijMGVXXDc1S-CNmM512q15nVCtF7EEluI6ZSP1wA2qqc8dpkGd6p9faeUMlVWNc3u9C4fVc3-35HMe3mi8t8lhWa9bWEw6vmIP45jUKqeDPGJYyGZ0rv7cb7mhi4mjq-hFPRmc9p2jHFnWbqlnPuixbzueBj1FqVYsmKUmcLt0igX74QnuEw8sP7GLasZNhZ-sJ8n6MLI8J0xZlcfTL9obUD3px4Zqq0NmbmF2sDN5mOFLOb28C-_z8LmWgq1-t0Q_aGL0CIlHBmnEv6jWL865KpYMhwp_uG7JR-2c6wuGgrzZgbikZ9qQk_khkvE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:42:03+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:42:06+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:42:10+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:42:12+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQDlaqixVRBfRxtOyAegqJYunYn3gTGDmySrH-q4mW74xnTHp9jyw9eLEk2QM8XLXl0MTsf4E5B_bori2wFz992fX-_VPeqS5OkrdoVlosxAwPcU8FSSPJD5TE5ENCz1HymymoqldRIrP8FiZeBTtr47-J14SMd0i9Weh_7n1NIjEDjOoHsOoJDAkmLXzP5rdU28b2raBwhmn0gyUM04O_-wOnoYhPIP6tiiPg5oXlDtddJ_uNmdP5RJoDWJrS6SMoxIPqwAssvX-LclXN-KjKYxvaIckZPpbhy_W3mM-tykpGmJH9lakgFo9lVqCy6u94azwzzeAdtK5OFPu2MGUYjM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:42:12+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:42:15+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:42:17+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQBA7Y08bhbEvLy20lnW-C9WFn6auHaL997w_BwkKDKSIqqq597bmiER4qX4pBN6PVz74w7mS8nGVUczVO2wlsTbDUpUJl2IHs73bnXkyi4axFzLV9LXPqNZT2_3acU92M2I6QEbflzlLgMESJve9eiQHodeUPBwLAh1oCzbXawPhMV4KZ26twOYvxl5npuvOGfsaNK0n7-zWbi_0eHN4NBbI609KiPaKsKKZtjtSfMrJP1CRnb8Ub7cII-fszRO9fnbM6sXhv4z_IZVHQFXNIqgisVONwaHeC7DB_ZkCVfdJDbrkYjH3EfeLcPHoOLdXx88x6ftZkgAssLhTIdDKoqc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:42:17+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:42:26+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:42:27+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:42:30+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQBQfs_wcGjy8Sx1G-2kBnlj2t8uaH_5PIk2DnveGdmxqgwimnHjmIhzACZq2WE3P49x0XEcWZmU3wz-CVy8-XrdMHdHFxNkg7FPGkwtvjWzfs1TAyp5GcaE9ts_DJovpqtLBQAZsqHt6WeI1R2q5mmAaQrfljy_GFVXtkHH2z_Qr39QY-V1cLE_rSipcw7mub3kjOxZHdTkoVJqeTHz65h2m_Zw3sehJNGSih0N2CfdJ98dPwgb8BDYzbCWaVVRdB9MjPJm6bSUg-EneD-1Nzk-VoesNnH22YsBnBm-c55e3jpF6hY7PAPNu3UZwc1JCN-aRAS-sCpl0Q8be12E9GUq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:42:30+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:44:51+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:44:57+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQCp6YBBxgEabCtJguyTEWkk06cgzP8ZZW8TfVDpLmUnRb2m6dRBugg29SFmcnohHe7cURmNquVPStBG84vYormTZB0DyBqqAmiL8nYDFgrr8VTfL6z-3CFeglNH7eutBmQjB9e5TTcrzqSTyFcsia9Ij5OqKYauOVlLxquxWveR33PQcHTiJivMeR9htO1zifrNGMujQmXJ1n5yYSQblQ5C5Xf9EeedTXGJIdVkl59yDvMQ322Is-HjK6JKVGfLM92Q2TmrX4lOob9QrEEcHjCSlWMFhl5uveesS3w0HwQg9vAtXSN9abEnjE1P93eSsnR1YJrsz6oQFaj17nM3JmK9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:45:56+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:47:02+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:47:03+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:47:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQBJXrcvf14NZke1hqWdBVEOMhcUNkzBHqXb5yICd0dBz_L4SLR5Io9RWNowW00AXKgh83U3BQLkPxtcs4HD1YrYHKfCA-12f7ZweXkcxwoxOqNptriKcIOyvjOsE-0brJ5QkIVk_E6rNtP3_IdKWB0OZhDPZRjHab7EeqfefxOLeliaJ5rCmc_Wp6BNvgD3HIcXu9Eq168Bi8lomj13ApVIx96tVr2gtVRSqKHWvn69I6rkqAF-VsqxgQ85EWwiPiX1IEzZeva9llJrH5dyn_wCxKgA5_GnQjHa6MTLpBi-Iwg-afDsY99gx0NdQqvf6WffGTmwF84JqUteRFLGWPx-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:48:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQBBz3SbGwnHQqD4nWjiciTcId_izdWNRfgQYonxsgixAjJvgcYCQu58Oq1GNOYFWMBIyM5y__xYV1LaeCTL_LAJ0VoJVREFOjpdSRJhItog7PwW-avt1LqeN-wonXGWJfpxlXFgqipejMUkbcVRrivvVnpXEUtjbMjgaTtLYyBFqxVooChH8Watc_eGXoWgb8ceH6lMqVwYp_7OwY3y0ZoX8CvCF6Na8TK18EgZN_BhJRSOx299AzYBxJPh0F29u_NN-ekZMa8BeQQa2WtRrqDr7j610nh8k963K_X9DayOt8Qp-Q-XJ1CDNBm75rreaxv6QEe386o42hkIKAJWw35y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:48:47+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQCsPW-4GCpBcjArdhyMSV7NKE998ya4jhnUgb65xH1_39PH00-vOUpK2yhsl1nXFnDcmpn1jKULsohCrvp_2A56g0p9ayEsW5pxN2uF2hsD8cw8gj5kKx54aJSJHijWMB-UHmkRQV9ahs9iZ_krXHXnBW-gRxSXiUW7wUAn3SdMpG1FnPnznAkI0vwobI-XmvNXQ6Uh1Mm1_HJ_frTlYOUil5QLPXn95AAfiDhVk9YnQTRpIUUgWUR5wbPv_xAmWp4BhlkF46f-VEd0RdWvMDoca8OkSLnwR9_pMGJy0W_UGhFAnWUfoLgXoQdvVgZHiH1IJEfVdoEI5z602tyIjqaW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:48:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:50:23+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:51:11+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=s429uev
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:53:52+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=7bk4upz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:53:53+08:00 ] 127.0.0.1 /index.php/Index/callback/type/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:54:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=et3q4vq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:54:35+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:54:50+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:54:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=u9fuuya
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:54:56+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:55:07+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T09:55:20+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=nxhh9hw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T09:55:58+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=pjkb5tb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:02:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:02:06+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:02:14+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQDD5ssMbmDRTAhw_m9ZTF9wx6rnZn2EwFlQgGjWLkZbX_pspP-tF5GUcTRZmlOazljkR-sZSfhfCTLUaOfBe1MbtAS-yG3Eo_uBSo_H-iUT5rYm1Aq6gVck5BS2dslzm2KCI3nly9MQ4KpIDSpXc5BdmQFK9wxlnD-dPkiXy4c5URUwWkklU-d7wuJw6ZfjDxDZVQLM0BL0_mEdNzfuIJmFexqBCjjzVp7_cFOcmY_Lo9s0CvLtOwXyoASpJwHIeLvnPqKoPUAI-EZKiktH1wK1n6fUW1pmdonDN5To7Vc7WdcNJ0X2I5hBh_XEKv-MrzZTjao5ys0QDLuPh-3Z7DWd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:02:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQDjGdJ6J0gMVx-AzVsxdMBouIQYIGAuWFuOJXTn9iztOIwprcd66__SjxgVEfy1xqnPUZVHSWVUcYiWzQ50-yzeSrcF1TGQPQLHrM85EVitIeKZYIRyaIdxunXoHCMR8LxCyw3yID0heO4G4yifwOu98ZX8r6LAH2rwVs4LhIZ9kPV-71DN28bbw6yWopcfvmfEC8rhjpdZheoodDG2pH2lCx_y-HiGznMyynUSd35Eklkotw4Zg9LUzvXe5u2H9IGWoYLucdGU_kTyBobAwwTE_mfRwdccjFvtQj9rasPZlUwBDk4uNhncmu9r30abxUzC9zl2QLCgdeJbWOt5dZJe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:02:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQCrhUCMKB2mzZTz5ikgPtwQM3XVA493ZOqYekl1MRNDZC00HRuwuzTsWWbcLGZUmydeAoDgsjlnTv2PckUBMM37HHvpI_CU4JB07-9tpZzSHATwF19cnm9HXtHaC8xXoEQ4V2-za3IiXGoSApRCznMX7CeRFmL3Xkw3tZQH3j0aBNkRb3NZu9H4yZihG8y67UGoYW8To60W3tbKV-jk7vqzaEhEDK0yHaTEC89uimAlBptSfD1tOSa9xHUBUrWVkNFIhRQavp2B60xxZa3at43F18Vjr3PjCahXcUBUyMfcHagB-OQldxFwGFWtHgy7sLCQxzslp1GkHGCpQboRR4_E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:02:48+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQDrE9QK8TxE0NxDTy_-tk88DL2tcyENebFFlxbUikqz0_OjWvwSw9mwleBHGSE85RfdrB5LPNNu7WiRLagzFFQQ5evJhdnAzgtzX-Xn0GAvYGehTzrV9O7-nVhsXEIQVlPcemQD_uG1287PtRK2s8PaBimdGbqIafmkriP1mubbvn5_01c6w8BPEMRBkdytQYa0IvmS-lAtWqeWxeKxtZGLa3Q7DtmxLwW3Lv-r3JzcMX3ZPSmAuqJEVLmO7GdaiBRFZFpK7FjvbFpOrPb1sUU8osJVjPFBSkFR_lxBtOeAzrX5ai8gMat2h5K8maWYd05cX4Twqvt7Oq6bXz6R_b3O
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:02:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:17:13+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:17:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQDsSGdpyPDlkWkwYr0QhAdwqiLsPsfMZtdAGx5nYMWRecLX7FJ4e_rDUbSdg6vtja7G3VKLCDBFigDmADR66FIsCGEYRr-huZzhmavVZhW2AVbwbifIb2CEOSFqK1Isn7-wwbxcleNwYuOeTGHzwpgqRgVeooMMYcEe3gRQhi0ZD4SkXHjgep-v9IxS27c2D4l1AwjUkRnVw5s95vLPIF_AtkMv7nXIQZgzIALh8PMpoi4Y21akloAnkY6--xcSIdHhWAlY0Q3FUVbsrBVqX_yd_eku6ki69ZzXlZ4fa9ij6B7koKFUbz-nYvzrqxYVDqg36oKjoZM5LQyJh8tMQGp5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:20:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQBDx9XBCgx-aODAp2KPNutEhKDnRdQMe685oj9Ab2yZTI-8KAFabKp7u4vGPuN7FObGe0x0mE056kIJ3qLoNZF1R59TkzYLscnBR_B_puqzqNJEp6MzLDtrxRqW7uo-iAs290DASuv6LDPIu7dbLvGcM-20kj0eHJS38W-l0mjKUE6ic-SVE6dSHN7nAlKCycjRocEyi1OT7nzh1_9QcP5dscrqb4kpWP0h3BLhh33kaEkQKqpOH85HEFU7uGztWeq05nTB0kUr-YD2EzOuQ3IIsxGrCHkU1vCJVDVoGJ8qsfM67oUAYGuIouPBM4FLEOzT0kcdcNZtsDMUQGToRb_M
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:20:07+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1357855350896647?code=AQAjpIpMevKZFOm2mCHoPC4A571lQjvzQXjgTbnyRtwhRNaZMn926yl1nT9EzKpZR2J3_ANB3QQVSIEHBP_z5Gly3NUvP_oNow_qUYx4WQMIEB-eSok7j-Oxo6SuK-mnyKPDl3nInOyJOVxIJ9NX0pTpeki1upmKf8Rn7ED0YGYy3W22F1WM1scB-TtMGGJeXJH99PeSG5_LEcY8uiLF6JLqfPV4wgnAerY9b9Z5gC_mAaHQFA_hGxSACYt7Q6EpMx7d79PWRKPGseL6W8uFEM82kn5Mo6AW68QggWraDMGG7ly0YX2ikpJ2fxD33uxwUrk027fbHEejhDhw8JLYMLTA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:20:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:20:14+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:20:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQAoVN0sGd4RFq5PoX0Pxspw2B7OAT9QUifYQbjNRQZJ8wXCPzBJs_x5WU5ENdAC5AzuhA93Jg1C7CqhmaejlyJLUx5mjHXYtI2rRtEjVg0O9NrmwURTfqFPQSnVZToKWeMkEq8BQu4u5RTvqdrjV5jrUhjn7EVIsEYyW_nwKTYsG20fW7pDkGL5ncZSEdvNz1GGlknsXrCALIRx3HmWQ234e_o3WaF5sRtW7qzI7ZFRind7I1_YtVjSxnjWjjHTQh05s4hjE29LsnZG75znamh8fK69vJDQA0XDI2K2_pFz9dUEIcsxMWqkT_7hBLsAN6JsncLxFl-pOrjuOxJJLaHW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:20:26+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQAJeB6pcvwyUc2GdksC0jtzyfxp5u6NhaaUcnWzdJV7dD09VdgvzoRPMlXa4abHO50gPEviccoHDhr3jbnh8haDIeOWyMtAjCbhLEjTNcWR5QldoDO9DNoXSYrqwFf2fprZo_vnsSSqRoNla2tbtYrxXDANrOQPlyxTw543Ny8wkfwtZ0SL--ygr_YdV20m_vY843zRfWx5RXyMAJWp6WIdGRkS9B0ntLMyDMEVlCxVI3-0tCb2-YsNUNfUC2V99YQkumnBb4gErgDdTDbxrA7ZtLFOm-mAJx2h-4lN6sWD5vb2S-QkQtv-dKRANmLBv3C0mlHYEFtcufky7-fcPXhl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:20:28+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQDKOpir_pM8dHABZX4lpRtSnl_0cUGID0TZYqK8vI647mlG2nn_uMdamvtx6pzz4NRMrKsPYhLDsjfXqF2pE5GYfp62iCz9fXoOX7b7J_JORi0OJO_0I5kjh5fJ7uMG6hB43sSpe4iV4MD_kU51w20Uh7NcMbUG3W8zbkbW8Bf8aM-Rz8f7uPB_osWlgd8P9YSr5SYpJD_mXt6LrCFSiYyRwcM--TVOjPy3NClCrVE2eoQTisznU2sifutgXE6m8SeO0EiZn__PdbOmzKdHxU_O1WfUaSI6HDVFRwAfeA024TKQlguq-BVcBmujq8sql5twm6SJVZA51V120R0Ab7UV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:20:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQDjkLXWemINfxXgJUisveS2RuhzZzFevLng5qHOyW72h9Q53-tJZw-KLeWEmJURAYFWolQXgQX0J5cup85gJr4gcGyyX8k-oOUYDz5OFUN2AZKdreWeVr7BQsxDjOBjsJJ9yS9Ld8U3Mk70txnXbWyd9CSIrfRQ6VcGOIqx1gn5wpmGD0MtQLGi-Fxma7omiw-C039aW2cHgPBf7Ukdueqd7rM56sVK8iibXYLAqLNYQEN5chXkJrEAoDmBSoKjZqqRUAluox9IwU5oDC7cNQ2vpqZ35k2wwsdFcwp4Jw-XkOI6RNPYxmvBOFRKynhFTRnpB0UYoQYb9czblUiun3Q7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:20:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:21:20+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:21:33+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:22:16+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:22:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=vo3VKQAAAAAAwcHgAAABVpZMH2I&oauth_verifier=0eGHfkvDBbL9mraJgNUk7HW8aj7da0V7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:22:27+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=vo3VKQAAAAAAwcHgAAABVpZMH2I&oauth_verifier=0eGHfkvDBbL9mraJgNUk7HW8aj7da0V7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:22:28+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:22:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=wlSuBwAAAAAAwcHgAAABVpZMTsc&oauth_verifier=41BbdsJsRZ89PD0iZxicy9SVqel4xz2Z
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:22:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=wlSuBwAAAAAAwcHgAAABVpZMTsc&oauth_verifier=41BbdsJsRZ89PD0iZxicy9SVqel4xz2Z
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:22:36+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=wlSuBwAAAAAAwcHgAAABVpZMTsc&oauth_verifier=41BbdsJsRZ89PD0iZxicy9SVqel4xz2Z
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:22:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:22:42+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:22:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=ogyKnQAAAAAAwcHgAAABVpZMhZo&oauth_verifier=f1iHBoXAUOSfwYMbqgwi5xYWvg5x9DDr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:22:45+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:22:51+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:22:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=h8z-vwAAAAAAwcHgAAABVpZMqkk&oauth_verifier=Th1Bj23ppJOcERJDT8UkZncqXwQFbfz8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:22:55+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:23:14+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:23:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:23:31+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:23:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/R2b48RMMLsauQh7mn4FH3Kle9sGHQVOTLJ8FYXVWIpI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:23:54+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:24:06+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=p9e4dwc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-17T10:24:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:25:42+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:27:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:27:21+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:27:24+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=2ewkVAAAAAAAwcHgAAABVpZQxyY&oauth_verifier=dcjf3rxvwxWsU5S7hqIKzbMZNeFEiceG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:27:24+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:27:44+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:28:05+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:28:07+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:28:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQBPJXJT-kVgaoVylaeqN_3L-lRWZejVfPr0o9vKc6av6p-55FzwYj3xEm_N7sFYbSysqauNKvoB9C3BwNE8kXck6NCSC82LKBtUzDHN0lJTeViPGUJ84eOi599cWVhDWUbvPNjxyyYyrVJ7FpPNkinOkcdPrO08Z250VD5gCzqjqLdFBFfyp2cAxEVVrfRUpkleoqvmL69PM9wwIXUzIf7dl7RH_dajOysR7Y7fiep7xzHdFPLcDZr2z-e214fFjjUF7bNL00mphHMWFeYQnDeJkh3LeKtsNvIO3Hjma1-l2GdtzQIa7Cjp976psJH292pD57Cn5T1QF8CbPYHs4U5g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:28:25+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:28:28+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=Cl4S2AAAAAAAwcHgAAABVpZRwPQ&oauth_verifier=NER8PFlIq5LVSfUQJlhmdAIOicLfgqbu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:28:28+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:28:58+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:29:00+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=FaHeoAAAAAAAwcHgAAABVpZSQVE&oauth_verifier=SrAcbGKqjfOfQNcbNXhgdpTGGlJ54Sg1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:37:30+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:37:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=ch3YoAAAAAAAwcHgAAABVpZaE44&oauth_verifier=e1ndGRybK52MYt3x1oAdfhCZZw4LbEvf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:46:16+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:46:19+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQATGFuKQakCYPMMd3ObHcZCVbmno-N3OHOmrfInl1AFdBGeEn1W1TV1AVDc_uzo5bpL2_o7oW7Qu1f24Fu25Bhkx0eFHhorlvnT0Puyb0yAvyIvMlHWwxhCKvgkLPKasWlokvpCN1sz28CYIn0cvjl9LmclKLstSVV6VULwUNgU7XBzZp7kFXto2Lb7dZ3uAs6XpK38Uy7zkns9PaagnNA2ZhXxHGbRxK3Qxnx-Xy8XN0xXb337c6o08NqytY2uZ4C6EApk1maHcCDwtYqWlRaLTsRrGTuRAt8nVN-kDJak81NvAXi7MQfk16NIVXs2ErLJwX9rsJRapHaXx0uQzrQW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:46:22+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:46:56+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=bb7xjff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:46:57+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:47:00+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:47:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=6xg5ah8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:47:06+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:47:09+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:47:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/2LpRi8omAx5rA1-qRuyDgwcfOQUv30itmNHBzMWinwo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:47:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:47:46+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:47:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=EP4gSQAAAAAAwcHgAAABVpZjeMU&oauth_verifier=2pdiRg3TmLxGlyDHkqMXCpAPTaZWNpmz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:48:32+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:48:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQClXCFM-XVKsDSoZTG49GxToWAxc1v0mZLVlFQNikkHkAObPHPqUDPXmSAFR7kz332DoUFHcJDKAzULfyXIAYhVQ1totSE5WgyqBqhuug1ZAy3Jm3NqHpQutTYoAix9JnhrY_PTnQgg0Q4W58tmKaOivXasFadD_U4TT1dgZbBcaxuPL4R3856-F6wMsGItMr1qkxUzXpBSfIAMYvfBkKu0wlTV3kjjxr7ZMUNW8PY6TyR8ja5CJXvnUzxeG9qCSt7nqmmmUQQ32loQINMfZfjNCavOjp3zZntH2aTx5IRWTM4EmZOz5BuebHZNP1nacBPCDpJRgny15JnMXZEgXkSb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T10:50:38+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:51:04+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:51:07+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T10:51:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQCgZGc5VIar6rHCrEdTDIo2Fna7WytPog9apFuiOS3NOvECSv0usVgZb-j54XQWmiOnTRzWXLKqfaaeifG32V6o-pRCBCTVLpibRpu1np07VevjCx7BZQq9lFIPhsvDi1_VapPcY0RPa57T06fcIdkSETN5kG9fIDOkDLJ0FE3n1uwr11OicpKkyezDLiR1Pcc36XXulY6H2lHCh3wKJpv-3DwdHntupTc7aE0HVwMO8BQqlP-5p8RtWTTE4wuLwlQljNY7-qNaikdIEVBZVnXMPsUKq34uE0WP7OEUcy5q3PTkPgxTUsHlrDxXaoJfrQ9zOe0jruqnqusaUsfN8F2i
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:01:28+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:01:30+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQCQQL3WkUp-YfREH9N5OhWVKn4AxkrWG4tafzgbGbOZsHSQGDTH0wsh0jvZWwenGtGp7AIhvwwe5BIDfJCElEv_36DsE710VbcTTn2n83Ju2-GmU3XeAIOXNb3UX1F-YRiSYclQSNuxUzJhHiqbY3DoakTRhLQbzDEaRUp6Jq3JNIXEXQt4esfuWfL94QdHuK94gkllSwajQX-Le6QuJqDnXdJG2gyru9YWn2kqd-uSTX4hN_QlCFmAtTKXRz11ktKHdhHnSXt0QrG4uAQDTtrQdfFjJBrZFhgn9bemqbWlmQNPLJ3eCpR0ZS5Z0bI-pB_xvHwCKt0Xz9SEub-ZgiId
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:03:35+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:03:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQDqwF7AOzkrvl33BLMgJenliBnlrz9C2yPaZ7ztMSthx5NSy_U2CpJey5ZeX2xnLy8TwptJoGlOXFjvgsZ5-NQxoE-Ty7lJ62-tFnhABM3FqolLXO9CeZNjkol9icCsBYzqZwDhhOe2ITbNeoXKnAweRpltXFxq4FN4klB99aejyPbHc740kHpmmCXd_PT0OYdgE3BM3IxTTEiT8mhdYOAeeKVPWwMN1bcAYwi5eQ5lWLShjD0W8Nq5NDAcq7LwxIiN1o4YjDmMDUAJEWg7MC8JRuP3jeyd6T6Khpc0J4ldSEtlNSZNSg9BfCMHcIapfky5NFQ2-2ktgjHY4E1fsp3L
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:04:00+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:04:02+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQCzIrpEOHhGnCYnV2ceiv7RsqnYQ7msCvoIif86jRJT0QHvAXEi3a0UvV3W-_Py5ArjAioB0aWdfEdzWcDVrOpn62u0zE4xj52P1GAaXWSWfojuBXqsmJReMZy1zxD9joX2Gl8cS_dD-W6C6Ey19_tVTUT16FsFWJbB3Q3s2QQzeLaMm1ohYMiw5x0vcb8XScd1LWsk_mK4xE0i8x8NmMybuqBpSOr1KkuisLfS4udD0-z608lDcIl17bfFR7RxJDAMJSwVpBz6JyMpqrEHTFgs-QGC7zFYHBAqLmF7Rzrv-NdprZ_mluI89r1xFL82P58P1_oBjnwadstUpI2zb_8d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:04:13+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:04:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQByf1xTrxv-dp0ukw6rT8jx6jDzw7EeLn5nEVAtGJhqlidLconSbCb8qjTUVCGL5UbCpQGl6wWUTk6aKrbz0zpoMAFiLSLQmnhnx5hRV6Wunk9ZufyjlyRumkQWqvtiLObq5HD5_Pd2DE6xWNwWMRosjYiGPXtqSr6mkPASFKguuxS46X8JvjHiuc_IT2q1YQs0pcRTZXRaaNTF2OxEVU9cVGYbTayYzt5u7NSpcdtqgjZSXEOY9r9Ljfk2_BYoTpfiOQFUeCJlkYVNTKlTHaNZvTXbbKGLUFDHfbBoo6AU6CEwAFQDGJh5XEHllKVivOstakILyM6AkHgtP0tm86Bz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:04:40+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:04:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=BJwP8AAAAAAAwcHgAAABVpZy730&oauth_verifier=4unt0misgFqLIT3w8TrY6V0Ctnpsj1JX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:04:44+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-17T11:04:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQDUFoE_KkLObcsf-RDOxUppLhMuNO-HsNEK1DSkiy4dkGoD6IlhqfZlTrXFnA1gnakGdl8bGWdUB6cj479tDnbipvIs5Ej65CqUDQrR4HYy7Gd0U3n77EwjlYg5MjshqF46d3orONJtSTTIsnp3EyedMEG049Hik26xQIh9Qlr47Zg_N6hjq1TEwiBw97D6wG7fmSpYsJFPNFfIVilnyfVZELoXzmCJjQA7lKLV58pizuOPo3Ttaier9T-CwGgQcPn_WfDC3Jjad7XNKDGumpGeu8b0FNTv4r89DnPZ3r52RZMy8gT-Ey8MnbeXcAGH-zsyoPNVy31KUEI5xKBCZ9SQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:05:03+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:05:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQCBE-UIWJIoSId5FfHu65TTLYLVeyahHP-CfZx7Oo2BMBWVlDwLmanLWCBoU0oEYSomO7w95vIS43qxTowEOvAe2LtnQ6wg2JtfbDaDl2mfuUmLrV7gkmpjbWVe0Y0Z6sAuv98QjGLPeCh2t9q_kG3R3BR3x6cXTYVoKuxYGf2mQfbESVH0qw482-oU4un1vh1G_lYyOlZ_I6z-n8euFdjTadq_r4YQ9V3YjxSXsQ60TgnU2TzeGHb7aA0b8NB0ZDLq9_3EPP-9W60T6pFnWm7tRAuE3UdxN0EutoOYqZzRNogdc8MqSRnXvSb5v7SudGxC0l_C3fbTZIAr8Oxd0N98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:08:17+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:08:19+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQDOBTZkhnReMhUDMgwWXgDMDUi4WIrykPc1YpoOEwxIug071oJ4v1hvj97TsagtYD9k3ALc5Z7dDYXbR__VutUGxBpOj--oZhOdJWSh38uS38VF44jtPvEQLd1ldYP9jnEODiItw_tp-WenqliWP0eRyo9XSp02L3K-eMm-j5csZKRmHLWhItk2NfA7RF0K2r1SSMB0dMrLN3TQHLWr3vV40IDlC6dGASB5CeAM4MccYu22JL7IzehdbKfCKXgGmJRRpsZ973CgXCMLFWsYJ6YFk8mTnyf-W9Fm_ras5-K8nXBKjoH-ELoGjS9drt4B7ejtPbbd1Zy4QmY8LA8bAi73
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:08:42+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:08:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQCZ5vP9e3NcKsr4ZAXCpUcRx4vmdmwpecJ9E2GzI2biAJhQz4MpqDs7cZMaWr-4ruamrQYHQrp07l-JcEvbaQdZCAhcaGTw_NPnk7bLGTtrY6V-UQWh5cxSRqp0S36cGhX8LsaiBKi_YEJQ_8cjwcVXbHA4VM3jX0AsiHgLAizZkIXnLNeiiDlcXnVg-KLIMdCdiK2rh0GBU9vJ51ak6jyfBvwPq_DjcNrgiTlH52HIMKauRNBzf5u-_G1pS_JXXuSBnYz6NlFqtqBncHGKehQTYZYehJwGrB2aHTDcIefm2pTNyxRb_jlZxLNuFT5PFsGUT646PIx8kbpOGa2fWbvS
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:11:15+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:11:17+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQCNAZoXO4JR4C2iEIqv3MiirprHbrpGrwOXLvuu2WqP1WTOQ8BCxwAeI3pDHIXlrypcUyYQKzWlqReyx80pYkrxEJFYdgkUMj-A7mPpQ1Azz8cIVsSJtgXlPB_rnsUNcRYOuu9s57XBqHgvok1j04e4b6kxysHTnkZLwvv1TsoIK7ZQi_j0LcGLuCxT2pRZss6OC2hCEQuDvVAV8GrKKh1rMjnkdw7o_g5bjhNfAFBGo6eGbkOnW7cdc9diXAJ2fVlrNMaH_TFWAf_NVBVBLxScRdR45yTWVqQOD8iYL61peDARD3mu_n9JuKboJ6Lq5E51VJqC0Xc5CzHhvi3L2PO2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:12:07+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:12:09+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQCC1wm8oCteh7HLX8-DNlx45JmqQngmWZOQxd4ycEq1WRu7hYFun55flfnqAw7Hs7L85de9WcTY8vQ8rv-jIfOtC480R0oOPkOO6rSyYfd2xqT9B95jAOVSDCVzv-hz3uBq8ZonzHjBHUEWopuRI8a2cmCugnjcnDgqimkbKmhLwLPdOP2zYBoITnpDGOfIWDEoJeyRGxidRTZJOE4bIKXx7_cmHuc4XgI8-SNET9c3JyDZ7xQTcJUUr14JNAC3RRDlG4wExqvmjbPAEr6AM1NEx9OChwgbf2N9Z_MaYky_C7RAIwlLBO0HeFjfeYALRgrkBaJFJdqTcxPP1VagTwMB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:18:10+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:18:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=DpZDDwAAAAAAwcHgAAABVpZ_S8Y&oauth_verifier=ryjfdrmV7X065td7CQDXmcJIAUMTIcSR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:18:22+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:18:25+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=B86d3wAAAAAAwcHgAAABVpZ_fJM&oauth_verifier=Prs64Nof7NXvoJMrCeTLQKnQowVJRG5c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:18:27+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-17T11:18:27+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:18:28+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:18:28+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:18:30+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:18:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=z2jBLQAAAAAAwcHgAAABVpZ_nBw&oauth_verifier=UWjX4Yzlz7ekrXE5PA7g34LfblF2qCCr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:18:36+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:18:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/Jhgx2zdcYz3lwqDy4GaUBiRM9A2eCoLpzS-4hk4babI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:18:46+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:18:48+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=-QX3MgAAAAAAwcHgAAABVpZ_2PM&oauth_verifier=fEBDiz9ijYIcxY3HWkhg09poKtZCy9z2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:18:51+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:18:54+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQDfDwpq0t8cmYCNlFmp64SncEA0Fp_iPbDbbIL9bPHNuQWJVpcHlj47fKwosrNuopjPSJUyC-5wDNCwlOiA25voM573ChEQqRQJZJaycLCNcaX5TTNzXvYHO63zyJKOfMp7_FD7rKu1XFdZTscsYts7kJXz97lTZOoWEAFu7tdbigCJqnaBVYCAIxxEDENsAe23EGne7JMqrh6SzYlO-xJKWJrCNbIbpbeuNxwg1BzNL92NOqfLp2502g1B1oT7tKWQL4dEEejFGkKmaOP5OrxwgqVheblYompCCG6Nf0SnaRz11KCg39P33utvjAcraFm5SzaLn2D2r8waBsotn-48
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2016-08-17T11:19:03+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:19:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQCRE-DLLr4Tp1M7rNhjYB3Y-SjLzInj95wQIENzNZGYhcZLhQIXktjw3S09XSbJGL-DcbIxqi1InxukTBM25OgiHRQWDgWEBwsmLbSUJ6RaMU2Yxix8araU6MafGZ2XL3YdMUcZpaawgWgIXyPkWl7P7lMMzYngh8V9UoJabjy4adKQBtZ0XifQveXIFwea38sRaaqLLula9oouFPF6qDf9Gyniwg4nDjleRmTcO-QuKph_7wXQ3f-Qvkt2xa1-uHEABErFjSChneEU6PMDQoZQbN8ugy6VMB9-t3ue_wWtgkpLYgFMlKW2538pP9yjNPiZOwq7TXTiGyu5eHQzmUs8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:19:11+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:19:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=F0JB-QAAAAAAwcHgAAABVpaAOfo&oauth_verifier=Q895uHiYOahOTUu71HCyyRgcM5uIZMYF
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:19:31+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:19:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=2jYOUgAAAAAAwcHgAAABVpaAiWM&oauth_verifier=uC35gd1tmAjudlBIQYsNRAJyjRqCTC9B
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:20:49+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:20:52+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=VUBMzwAAAAAAwcHgAAABVpaBuW8&oauth_verifier=uSQ94nGNIchHDps815WbR4KydT4GRLlg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:20:56+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:20:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=t0mi6gAAAAAAwcHgAAABVpaB108&oauth_verifier=dAdx6eehQapcmY0uAUuL6pg6c2bAJpkF
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:21:07+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:21:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=IGsTZQAAAAAAwcHgAAABVpaCAX8&oauth_verifier=u0OaFu3ISVslc0M819gBEyFfryAHd9Ca
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:22:40+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:22:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=tfcfDgAAAAAAwcHgAAABVpaDbMI&oauth_verifier=d37Ra08YrHsOdaPOMq719P932gX7ei5w
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:22:47+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:22:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=z0hosQAAAAAAwcHgAAABVpaDhlE&oauth_verifier=ryqYke6MCWIOtN1HMwV3GNUgCKfKMdDD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:01+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=aaXRnwAAAAAAwcHgAAABVpaDvl0&oauth_verifier=o1ehzuIWDQyQNAf6hBAMYuh8chEi5MaN
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-17T11:23:52+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:23:52+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:23:52+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:52+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:53+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:53+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:53+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:23:53+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:53+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:23:54+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:54+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:54+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:54+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:54+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:54+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:23:54+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:23:58+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:24:02+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/C7YgQHcVTKndfAEEOalS1MxtdeEiQR_CNscKgpjSN6Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:24:07+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:24:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=8zppftb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:24:12+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:24:13+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:24:35+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:24:39+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:24:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=87sz7hm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:24:52+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:24:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=qzbS4QAAAAAAwcHgAAABVpaFcBA&oauth_verifier=Le927nSh4DEoeHQMWQ4r2RpRCG25aS5z
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:25:01+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:25:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=KkaIrAAAAAAAwcHgAAABVpaFkLc&oauth_verifier=dXloVcqFO3llEXSEQnYJ5L6UbfSZZhBm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:25:22+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:25:27+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=6ujANgAAAAAAwcHgAAABVpaF5Ic&oauth_verifier=tLH4UcrojIgY1Bydmji5ZYjGcMvQiNqq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:25:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=6ujANgAAAAAAwcHgAAABVpaF5Ic&oauth_verifier=tLH4UcrojIgY1Bydmji5ZYjGcMvQiNqq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:25:32+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:25:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=xAZslAAAAAAAwcHgAAABVpaGDIc&oauth_verifier=z9LNaNWwDX8kBL1ifp85smiRL0CR21lo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:25:41+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:25:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQC0190i93wWJS-WdRAfYoEsB1ClTDkfo4QjrObabiVK0GNRgFfdmzrKU6tPchHCmLRAUQWFEXfvkrB89uJQg7XhF9JqFq7GkqNWHgGsVwwqQQmWJ4TPnIwo3Bdal25zBEesbVO_0uTcGAivBkK5qS_VXQnsO0OKmIR3oODKXrkxqIg7tkxpweuzwybcLOItfegPjI6Co-2UlNzxzt_lUX6pgekKqHZDK0xuy6ujna00Ack5OLG63RPAwweJswRI16IsZv_ZFP_ROgXxuWT77ZNy21ap-SsW1RSxIhzx6MhgyQ0hCYEPcsp9DV0QEJbRsi0hv4ZvcMMDrjNKXhlzBZp-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:25:51+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQBpGgXYRZPPAVpDbx8KO5gz27JaNbiwfqPTxr5l0uhsQmKniNdV8zH_MpPNZCmrDWeVjihQcTTTlWARaiNpe-eexzHksz-nQ92IIZWXR1n8xTombxKW5qtkWsO9X_Oz4O4pBeVRYhhrvj9KAhOmw0iFhfG_GkNZRr6OokDlPlJDOdSaET-MVgqGSaap9yRRUSEEMc5N9OKTTkAiQyTvz1VdKClkMobxDK-a3KyScgExALzXJ2kQ3vEsnk9e1V6YB_e1V0Los2oT6HKx4niGrdNYwoq47I6x2VSZ7GPhqYspouJoeyGwkeUe-4ZNRfpQFsOIvNLPHytsrKARRTFrJgUy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:25:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQDdJCCb4cW9I10JF8G7r18IbmF9_F5b-Es-wFxT_uYBYSCxldxPIZiJUlCDquNpxqUTKROPXmpjk3lZVy5zz6nRcbjYslchSDOvSLcy8fJom7B9akUKX21LWzZNpy8SRv_K6u0ILB2VqY8s5DOY0YLU06a99cSBrS4vfnEmmx2pYnfdA1uaDxJncBAoJuOHsxwofGCUXNekBLXwgjIX3eldX1TtCDmIWCgYP4SX_NwJ66MDpP5lfRLISsMBLH-hgcMWdWr2ijmRhehdUTbyTpVrOhvVO2mIu2iWSxeu09eYa6R7bD_337MaWtk6JXdgfK36iYsjUh9RVSt6x76qDrq5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:25:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:25:59+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:26:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQCW8ckasvqhQ3wZMiXk04tVC3FfG8qagFzeOhU3v_YXO6O3piPf_pIQ1p6WWEUEO2NHjW0TuZggfeJbwhkoGPNBbVtehOLIJCz9Wa_HqA0YxwGdPddmlloAj_qB1IcnmDXo9gep8kb9oCNlkZw_LbsE26vuJ4uQKwQOazpMuAPCM8deHx3L8EqqHTO8lBJmpbQxBE2q6ddlW8EY6RT652eoRmRZxaiCVNgHt0nuFCSYV5hVPGG_SjWNRSjV2bGR9BPv0oWrrY6XA7uVrlvAnaKEbZKpncI4SC84a7zGp5jz8z3nfY5Z6r2BKkdCHz249Ny8I7QS822jJbyaiYwZvXAm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-17T11:26:09+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:31:56+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:31:58+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:32:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQAF-HRt1vYILrZMtAJwXkcFW3hyJfErtQ-3C7oWU7yPftlDAWtgS77GcnaKY7gOvB90S7qzpLOoIqyG9EkBXqP1TfYvvwIu7wdWbvJDzd_eW2V5j-PXUiuucWE9uG4f3UA8QURAichGaXbWSdqPyO8v-wASzD0CI7NfxYTcFMZTn5MjV4Fiw8cTP6MP8jFg23rCFaFrOebIl88zahZTNDwCUDy44nJnq9rflhZXDvlvMxLZ2lsqAxnzfqEu77Q4pdLoW3eBkRUC0DOJsmDmZzVrLR4NLdiPEuOO-nEInduVaJcIsL8TYERq5pB882DT9V7_N1r-Fyibzi7E4j6cPB6s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:32:42+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:34:10+08:00 ] ::1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:34:12+08:00 ] ::1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:34:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQBPl3PyKrtC3wIBhM53d5NzTnvt8C93igG-zkkiw_GEh14QeEiv723cbesPo9CJeY7Y2h4gmF3qcyqDq82nCEwQiBIEoLDyb2D0KcoLiph8a5yZOC0milnN7lcEeQcOkxejr-HaDirbAjz6l3hZIFs1wtwC7425RAAN_iBrOeTWKy_8FlLPmkZl3313WiHG6bPJ40wXCo7kH-3PJB1946KjMGK2WFDdn3ZuDVIpsBbee8PvrHBGfQ5PH7KsWIigBLatLaNuBiPGdnnhwYQ57oxErrcVO8zsFVi41ToXhlorYBFrYUqB0KmIQGW0QjvJ2sOHCq3fKM1DapFvguZThl5p
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:34:34+08:00 ] ::1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:42:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:42:43+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:43:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:43:12+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:43:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:43:38+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:43:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/711034619034577?code=AQC_1NY9GxfMQqIrOkaIZ_W3SZvjkUSCjfbykmIBWI3nLZFpz1PF_yT8WIHp6CFHI-MjOwpm7xZTQtW7UWCl4of25be-BmXpCobZ23vHawT40y3rs4PIyOyWVVAYULPCfql5UWt0TInpjiZzclpDZfSdePvBOPDbmnIUos23n9gwDauoiM43P1uDO6O49o2oaWTlX0epC2nhihfeWXSQtN3uc9APeXRSUIosmZ1yG9dCbP6FRDqcls-g8ogo1MGeb5yd6YEtDV6NQmzRnAe775mjthCeeLiWC14c_nzKpmtXS83loyCRvx3l0D4N1WSozYQyLuwRHZpubrahLR7W9JVr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:46:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:46:40+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:47:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:47:37+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:48:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:48:52+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:49:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQBHtQOJ3Ln_hMSvv3uQS2XgLdM5_POUZO61RpjFGROCgb-xgsHtLFO_wOxzhhyJ1TvO6pfZwPTAtQfg_twNw5ElPNhMbHu8BOuo5IFCruth8XeHWMVSlCgs1ZbMwkgGpdFh6WpROyc9sKjbzuNhaPPYi1XFKBdemstIWepWObMaS_izRDMMZ4tQd15nRFIe6ag7-5F38b3suTLbJ66tKaBfCIa9Oa5Rs-dD2WsMMKL_G_E1q_MkduErF-RcSP9-SBEDYSxysbQB5WlO5Ls_DlHwzPtJvU0niTT_z__dtq3lJ2YgQKWtnC3sBPYXVbDAxbnCyFSnGdwRFPbcVBOH6Y50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:49:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQBoFf7XIq72huRsV4vPFhwz5qnrC3Jb4UvKl3gptN2ou_na_usKSlzPPJIx1VFOPf2twXpr1rBHLHyCqr8lyWRGlWkkIaIgbvaiW-JOcaWRWQVDrNfLZMYpFCBA3gl53ptZQqWyQzXeeG4VMiiODAmKIcRtZDm59g9zg1YvOSPfmxMhm8LhqoLYMdl0AyMnGgiA0Z_iXDn7PHHT9AGJIXEY5y7FYqRq14sXrjTtMIcRkv1GiM4HZ21ZZXoZXGI35EGMndZWIIxmJ0WZaGIhq_y3AhsnRFiUljGaTk3HIiAf87ensJg_pe4zqryX2n0h4EbOhS-3v7nUST2U0N9GsPxa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:49:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:49:49+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:49:53+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQAlOF4mMXg55Va-BgdG-J-B9mwYwRMgHfkjk9q00IF_pnOTpEXFmHA7cMmuCsMIx54cyCz-JpBBW_6D_ORFhLnq1fWHOdU97VGcZCOyRWIjUlN1Br7zG9qde6LPcT0aIMuOdHyx31Ex20Ye8tt6oS8JuRMPnTCfWki90f7pANY3HL56bqsP0WCaGD3ye7ilkTV2my0t0yNBESdTMfbqFPmC0zkVCCFyUKqo8muPWbGgn5eucFdTvgX2pBatgDcgvHjlRrsmwS9N4IeK0ryYpCeZTvzkVc4hZQi-BxkgUaDY-wxswwt7fPL4K37z-ZK6HRYJ-w2oCIfTVn98n-qEh0up
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:50:02+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:50:03+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:50:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQCBDYukP08-G5gbUkbczE1bgFUFXb45VDp7YB7olSoZsrRXIO71qZSgTkT7DV8KmnUMPuiLzQEm8nZ1BIDetVlv6qSS36FU6-8KQ3BAyAOFN5MMlcFQFQ30bmQSZvszaSj_pZ4Sr1W7SeMVwxp5g8J4uCbPFc710r7QAISXUXssHwqmXtKf53Dm3fByCkTqYviL9wcyBiLbQ2-L6a841qm8LrJiHparFCfbK1F6UdVCt1TPuBGB-aKwrulA_8Ro1Y1LpeKl0kxtOsfvRu-RL156bRnpTGdc3gwV3gqhwDFN-in7WFh5Zgveb-yRz-ji9VZVHD6JjMVQkqrohR3-2BXU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:51:59+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:52:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQBNFBWBjqye1oGqAd7Lbdh5JbdA7eTmSG0ugLVCqyHE9OEq1xeoMViQAkqX_Qw96_G11jn7oILYfyXdfkig05pbjzevv99B5vjuvOnjeHpEHXqp24Ql3jDTLGI9qOoDMvGpz9EgbUR281QboD5Off6igaWyfWu_7YALrlKEwvxftE9TSlGXfZdfzIl4Bv0Du1R36k9LjSULW8hoT2nlBbrJ2v4OVB_MggiIbY6xK6iTV5U-IoezEo-ET0PQH66pFooxc1udLVQH44_81FpRveWjC-Dh4UmVYy7cLrl7u9oPdzBYETaJLR_UX29HqE7ioMGDHz1eMrrYdxzjXjW-r_jC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2016-08-17T11:52:27+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQBNFBWBjqye1oGqAd7Lbdh5JbdA7eTmSG0ugLVCqyHE9OEq1xeoMViQAkqX_Qw96_G11jn7oILYfyXdfkig05pbjzevv99B5vjuvOnjeHpEHXqp24Ql3jDTLGI9qOoDMvGpz9EgbUR281QboD5Off6igaWyfWu_7YALrlKEwvxftE9TSlGXfZdfzIl4Bv0Du1R36k9LjSULW8hoT2nlBbrJ2v4OVB_MggiIbY6xK6iTV5U-IoezEo-ET0PQH66pFooxc1udLVQH44_81FpRveWjC-Dh4UmVYy7cLrl7u9oPdzBYETaJLR_UX29HqE7ioMGDHz1eMrrYdxzjXjW-r_jC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:52:29+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:52:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQBGsUS4SH242fZN7-Os5tWe19mpFqxxj_0UVlpnNjsu-7PfHP55pSi0xLZceUlVnh8cg74-AlfdWfb1uVHETCfx_7Zn2o1_Y4QXb9CML2PpmcXdzOBoh-77PopEY5yAI3ai76YQoH7GFxe-MJ0f4w35TiB9rUrW01bMyl8GQYyr7qQh1PFjecDlBW0UKwooBgLgn3fHrVjAYt22LXg9zlSYB6WXhKXU5V1VomEfejCGwT4NMuMeFwrAHKwuJnXmuqet94hVvKWuj398h2NnoAaC487wHY9-UH9qQGg7SmWpaGCSPMzKYMHZmMshZOOGMgEVzcDt0gU180v6perj5Qi5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:53:14+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:53:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQBZz88ZtJDersclPjxQfyCOfebAhQ43gFGdc-ME7hAzqhaIGqi76IumelVYgxSBWnSX13RDMPGixt8ufLbXmqBSuq8FtXlC5DTwXQGah3wk8-rlM5EGWKwiHFR-wypnJJEyAiYzjy9fxGRHSuv0kmJQS-wCGaL8zcD2UqrlWbqBOy6Nq_NZjlDRoKnL9AQXlgfLEtwprmm2YtIN8osnayNbQ68KO2Xd9PLq7VnOZbTX4d2ddxvo08WzrwUiqaDeC7yN8jjLaieTZ6yYySBi1zd9qIwD3pbxOu_ByELcUa0JqF6byT9PoEJv2NoIEOF6YZE9Ok3AuGKYiB1XoAwRY-S1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2016-08-17T11:53:33+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:53:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQBlf-9lUkPejAYOZAWSzu1pKTIg7xCmYp6gbw78-D5GhHs1bIk7v020K6Sa-ytjZ1ZwfN-HPAiULY53Cecc-kElAf__8gQaCD_WZQg3vr7J4Die6DxqpfZHIBdzuVhzP7G4XZ2MRE86bXCEIGO9BM7Jr7YsmCZ5mDZsxoKcra0oEFrl2If5aSX6KPqeTglUysHb4Po0kuqcAFBG_eGveNK7KcdoL099FiBn5jSVbuB8S0xhBy-rFmJ_lcXv61N_6GnHB_4scIDF3sLhYFfG8BanpNKwN8YAfZe57Gnr0ZHGNv9mUsJiQevOYRyZVIhZMU45DDqk-YMm74KNcTGDoOFr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:54:12+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:54:14+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQBZbBREi13h7ZadXQA7fz_QtikmyIWSLxbjCnRnw8c-Y-VMdwtvbBEtDhPiGbVJF-z38EzurUu2-YLW8IF0uHddHNF65DYyoOG_9wRPmGH8wN7vgToiEeh4hWVlvQvRDWt-EKpGq1bXT2QXdjxo0_mO_NKI2oCBqnClkGza9P2Ok7bfpXQUw4ngyGW3WkmMAouvwdA6R93X32LZgpiKKrovz17rwMg1mH1s6ueVbdt0NeMhg8acuU6ueIfeI4mnBeiZVikdjJVVFzYI2J__4c4oMh9_wqB4Rki8wwLddGKCntoYREk8d7Vpwi22IQZSQCWrcWcFw3d1PatLW4vqTf-u
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:55:10+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:55:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/7B1wNu7juzX2swbzsxmC3LxkkcLFihcwfKcEsP4mbR4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:56:23+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:56:25+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/sJd3TAX3uy3wlFBnx16XNDfpqmmc6_W2kro9zDElhjM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:57:37+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:57:48+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=zea7ekk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:58:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:58:07+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:58:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=4rIWhgAAAAAAwcHgAAABVpaj39c&oauth_verifier=Lm99F5Ae11wOPWu6Tc7sduV4lLPwZCCe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T11:58:32+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=4rIWhgAAAAAAwcHgAAABVpaj39c&oauth_verifier=Lm99F5Ae11wOPWu6Tc7sduV4lLPwZCCe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:58:33+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:58:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQDCa6KbgIiOcXuMsIrk1HdsHT-kS5LAxpgNwS2oNtLjnD4tgSm_jJ7-_Wfk5tg_gVOBjYRNCfUZWMqHqpCJPNkaMKnvL1fHQRx2SH8-37rm_e2A9VNbeUrw13NqHEz50-Z087Ia5owZ2Fpl_pn5JfLFkxl0TCg1ReYjtPfIYaKCYcLWp7REz6Vk3DvSNasSRvUY9GR4UfeBhpPRJ1sqzIa0j8z79hqztUYGqiSabJgcaxl2_ErUedGFZrn6c7zCECcWxiGGoMrCTZN-zzDD40r73HUy8jIdfDntAB_n5O-JuMKEpzQILKrcg1Kpg729J8nkCqSjUucAVqcVZPqLkC1Z
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:58:49+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T11:58:52+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQC41UA6W8aQA3FXc_txsHv8_HL0_3zZBmQmKBxHivJeKXsedpeKxr9NDkgHCV4D0FIBqoeL2hi6XRHgk_McvhNtSXNOXwYTNzMVhTYZD0jNHc6ZOvOBqSJumh8aixC0__rBqK5ywhIp8jCg9m9ziE8ksoAhtJFpMGtIH3nGbIuOHR-jdwgkbc4MQ_r911CJy9FGqjIEOA9HJKgwIoWzhhHHbwxXYfiZyq8Blmjg9BqjwRgDN1KYzbpLIetoF9VJ05f4MxRyocXO9HG9OuNZ_VqsI9IANCnCUoWFunbjSbqSoCXdplosh0eG8zlunEgR0djUG2yrAwsrVu4CVO0JWnOJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:06:31+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:06:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQD8BWJZdXnB5t29LNKly1y3DCi7i7dr0dTbr63w6r6ogxMcf5tCKY2sQ55IsHBHP6InVcc4FhiM2e2ygbxJN0b_EHuWlr6ptoMaQSXgKOv37u7gAmvZzJED9GTUZ18MWX_5-ib1YCieStIv9DZbFt12RFZCJwSFWBzexFUWG_Z1p90LVPXN-blPQ6ozhMzomBrx6zmk01PjRg7hur9xdtxDAr898ZaSS4nE5M_Adl2KsgIjGzUZzndktpq-penklHFu8eeXlDHqt5Uxf2ffEnyTRSNR-aCN3Z8LQ6JAGgBhuWn_Xpuv_eAUzV4ct1vnYVNsoXItNxojgQz6BmOorqCm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:06:43+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:06:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQCewRJIrV5cohrhnwNtwPdiSdYpKXfn_KpDHBBzngLRGV1RXqme3j2tmUqOsmC18IbVupiVtDTT8DdUntJw2tfYFCLj93ew9C-1tG-T_DOtqUBfSMMSnahKZRgHxiSnSdvW10gtIZAiP-aexUvBXTfpoVS6ViCvZy4SBmQwkVHqQXNZ6_qg8wA-GEhrfQjid4w0-p-8RwdFdkp3gKKyZUFqTrn9jdZC7S3Etj0oHYbfo2e5Z5vjam727a7foKaGNsohC04c0eOEP0qh_m3HVTeK7htsfTMyOLt1w9igUimzmvP2Hqkl7szNZ7txko-9s8FfhCraabA_c18pTdBkPwth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:08:19+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:08:22+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQBLLZ6Ztrhmsk7l6rYwx-_Zvj3Mt0bHT4gB5UL_r009dgSGbNvrrgiPvNhts6ngZ84YRL2wOvUB-8iRGEko3qTz_3niK0IRRjdfsMt25nMUnJ6rRGHmfTRNslR39SpAZQa3eZ97xEobjRA2pg7i9TLHc78Yr9JOIRog2Ll_WvzMPnHSljze-IuB_FmGXCvFEPr3eu-_O2VSIm4lmOhQERHxdyBqBf0czHDOGtjm_CjPCsPe5Oew4_Rac6P_yppDKRyXPRAqAx8Opp6woqdBbBblAuITrZeIyn87BCPQEwdZz-suYFFQa_i-mmnmyaCSFJLJ3aVb01RMy2OoiCx0fOQR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:09:01+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:09:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQDBP-ZH2oFiPVkr3pLyGQeDt9ZoxXurSDigFQxt98W8FW5BX8yqoRU3huQjn3rckKI3QgQjwCFSRF3v5ZgE8vayuZ1ommJUV90vVV09_nvyFu0zO4W8qBZkjwa7_T6zaoUP3XT8fs_-eFRfyJGAcDiOYeTy2xwtzk01vmEyEi7OaPmi5iQGvgtFDSK65O-y440_5THXA7hSlbFiPPOn8ZgFjiF_4DwiHJ4GsbRGhId_vadUJe55er_JLkmm9y2hL3QFt3IJLXeE03yLVGcOJnkHb7IpeYzJntPgVliEShUfdmLyrU4xnozp_a_xV6Y-UyBci3AAah21eCW3ajUMAoWD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:09:13+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:09:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQCgzvnk-Qwxc61KFBFxYUb9Y26a5oEVFGLoTJ6z4-st0yOqhkmuAa5fqL-JJOGvIFw9AKtLGG-PJohiwaWGag_nnRF0jp09kpfFmm6j_4e_rwVnRvLHBO15gd6UNfa_jX5HxXqxco3b9dOEIejvmu_Fbcvn0QH8qamuwyWQe4C-RkBhHa3T5yF2iijenn0lTYP0bSbk9afm2ptw4lp8It38V8h_ykWrGr_h9h7_ssT1B3jxoiJxXDZTTjqsdXnA8bjcO14grJs9MesWFnT91iNoWeiPLFOG8U__dttxG9mSwYrob4W4FlMKOvAjGdWH0YTWOMCLb_r5_erzLuIVFtz7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:10:14+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:10:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQAKKEGMfE9k-pzXKiEPP-YgdcOnJ6ngsOQXM3dfW2yUdwqMNHsH2yqsy97qStL32RolpSVdCebx4TqdH1YwRsfQobLwWRh_pTbT3RzNift4nioAGF4VtF4NdiKUszoRP-Wap-IvvBN1xkyQXqY7zuza8N5XMIBDXzt68Jsml8nmzg5b_sDLmY875NFZWuI2h3E4PnPzhGMR9-uMbnW3v-Hw6mnANOFJ3NoDIKceZMqnYNJY0iy6-E-p-4gMsfPHD7hhnUiy9DuiI8c26sispqRPDx2y6ZqVIwCmX0ZMYWk-Zi6Pvd1Oa2QsVqenDBFwC_gEPSCtefvajsAdeVK0dZym
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-17T12:12:20+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:12:40+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/mgOTZ-QNyRrdma2NRojaqr5uNY1IcX8HQchu5k8V0Ug
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:13:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/Od0_QRBTQ11JgPThd3o_lFTaZqCOSS5wkouVa_IR7i4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:13:48+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/lXe72AJUaZqEQkow5iQGkBpETLmjmIL3qC1_GQTUA-0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:14:17+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:14:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQDyWoGvoiQsIxcB9VVWonINjt5wc3jxuKVMsty_QXrQg0ihG-wL9GzoBWSXZMXMhxbj2fFlcgcYyZBC0JB0EbNHWOBNNLGuXQCc2oU5vL7d1La7Q38zM92DBM70PMNIokBxWUL-KMvuYWCqwzNogcPwhRVvdVvBNx02_0SrmCZvbNNab7ddkgxy43SF9OdPRZfZ2unFezXyQPCWgY5r1SU5AWzkha7r0bTBWlPxAygI_dORRhZqnd4yIVQtUeKSamctXjBZ9QSubmZBBAlsrH30S8qy8_0DT2jFMp1cMWMrI3XFq6kaj0-PBmvUeongmK5pbna4tr4TTfr6lrFkKijX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:17:10+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:17:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQDDvUivRFtoSSV1rBH4smOPacEXvmkeUEqlDLFr5l7ObwjF9YHHWELvyKkJ3K_TfLaWMMd-9x8BKnRfViqkmyUhR8pQb-asa4ShnvpNBZtr0BZ6tQ21Z_nB1g2Keqs45NYXZpImDCAO69TIXYqtM0jjN8khhNNXBQJGfvTMQ2hpaVIgEMt-gxaOd35n2i6za4uwp0QTO2HxT7wc1f47-ASwh7pEJkqz8Ru5m8lSJLYWgRc3y59mhHX_OHZbEgZcOB6HpSOdzqa0H0c3OUIuRd-dbZDK3BX55YfcspoPA4j1td7y-qrK46SJIppYe3jjpkJbIpXCaiIg2KiY-z7Q36Fu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:20:50+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:20:54+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQA_GOEcvxOsAIuQpTiceIqGAXOMahW52efX2jmbPQTyGiimWy7N4g02XnnwTAApmAHp4UPDGvexoJ_4YTm0oa9u_r1rQkVbFkIeyrnXEZqAjQICWBXN8eJiIeTlHBocLmY1tdk8vadCQUM2TmQ9b6IV0mYEr7_qNZd9EMWtm9AQ6_7zk7pU4FiJUb4QNKS3fheEL3ldzu0sa5HMkVfbo0YXeAM0jagvickonIfav27ThHMkJIRN6w7YE964PBzsQuyqIQUFvwlznh6YnDxt6UmbU_XchvKn6uxtUjBr52Oerv_PtncckFWnYTxPRMV1UYK8cZxhi8I2_rG3HAlRcoid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:27:20+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:27:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQA-M4K6HIXcYDP74j15rZovMvyClGy5VRKNjfa3DoEftEXS-y4TiQ0d1r4DN6GXRa6XHuS2pxCpqevGgcUyMCKuv9BVqSYz0cZhb4aHJ4QNUkyfbisYcqYtoDELdsOvw-adPuHRz1EabJwrweqsFenSVeB_l9V8E_Hzv87zKcebJrkZjOK4ZpiGK3l8qe4t5C6h34zylA7gYJgiDljCcqeD29g8tCq5fR3huhJud90NM8IB2Xi_ByzJi9K6Sfjy6vVFHYHTKJmHx4NociEELgGniwYPoJGZ4jbqNqq_ho-ueDpfuedmQQCsQHabt4NygtDxbzc0rlrVm3qbUrsNDt_F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:29:47+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:29:49+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQAqINtrtxDSuGyIe5E0848wIiPEiR3Y0UhVjFmWd64NcUAPTg_ZFBF4ZPmfm_1BIn4iXLen3jh42QzI9aN9INnN6Jmrly9tPTRTJa2JEZqFo2HDGrTwpBjF7jmgBcZvgTBZrEXc79x6CiOur5JZv8auKAGdqB-iKv31_ADascc3-1disTy6iBt5OAEriZU0bQtzZj-rKaUdxtFJPkI8ezg0xoGQKlDj26K1cti5dr9NnKuXOCi_H_TgKYzuXuX5RhsReNBh2BNg9ZL505WSylOwJo1mfFauwzzOa_eQH8SageBICPOZyyYybdT_e8fGnyHot_Jdad7n_cXYOr_VpZSH
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:35:44+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:35:47+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQDgP_M_v8ZZBKumkQ0V4rpSDlyylGC2CGX2vTlMFGOUDCId2iau9aqYNEcov-HRLZ6MZ_jx2TOfWXDKYzbten_qfgafRNFGHd8kfbw4YS_tnGMRSwjJk-Z_xnsqT5-AnKph_ebpncxZXPf7_45hStUioVWjZoLQwucXGYbVF-KCFLiKJYkam9V6SECf9HBZmUBRajm45ZZG9URipBeepVqykRR0KPNXaMFVYApKiM7f-eI9fzqa__zaT8mVbvNVbGB10li0MHRv_Mm5icBRT5F9oUZJ_DHCwWaPG_Oocuxu9WBLOSJAxjswot48LqMnxpwqSxO8rH5XC6at9MmFNtPB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:37:42+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:37:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/8rcpalNbD-d0RbVpQC-o1YMTHWVvtq__IdRUMX0v7qI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:38:10+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:38:11+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/fiYOqqYqjc4S8ndWikyBVFc39XSjZOCErjWHtHveLlE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:39:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/fiYOqqYqjc4S8ndWikyBVFc39XSjZOCErjWHtHveLlE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Google ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-17T12:39:17+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:39:19+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQCU4QdqnG8jXVkpkieMJSPjpfypz5iGXlmHKa-0N6AnbA2akuLXZSHE5iBw7irjwSpYaPDaZAZhJC-T9KAK-NqkQP0LzSnyJA1mPaLF3FgKxdqWUMSGYKyf2Xe_P3YaRZ0djvAkspB--YU7rNVWtUSX-KOP3Sgx26U0kge5cDNBrFNiyZdxNfc1HUrcidcQPJH652-mFW0av_e35ICSB4b5dVcq1NCA8OaBOuhjHyy-y3ZlFAsCEy5qEwjbzfEb9UvuaXxZ8OQTDO4tpGQDH4oYWcpQyUtMw_Aj0VY0lXmyKtEquBPamE-DK0D4WrWxtzfAWnRw1dMbQ5QKn1SUrC7G
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:40:20+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:40:45+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:40:47+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQDvGc6xYXksTx4asfcMbeKsIJIPYCB5jfF13_TyGLUfCbKLawsj9NfOiq3j6jLNHD3bvM0HoWWpv04h_80IQvqWuxjamCNLHTFMKfmgwaONcXb9xadBtGPadwqx6R-ZMtbMy89UiTsgnFFFjC5O2ZGJBuMOGNJq3yxH-3ReGaA0AoSueaJvg9MAY_mxuXfHYDcPK9a6cgQVfKjbKehwgSePi7jRQCMgstFBeEWAXV5cA84QPq4CibSEx7fcc2lBKo-8e59mlTrJ5kG3cVoXPAbdlya2hG0TBPnaz_yuyOai5D9qjX1pdvGVH3DFFyoE15PoP6F2QA_oyeNPJZtBye3X
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:41:02+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:41:19+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:41:28+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:41:29+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/code/1077417845646072?code=AQA8yIHLBHq2ALrbAnvUA8BwonsZBvhi88M2CzMx7i84lL5a172yKQapvcXwzb9kx41noCnGBp2rNymYOvdFJbyNe1gUgipgfRr3GIvd7hLP5VkOPbxrKXIS4TV3y8nA_kH7ToUfp6vke4lvbQX3EbNRJGO372SnvOflXzpgqMsZrZASqTJhjJoHh5NzCDg-mzJ7fC1ovirkSYivf1BWav640IQc5t9vnvyP4F0UjDSKSlvvtm6b0xGarWsex_98kNYLLuVxFBF7MIXL3ovgQSlnNF07HbPLNN77fAtp__tJAAEND8dLKqKKMIHDHgAt4rCanPCS9o4JF35nnbQcDSoa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:42:20+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:42:24+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook/?code=AQB_4aE52gp0Khu17RjCne1nQ9kpZSgrK4qNGimUVo2JlXh49lz_2PdSzCfF_vir9pmnLlHEEZhr3hrfKle-DnaOtyOp73AZRswQISCVTFaxq3qfoCEgIIecGY95qgnrjsYqAj22Dy6KKHzw5QeRZPZeDNbk-OkjYdAbJuVNEOYZTo-QMADGOBNiaoDp8BWCZjbbxo5lFlNHPbrL1YcalxF8quWtK3xrLOFeufR8nTs58yPRk5s9OTIZPF7htE9j7NsVJRJTRleenXmrlTtU0qKCTVyb0cELZQxEPBWkbv5C2mxC0j5SjMrxk5uqfhysVhkQ3_B19FuyY6P_qiPjFD6h
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T12:42:36+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T12:42:38+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQD4ocYvevO5lOTpTNF7N_tNMnW4VAs7nibCt3lZV6ZJrJ5mc8NVcxVPh5ErVbwH8dADA_nB-4yFdp1al2I67jrQCdNnBYLCJP6E-d4Lmtn6gFhfsMTuEafTMJAWjUJmmEyF1m0aXdPK_zeuJlNxt-g3mOl6fZUd0kaLDPVHOO2IYdp574bMjEQ3flbBLgPOmkUnM3sl-FfXM2iQNMqJfna-g2i3pRZHO-zljLIXbHKyOkphNL7Sp3oLqGjswA0icqB6bwNgV-5AOc9rctDuNKBo5bYse3J1QDC1X0ejJ4-KUz56CGVZDcefJy_DhdddPP_G2fjEiSMdqTPWFyouVEv5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:17:36+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:17:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBvCO3F8_gbgp-pFE7awbvYR6J8zsbf15vYnDPldkhiRYnMJViMkN2DmoLAW5jqv1SX-vHlou0x0FWyO1rKjybvaNYX_l41AR-_Bt2hJ8LbuDm64UuyolCccMIDno4KIZy0uTM0vt-rdiFvtJQ5__T2o1hDydtaqzKIBVmGe0zZjNaNnlxDyNYF70canNLXAhTzJArOln4eB_7ZGRAJacJc7jyxpOH4wLuAQaC4to6-1ULKa40WkND2_bQLmgn8UjF7dRcOR-Kdv2rF6N-lbC1KwDt-EgKatTSbXqFmM_FT2glpYgv2U_VHBT1RS3FZNycwM_ZVDTiJLijSWd0TEd4Q
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:19:04+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:19:25+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:21:52+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:21:54+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQB9LSWJKNs6vkvpRV8qWWenJ-5TqJGPY8p9eauuu2gDk1AJeowScvsshF4kEYuqdxbfIdniDajsOU4QlaxYvfBnzm82leCFvqWS9z-nduult7uXxNeKc6zkbrXfvm-v6GvWpXlSA7NJg8okRkS2ks_zCWDF0wbcYlwHqJyfvPkuyvM_y3jbbhMQbN9Ej9fONcxaC0IY_EdTtaXSQ-bXxDqt_c0iCURE6bSCttmMD71dAWDxUre1B5GZVF1jKzuY2AOtl3FV2o4v2S4VAUpTW5FZ5snU8g1wXdRPM7e5635S4OK6R4Ov00sOOV5l7Hbx1PXniimVao-VzUXls1qx2vhO
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:24:55+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:24:58+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDXjoD5iQ1WCb2S9L_TE-Fy18VZFxG9-nQm6Xm5alYXuJl9Cb0PFWek0YxU3SbALvQRK2Zx2_O0yQEPSvPgt9TjoFX9Y_FY3S5U3K9J1ZCXpP--FBT1FJK1spNoRLOxsggFiyZr7KietUm8DFn0Odlh-VRtmgEb2xdDsPkm2E6XqI66-lTL1B4GJL3xCfG54L7k9xFzKiM68a_ZFcKQo7OtEI7UxHew70JM_E1jfTmYMi-vroGeW5NvOkMjmoUf_H0OWuLiZ1hAQK8ETHPnzs2d4R2_irThmtMpg5HxRbN2wDqyfIrfa0-G8aJzm_od9ofstxy_OzZ-NQUab-YCuPuN
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:33:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAwormyo9YAkwktj9mHCnmidTmWeGrvzRwZapEhrlqPQh3bl64sC1eDKOuTOeSiqiVeF4h_WPW-ZntyjR0MKri19GmH4qeufKPCabHcE_12vxb5M_9mwfMFCxzE7iU_ggizU-O4EDEHTGQlFbsV-Oj-vWM8w72kQ-D0fgR6TfoG6qY9eOhXqpj-ny2XCz39qT7pdzgChvNjG-55eQY92C7alwocEB-G32ucEnveDPyTQpwBqHlExp84Mimj9QFGzEqw4TL_iS-1n6SI4r1N1FHG8f38x5NMnTKIOKZfw1Jn6Ffl8OX4ts6_c2V07GIZxunOLRtSAk7iCFyLWB5w8Qip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:36:54+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:36:56+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDtBcrC2T2F9WJkZCjvadyPsEYQdggpE1AQCuwAKmapmIuy65w7HbhEl3I8mwjKqwZ_ZbXfFLdMZuKIp3NW6LaM2kKhKUglepwqWc6nmkzX2Fb0m7X4odehp78rWbk2rYVOAGnELsIsymgsgvu5SN1THQZNHwhMsgxBWqG_sZIlehRErDfV5xyuxeNhL3EfbJ-MUNvGJlqUCBg-TSiY5WnoFCFwcnQ0-Jk_C_YkAjobP53yVFlhJ5TNrdxSchzUnhoUgUpb_bzAL0xTc3-4fUBE4Fkg6vPra-anwisJ2-WedH83JIoDrtPPTAARxx2_NJvve3UEh9niu_yVraqFvisH
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:37:00+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:37:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/Zh3NHwMDTE2ujlXyneEVE-p3CD6-nw0md6fXU86u21w
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:37:20+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:37:22+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/A6wlBZKFNk-jVZMIWuqeMLuuLgFJhy3YmRjALTk_sEg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:41:45+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:41:48+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAONoz9A3aljqffj2wsaIKw4MmgPQrSsW5zZZc3g7DziO-RHID7lXsz5mXnpLp7U4Z1TBz2RH5jIoWPlQLhVnSwn602iBn5V_hKVYde_fdL6rev-G6sZijyrGCXaNI5U51fXKVaArBmaW1faeCjnWajG7Evi-ckRsi2c6_y8peiT6LuNI41MTxR436pJcxi5QrC73oX69iDCHgJrYXIZL2E0e3wl8xsiM7yibLewBaeyhtCiGzgACwkTtGOp2v5xFf0rKNe9yWH7fhYK2SyaO-vS5kf1m-rqR9Z40FhG-Vsb4IiAr2THOnPgPw2Po8YNJJ8kiI8YDHKKqARrfjVlsAM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:43:40+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:43:42+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:43:44+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQC5fw7kCqUN45hn52N3ZeoPVFCgZOMjSj57qROwtLN9WrHTrMP5NGPG4F-z5cWaArT_gwI8r_9bLczXOvSOEDYUjKD4H8503L2z85scFFgi0TSk7jpE3ye4n8udgOWLtVhnsHaB7KQTq2QQ5F6pPjVARzmrdUI_C3LkNcS9pr7C7aUu_N5BVH3IZF18nGk57X-m-6UJK0ueGjj1cPtzfb2Y3CgGtf-5TDZMFJUjC8q2JG5tFtyyw7DpEhpc7mZ60cSS8ugs_nprlj4KT7GRy26GOxteSQSxojHTnAPUeVktChEjQ33aaf8cJUsJHSy9fjv02uu4-UgRn14O2vhdauq1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:45:30+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:45:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBWRGwUXpGLN00ePImljxzLYatYQdAfdYEu_04ZP5oHpVbaBqJ24LBO_MMi7RhhwvjHHdM1pk8PyV4TDFYLKQdQTBLooV-vgZePjRhPwUKaT6h8ZsmtnZW_90OhuP9VXGxokeIub726-XQ2cWrG_kLX8jUTfciHCDpv03iM6_atPPP_gmSiu45J-3FDSdmdML5R1ZDu4KhZUemQWm92MSPvSidDahAg6iEJwHbaP56LsAuFQpv1Rzj45eWgjfiRQcyaoekuHYE_7qnpw8u1GP-2lwvrwUxXEPvk5W9bLNzwnH1ZbJsgWdg_4yu85toNfWwvpLw6hfYeBmsfkHMmaQC6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:48:34+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:48:38+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/qxmml2o-63---R5ahndBAYv93VQFwrpMHcMkfz2hE6E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:48:38+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-17T13:48:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBKVqdpH9rCVz-GW-t_-Ji9ueelxex1fTgiQLuq_i-rqqooAR1yUBcQCDcHnGpkXrBSixfLIlUF7dEzs7QozwHWO0AtfXDns-uOo2Il4YuRShu4pjRnVZTR3l6THRh55fXeu1eF_U58xhFEc-3Q4RGjh2ng5zRXG_QuylLMGx79LEp9worFCJapdJX5jKnBccgSphAw2M_FV0fJ-NLQ5iOcJLQoXqmkFOm7AbZRL5Ki7ZzFE5L2VcWarYQtejyOSpFH28SlshBKOJR4JCsUus1Kd5URvGOnsa55pUDK6GeMc5l1X5vvnLHZL1NZK0ypiaQYsFpK5i98-vV0BO2NVroE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:50:32+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBKVqdpH9rCVz-GW-t_-Ji9ueelxex1fTgiQLuq_i-rqqooAR1yUBcQCDcHnGpkXrBSixfLIlUF7dEzs7QozwHWO0AtfXDns-uOo2Il4YuRShu4pjRnVZTR3l6THRh55fXeu1eF_U58xhFEc-3Q4RGjh2ng5zRXG_QuylLMGx79LEp9worFCJapdJX5jKnBccgSphAw2M_FV0fJ-NLQ5iOcJLQoXqmkFOm7AbZRL5Ki7ZzFE5L2VcWarYQtejyOSpFH28SlshBKOJR4JCsUus1Kd5URvGOnsa55pUDK6GeMc5l1X5vvnLHZL1NZK0ypiaQYsFpK5i98-vV0BO2NVroE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:52:22+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBKVqdpH9rCVz-GW-t_-Ji9ueelxex1fTgiQLuq_i-rqqooAR1yUBcQCDcHnGpkXrBSixfLIlUF7dEzs7QozwHWO0AtfXDns-uOo2Il4YuRShu4pjRnVZTR3l6THRh55fXeu1eF_U58xhFEc-3Q4RGjh2ng5zRXG_QuylLMGx79LEp9worFCJapdJX5jKnBccgSphAw2M_FV0fJ-NLQ5iOcJLQoXqmkFOm7AbZRL5Ki7ZzFE5L2VcWarYQtejyOSpFH28SlshBKOJR4JCsUus1Kd5URvGOnsa55pUDK6GeMc5l1X5vvnLHZL1NZK0ypiaQYsFpK5i98-vV0BO2NVroE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:52:25+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:52:28+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAOmS6R-KYI9ODbU8FldjHXQxLEVd3FF0HhZvhJzO_--XHh_8KIH0eWmaC0Xmu8XkJf5czr0qtkgKr3FHwg7VLRvfscRWcqtint-BpRemp-1dSb6x-v900iHk5wthxNGQsFgUYX4sfKIs7AFSEzO52q32I-qxP24xqO1wER9lP-RbdJMyuVMM_ZLW_leL_JZZ7sYoa34yFIKYLLV3ZXyuvEMraSsNlB0_sJgXcEX-IVDbgPhSy0Pzo-0Ck_1PssFoAOsPmBJo9BBDRclBpo0r5heMpJEoJWCmZQPKh0pIwsZ35Op5d9tWSKeyhHpc2aZfCEN9GxoAYXCe7wJCBDVBeN
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:55:01+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T13:55:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCl5f0eZBZH-RV8GKwpPLZnvlKPDSgk3Xn5Gp_t_VCFdZtB4RFPoZATSmoPnVgz51Ppn-zbWKab6wHii5oI_dYx1BznlC78a82GB8OIX9O8lhxXJzxeM3WdJRr2PTxjv1L-7bS6cjhGLiEBcCsLjE5nnPRQ3WNPa7kBvUT3JCejwr6AlkA4fccoyvHqhFB0xfzFBvkojN7XjtDyyau9bDmTCijqrRu1L-2LvvpgVZECELI1q4R-IpMJD9OXjz8lQm0CCNiN0cvXNzfGSNHINee2_dTA_vxokvnTsi1KxIaXkXtnUdCaErqJrtooTMLR55LDWojCUh_kfPp8jYNt__EC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:57:51+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:57:54+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBfmIHANQOG5nRDleh_XxHJovY0MMX8k_c1AEwX4aK-GK9wEQdCcMEl9TqSesB19pnuIvNRxt7txpMzBcI8AY6n80Gs6jG0C4vC9hICBvSDI0PRFcrQZo6d24WQYzH8mTxECawrTha_Ai_f3KDZZc3VjSA8We4JYq3QQA8bWc94SoUIdfFvae1Sd44tFR1jgVAouedSRgevdc_IdTbbjFYsFypcnFPMJNArJgW7CPxMruNluKhIzlMHLEybjrwD2jA5uGiplKRZMbHm6O_tIKDwO-24Ga0oSq0kMeZn-k583uu8SAO1Jvy4ROKtL2_qD41xvDiHe0UVtJvLscO2ECVn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:58:14+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBfmIHANQOG5nRDleh_XxHJovY0MMX8k_c1AEwX4aK-GK9wEQdCcMEl9TqSesB19pnuIvNRxt7txpMzBcI8AY6n80Gs6jG0C4vC9hICBvSDI0PRFcrQZo6d24WQYzH8mTxECawrTha_Ai_f3KDZZc3VjSA8We4JYq3QQA8bWc94SoUIdfFvae1Sd44tFR1jgVAouedSRgevdc_IdTbbjFYsFypcnFPMJNArJgW7CPxMruNluKhIzlMHLEybjrwD2jA5uGiplKRZMbHm6O_tIKDwO-24Ga0oSq0kMeZn-k583uu8SAO1Jvy4ROKtL2_qD41xvDiHe0UVtJvLscO2ECVn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:58:17+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T13:58:19+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBoO0sbWvfmqUoV0G7dU9gCS3qg2U0cp_gJ-wERWaHoiFJGZS8ISrC8x5t_rIHq4fy3ijFF8gOPcSW2I3xcbcIR-YnhM-SjJwMG3-UhV44n9tJqGEeh5NQR3hFRbIG6P-nzL_XNKjuhp1tkffRZltENZCMFiEzQRCzPKUH-HHit-W4_6oiBBUe_OyKra3nKs8Rnud8cKdk3-P2L7JPAImXqL3H7GDW8I8sfN8fdq2VjW8rrIC614ZxnWvrDCWhgCEpr-cuuTSGXdufHlqvsKy8suPaZQ0x5S1sA7rJ3X18MnA2giyQ1AtYfQCijapoGCMKb-kdQ7WpZzVN-KF602UXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:02:20+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/jgJsgb_KQMD4jESFhimPvc3o2G42lQtMtfln8rIG0hc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:09:00+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:09:12+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:09:18+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:10:02+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:10:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBHNIqeg5amZGpDZNthfLlFxCaK2NSyqu_6oxWUmjzUkWy8P0_39tlXTLGmAC9lDcWTxMIOJzuCiQ7KMipVIgpjzXz0LaQow4Hs5fO_uHHOEuAJeIYMjWvtnUFzmAVa_qizM6ObHRqGYNOxnU7dbncihBpcK7lxgt_KRiGSNPhhlA1XgEghVHfn7mQ0_Mhm7CjQzhL-1kaWQUM2jNMwEMINLKY9jgOhJCBxyAdQZ5-p85SStzWLmRcFMvXO7R_hCg6pIdk1wQbSGHQeyQpzkQxqb1iqo6igFsa7-Vxu6WImt53fOVW-3TWKiOVEHRauBFLokG11kDTQCpRnteO8QRDp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:17:41+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:17:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQC0SmwhSr63zhGz-MzhYS4WsgfxJUo3tlx1HwgJnf-LHTZM3iIRorD0A14jYQnPPYU2_MHsX8LU51_P6kN5keTJEe-9ZmRP0BAYtXFlkKYSLoFYEXkGDkbr4h3clJZ2e0DNqRh_VjYm4NUO4DeKPBXaZu5FHQRdh1K_o52V_kAEdWSUem_kCpePipwjL02dx4JLAp7JJDvUgW_LPiUscnGDP27Sxx8BiIrqHMAl4WFhaDCzSB-e9XUu2IUytfh9M5yPg0AGp2QBcklx9zsPYkpERU3kYtJsov6tQw-Jd-bM5Pdv2aGwZ8wCoybXkcUDhNhmuj77Y-lasZqMStR02ULz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:19:06+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:19:09+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAnMTDjgcHKEyV7XEMC_cNTJBKnuhr8mktPVFsC4qEKD3D8VkU5G-1uQxwlyx-5R_CrI3Wh0V2_NdMl7q7Cr9ilogpeFxE5De17TTjmAcJNml_gq6_ZiytI3v6ErDZ_CajVVPsl7n4ynx1jPlhw8FlDaX7iwb4EAfqDONXNbr0ovAFSHsCulHIrJ0FhbixP9xAv8a86cnwzj1C0Evy7lORBsQtmKiK1QDY9QkSZkaFdrgQJEWGqLbB1UqVG-r1GTLIcN89Z3ufu7DCQNSQQadMAbqQ_f5VRHTiPWKgk5s23tvrDwur2nc3NsEq6Z1efjFNILU6nvmwYwTlkFxaOVOW5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:28:29+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAnMTDjgcHKEyV7XEMC_cNTJBKnuhr8mktPVFsC4qEKD3D8VkU5G-1uQxwlyx-5R_CrI3Wh0V2_NdMl7q7Cr9ilogpeFxE5De17TTjmAcJNml_gq6_ZiytI3v6ErDZ_CajVVPsl7n4ynx1jPlhw8FlDaX7iwb4EAfqDONXNbr0ovAFSHsCulHIrJ0FhbixP9xAv8a86cnwzj1C0Evy7lORBsQtmKiK1QDY9QkSZkaFdrgQJEWGqLbB1UqVG-r1GTLIcN89Z3ufu7DCQNSQQadMAbqQ_f5VRHTiPWKgk5s23tvrDwur2nc3NsEq6Z1efjFNILU6nvmwYwTlkFxaOVOW5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:28:32+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:28:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDqtq0vABEEKQNRdrVWbjZ6IEvF7S_qK_aH94Icetudg1LrALRUbk7PzxDST9q1yH1YN_SdFeL4LB4RFPHT9GP1v5612H6nSsaOidOGd1EMCn1fo9OQ8Lyai8A9CFbbm4JqTGIO65QhhY1jkNaZlQjbXSX6Snb4ykyQjjz0uHqi_G-xTZL59SenzTqW-QXgzgjs9eqoWGW4UAFJ0A6CgU1ke0g400WueUHoHgi3yEu_3PpArmKpZIxY_g2fOsAc5R1iUUOc6EvObcVcBbxWPfV7kwTO8GcGeGDIQ7hy4lfLAiWfTjbqS-ETJ39RZIHqX2YlAEdscz68PHM-m0p9DmH8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:32:35+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:32:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=GOf-hgAAAAAAwcHgAAABVpcxSUQ&oauth_verifier=UoWdjjbxhsrlc4Ic1gf90xJw3YOMd9fK
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:33:03+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-08-17T14:33:30+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=0yMMxQAAAAAAwcHgAAABVpcxuVs&oauth_verifier=gX0JtNUWpOAl5IFtcU3adrVhskQxnIKs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:33:46+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:33:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCgoNINpLU5ojH8lxDtj3HTsjdMuHDYzwJgyDLr2lEEavOXje1ZnKYLHbJkQ1axoheLDXnQWEqQdRTqSGH9neYab_Rl4YmlKJ9-cmK6utM8d7fOzHA4f9qGVbP5fV6lqfa94Jsn2jI8-1-GwbLEn41OlOQcBNrqsHntrdr66_SSh2AUcLJ78agJJoYkUiFxGFZIbWiAmmcqopxO7EbRWqH8Qn2at2KfxOuuq5accOcFhKuHjECk8Gz92lvTRpjaXlIwzj8Ha5mNpzNCQ5sYUpBbKnBTiKjteulz0Jo5QYPoCStgp3EdTOeT3FmWHEjY_sdEPkIRlYVXKkgxQw8vRrUk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:34:00+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:34:09+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=46mTZwAAAAAAwcHgAAABVpcyl7U&oauth_verifier=CJplvgqG4IfoCDBRaRa1lu8pdqu7fMoL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:34:15+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:34:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=g3H8sAAAAAAAwcHgAAABVpcy0Ek&oauth_verifier=ONOStke4GnbkIX5BC8urM0VOZGo1dIef
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:39:27+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:39:39+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:39:42+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQA85MHV59KCWdR5ViwgjKoqOnLf3boXL3WYe7m8Qg183UNzCFIyH5vGn1oUOyq44R0rlECj8C6H0oBq5GoaQEKfeMDDAaXbBiUS_kdLKxWhdbFcqk_66YhJ0W2MNXT8OOvYgcWYwXxhGDhbgOQ4bt4kYaCC8B0fKOpxmVs6f0EejMpRvJZsbxKdsuXbnXB6qloW_KnyzGy4uD5Pjn8CvevGkM5FtJxFqysC71jVL9G-8znHaCdWSVxSbHzm8sE-Md-9LqK9JHDT6dEwGFsiMfED1fI-d55OhnO6tno7p3B6_lA2ZDvA_Oxt3a2vEp3ux7WZ750pD4AIU6t58uBli367
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:39:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=cBTUUgAAAAAAwcHgAAABVpc3xQk&oauth_verifier=bNh2oezsN5LhBpXwGS9f3J8Q2MFEBIDT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:40:03+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:40:09+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=Ti65ngAAAAAAwcHgAAABVpc4IWY&oauth_verifier=BqTGXpaIjBkXtL05j2tOPTsBY41PXErt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:41:11+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:41:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=9QNEVgAAAAAAwcHgAAABVpc5J28&oauth_verifier=vYWkx6JQDLjE8VGSeTLyeaoKwcFsaUUu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:41:21+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:41:26+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=kaLpdgAAAAAAwcHgAAABVpc5UzU&oauth_verifier=D3cPKIjbutbnCZYxgwZ71xrQn2nykJ5v
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:41:38+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:41:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=LRbGOwAAAAAAwcHgAAABVpc5k3g&oauth_verifier=wjum2bcnZ8I5NbMoPNCZre1NeA80U6WI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:41:55+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:42:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=Y-5CJAAAAAAAwcHgAAABVpc52EA&oauth_verifier=6r7fZc9OC5M55dL7wYMlnbasL32cJ6Xb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:42:05+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:42:08+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDtOHxpDkyhnotDqAG6arbkckdP6cmWCPhcoJ1RigsUJbwAF3EuVWRMQZSb1IUhmV3-NzZ3SONe6hykyPEIue_itE-l_QjEM4g5AeuDiz0298rYhr47d8xt6ZRYoCgNMLiuYJL0GsjboiYT_wXP_VqzFGVOxW2xHvQdPhNRMKU2jVSExjJT8HZKR4eqchInOPoUacOCBl7y1d-TlxWNwb3BfN4WgLOXat6x9AJCVPsIy1jRQzltz0eGtY_2HoVG1wkfZ_jweBrJMAp-2DNzpUJBb5b4QiWj2rMEaCRPe3ZmLxFzjpSiNTFNxp8riGbimcR07poGAOFBD1R49h0wB2Dr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:42:15+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:42:27+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=aaLDFgAAAAAAwcHgAAABVpc6JQo&oauth_verifier=sMiXhd1OgFQBGuUlqltLGdjSqGBHME60
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-17T14:42:43+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:42:49+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=EpFM8wAAAAAAwcHgAAABVpc6kIU&oauth_verifier=wHm8JISbZNQ4RLe9tWtu9JhFN444MoNP
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:42:53+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:43:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDSZyhJerv-8Doy0_dKpB4zyhVlNuPBgJeWMXRDGFrG51Qw_lxYZ1RrXEirrDLNskpku98fJNDmhoxG3yBpcnCXsC28-ZuuSw-_8fsSWQ_c64llGaghu7IqmnAF8eg0QD7MT5vQ6zn23ScSYcgNStwfLyth0EnDunxBPAofATeCnv6SmwESdc8w9NL9UlJV9FT3sjjrVXzOr_jgeVUeDoD67cGBaM-ndHiIasXZ0h0NknXz60AA56zUUGAs4VO5bUYb0CrnIyO8apDa7AUQzz0N_R0A4Q2qV7VWLgRG__Hy7GfxgTR-ogwnjq077eTesSAfWIyiadPIbeNCxm13f_p7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:43:34+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:43:42+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAfsWYhKXxOg2YzSWzS4hB1uqXPikL9HCDdy1nTFEFnfG7Xmh7oqQmbtdSPnLEY3f-xOaLrbUHdJSSMRO0LSVYB2qywiD5M9V-xYjn30abR9HlhrkvAKaZ03wiGy8restbceUTJCPyrYVV9fENEuwEaaPwbeKN-zxyV5I4B7WtWZYKr5yDDZVLfb7pTAJh6srxxKbUIyXqhgzlEtjMDhmLGLGh6w342WeGtogrVHqTYVwe3ouCFc_clS3isGXBRM1DdnZRJkcEPGMyJBeHWmMgR0gO70W817g2G8Nhy-H-iiiu3zseoNG3jZRcF4ax51zR9VW-LiksKrIFXi2EITx6g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:51:32+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:51:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCCE_q1KIGc99AmeV0e41gYs5ikS0ba8r2t1RmV0T6cILm8UPlYtAPc199j4WmbbrTRDf75nMsZRcwp6PmKoJTJFBiSdkGM-orB9YcxkZ2wpvwcE_r1lFDgeD0qbz7uHcDw4iLaKrzuEno2VXGTOY6Lm73O9Gw2GDZ6O5XN0ibnJIOIgvtc79JLNCiTjpp5eG0IvZl5jg9u72Q29CsYEwAjIjmdL8vdxNGt-nGxNUATRTkooPbzCBDDXtgGhVz8stCp9OFacLDVSBwOyhM-dqrFanDXx_7bXHlaC2GwSR5ABWWeBxBWvxBB7mTMx3CkucIC4jChObAksc2agueeGCS5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:51:42+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:51:48+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=lDRKegAAAAAAwcHgAAABVpdCyr4&oauth_verifier=Pi4PC6qSEtuNRbFJoxDiyZXkPy551LxU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:51:53+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:51:57+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=WpvjoQAAAAAAwcHgAAABVpdC9eE&oauth_verifier=rcbuIjYB9eV17JCuzmiXWSUMTsSp523O
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:52:02+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:52:06+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=xeiq8QAAAAAAwcHgAAABVpdDGlQ&oauth_verifier=Kb6fRZgfSHA1UMrXMzKmoAdU93xmQsJR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:53:04+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:53:08+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=3HNrzwAAAAAAwcHgAAABVpdECuo&oauth_verifier=NymkNP79fIWjjnbrGwvoD9B7Z4ZQiUoB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:53:12+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:53:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=8ITJrAAAAAAAwcHgAAABVpdEKdw&oauth_verifier=WGVmloJydXABFXsP050EERQxy9vf7DCl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:53:20+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:53:24+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=gcq2nAAAAAAAwcHgAAABVpdETCA&oauth_verifier=5ChSewfJ54fDb7AW3gV8vD28pSrDDHuy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:53:33+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:53:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=eKhslwAAAAAAwcHgAAABVpdEe18&oauth_verifier=0pvo1ylvJkzKNoMDl0h12fXWqMsx26sR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:53:57+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T14:53:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCG28CPDr8Lnc_l6xYUUUus9SO_c-mbOULbzTvF6-ZJBZkhVnS34uqkClmKva8xONJttEg8tBVbhCJM0cdJtEULt_pMqi2Ji5Ah0-UMwlGA_Y4KebCEmygtgPF4DC9OHyTbGSDYqfXvoRFSRcUCk-O_4pDh0jOsGynFH7JjJVn3yDCAMAmBBKhwXJle0xAKCyaVw0kXkjanHkbTu5qk2k6pe-CHFHa8_-xAvn9DmQpF9ttSBCjHa2Kmlc3QqC6sWQI87ynadZniTMbfa8_nu7sw22Qw5uPmT8f33_9a9MYv0jXs1K-PqV1rN2ZqCJPJ32Z2eq2NFVUCXmWL6gTwQZ7V
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:55:48+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:55:52+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=Gnw89QAAAAAAwcHgAAABVpdGjF0&oauth_verifier=8FdhmXsvq8cuAHDCiT17DF6LHGUrzKzW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:55:57+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:56:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=8krf5wAAAAAAwcHgAAABVpdGrw4&oauth_verifier=qElVnm1YqRszWyjKEknk54sKJMJd7ZwT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:56:03+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T14:56:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAoOB9Y49HNCvqZJUtPk6n6AphC8hvereiSFSDGEKKs7mC9IL39Clcc-ZRNXXz7hd75s2JKGSBsiSykBsdOyHWDbw2O6AU7FU6vqL71jbahpe8jhb0h1IwxgHTqZihpmBbtw_xLXayOl0f-tzBvylrXX0GGJUV94SgWx7A3zZF6JAvhnhfm3zR_HLPYaxao4SiN2QKXFeqbXTg1-Hhgq8260oJNJBtIl-fATPBy32b5OocJGcvc9GIdmW3-xT1mA3E0maiSR4ltxbHo5Pd3kHX3ug4G1L9o7Vp66S15HTwO1z1lWt4UARwcl7KA9BqNShB4sTBLCSjTuHjM-Q4MG3QX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:09:19+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:09:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=VflwSQAAAAAAwcHgAAABVpdS7fs&oauth_verifier=yeTfr4xhXV2BCdj3lFsW3JmCrGrqTbDk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:09:27+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:09:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=UF5nfQAAAAAAwcHgAAABVpdTC9w&oauth_verifier=PyJaJQpunAZUmXcgXmTaIuNrzIDlomKW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:09:34+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:09:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCmkOm4Vzej589e6ASD2sttrzXAAGJv223k2r08U9nK9qytF8ICzAemLi38U3_tOxogobypjn3inGTWlCkarNhmt17Vo5ymLg8KhSSbEJo4Y6PbAug4F1u4pt3ekF66gRFye6dBsdLUAouRemCJgKt7F0_kYxUXbY5XJeFkyVHdH9hxbLZK79SZy58mKhn_mb0oLR2aymRxU1e9Wso5gQresE6bW9jOcU1VeqU4DTHdkSvdnSX9g43WZ5IeNhyItX0CGToFfK7Esryl4JFStWcSOmCo7w3ig16_gXkG0lvm0Wch7PI28JIYAY1TKCBKV8ez_XIQmUUYpIunJVvNodK9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:10:05+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:10:08+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAv1WxleR7bv8ZiBpmMrSgkLOJX-TIdj-ziJ4nDcqgWNSe1easTlBgfgo80s7_mI8Np4ubRSpgr7yDgB1_LRM9J4A2CMKXNzzY5FRwJdnQJvu_BWoAyxucXCNO4CHbMwxS1soXwJ78Snq0oiSTB_5_ZPHnPkLn3pKH-IrYylkxLLFatg1S3YyLY_GrWK3Y4x9VrXRWgiDTnIp79dyfwhDKDQeZRuHjqahOK029eLrgTpwCD0mqsU2yG_gn2taEUtFqYSm0aNzddvJAAUFlGMjmJEokvL-pIJswwJetWT_kARgSI05nGY0sQvQRhIbKvb9yaKly-54_6bZVIbYn3GazL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:15:27+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:15:30+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAZb3b3gBvcbwAbtlYScigdO2JsXfq-ynzjFcSlCGGk0m4NKwNByukeOz1WmIh7o_9_sv6_FwWMXLZJjLwbmMmnP1aZsnx9mhG1ypDtRBRwydgu8bZydkqglVgwAQ-6nz74xIIrwXAM8heZFMZAkPtLJWc4BsKA34K069fVM76ktsaHMiggw6pl8olNs6FNIHb_oEnObeEUh2wm6e5CuxXw1fmbOcVv9nv9k0XrtxYx84-J1ekj3Ehkk6VS5Xkhgijnmp7U2VpECpp8mwFDCbYjqRDBzHKw5FfIzk_44rW2m1oL4aUgnqaGWR8-wsmqPqu3tLhPYsD9Y5kyecdkUrvj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:25:22+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:25:25+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=ny9I7QAAAAAAwcHgAAABVpdhnLk&oauth_verifier=uUirhGYAPAsQNgcR96zg8fKrQrUHKYpA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:25:52+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:25:56+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=_J_iZgAAAAAAwcHgAAABVpdiEro&oauth_verifier=rzwXyf5x2MGnTpcgsM58WndsPCRy2aq8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:26:00+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:26:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=qPQLiQAAAAAAwcHgAAABVpdiMws&oauth_verifier=XEfS2vHPaHMtGRvIoFTxxpHwADFDARkf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:26:10+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:26:14+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=LRE3GwAAAAAAwcHgAAABVpdiV8A&oauth_verifier=bSlcKOW32MRlBVyifjP1YN2Hqa6Rc6zH
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:26:17+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:26:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=gBSwFQAAAAAAwcHgAAABVpdidhU&oauth_verifier=utWZ7pKkku1d0ZaHV0fNoLVf7NkMhN2S
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:26:25+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:26:29+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=incHiwAAAAAAwcHgAAABVpdilQc&oauth_verifier=VFUXPizqcB19YORByxw8aI5bEAmGoFBq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:26:33+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:26:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=31_CmAAAAAAAwcHgAAABVpditCI&oauth_verifier=n3BRLLtX8ZBw1YWJvTyjK92K8SBjUySi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:27:22+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:27:25+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=emx2fAAAAAAAwcHgAAABVpdjcdI&oauth_verifier=4MnoP5CqiLLsp34D7G6hviiYxKuRnHaA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:27:30+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:27:32+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:27:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=fjQFEAAAAAAAwcHgAAABVpdjmKc&oauth_verifier=BCxUiAmppwxNgWpbFLoNDgSzP72FTZVs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:29:04+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:29:07+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQA0kyIfm8r9Kk66qfcZXJYRo4Rdf30KO_Cay3UoiwccdXhwshmPPIs9CuwP9C9MPnw_HVwdSeaFjGIARKk7UeVmjp_RrcL9NOe6iQQyNNEWUFnLz0E-fmftyBYu_KdnwYcLt7t1tX3K3b5aJ947ebNdqQxy3coEJ9sFqkZoxdIFLFxArEvnP9GnkfTZrHAq7-Rq2S302vkOfHkk4Vwu4SaP5suyWqVj0BlBQtL5JgQs7IaDAcKw0tzdiNCHsw3Plo7TFaEmKhTz693g_oN08P5A6z_IV0WGbSvT6V-SuGve1rOMfU2Ho2vQbCgP0FeN0_CdHqo5AWbbngdkGDA6vEcn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:29:20+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:29:49+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=No9hFQAAAAAAwcHgAAABVpdlPa8&oauth_verifier=v9WL0oHuPOlVtPWH5XLzub6GchJuAXcp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:29:57+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:30:00+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=b8T_nwAAAAAAwcHgAAABVpdlzkg&oauth_verifier=xAONVu7tS4VHJBiPOSsqg9LivEzWVLAg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:32:33+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:32:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=7z2-pAAAAAAAwcHgAAABVpdoMzU&oauth_verifier=qPzn34qisg8UoyxOxUvAOoDPwsUx4RVA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:32:44+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:32:48+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=4Sk7JAAAAAAAwcHgAAABVpdoXGA&oauth_verifier=WfiF2WBVCeifGQNLZwJx8T4UDl0TWdPZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:32:55+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:32:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDhF08A4S0cfIONiocHT5xpjqP2_M3m6ZDM3K5N3malWsBfw95tuIWkrmQaenMlQ5q-kNDScHloKPoF2LJNdLxg3E1hDVd-jQ4hb1aa-2owtz_SwwU5FUrD2pQsqLuUGiArjhgr_MnjlRoRbHtmJMIqMfiLNPHPTwD8cXYOLy_nmN4ivRjJ0MT8CC2spa_jEfWW5C6D-V4s2pP1qF7lvAAjvs33DfetAeqSqZb_BVysARxC5JiHX_IKYztUkWvyih7yY5JMEDtpGwpa57Cga_M4q1kYjTBo1eraD0X5A_1pUcHbkZ0EtMdez19gWA3eg64lWqn2Ejj1DqE2xxw6PdFA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:33:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:33:35+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:33:53+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=EpNklgAAAAAAwcHgAAABVpdpJNk&oauth_verifier=5vU2HzHKzZUOXzKI5G7alTfBCGROHWzy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:33:58+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=EpNklgAAAAAAwcHgAAABVpdpJNk&oauth_verifier=5vU2HzHKzZUOXzKI5G7alTfBCGROHWzy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:34:04+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:34:07+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=x_QZJwAAAAAAwcHgAAABVpdplYc&oauth_verifier=XP9ZKBv1Xo8lDyXcH8okihTMLPslsvpb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:34:09+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:34:53+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCGacSkj57Acx5idPesQhpRSgKwhr4jG8p8yEFABu0kvL_719CmS55gRKZbkCri1RmF_8WQ9fj43kmDDu8M1AasmRLhLouUveMfeLPIl-5n4iO30p6YzYBpR-Xzq3MBnIBNFj0pTA_IIxztd73PBI2n48WNUR7TI_jkSL4dmsorJ6A8bU-IbXidrsboj-etS332TxdWafSJ11Gqej4GLgJlZfQMDIxuAfzlpiAkByAHSN6VXLCGQjIgQ5zxPwsTdslAoo_9fIwyE9H9R_McKPWr4GTy8uJTardG3CwpUowjEQBGzolfTkF2hITHomcyqTY_vUgQSwqSqj5G_MkxjWue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:35:07+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQC6hHSLMhKNR8ka7kltRUrhSxRnvV8iXR0G44pv5pg4GRJR4mfWUF5Y_7E25WQT9e4z4FzQ2h1Ql3BK6iGIbiMgFfNT1vGZY-KvGimnj5B6JibOLMwsURfW6dBpZEyTN8x-2hc44DdhNyE-IGBSyx_vapJKcjRA0XgXh-7jsiyLU2R3kxD1xBEyQ4xi84e7YUzsCESdQeEKNNzpPzrfMVJfdqX85mfVZGBcHFqK7e8ljJZjY1YXIwIrnaKBknrxzv1bNnF3gp2t1Qb9bp72r6bNUp8mBa_eHqyUAMBYUUN2HyjK5wlUBg8r1jutSarPcBl4m7FPXr1Jv_MK75j0akK1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T15:38:39+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:38:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAC_Ico_gzoxvlUZoIobE4409LzIi0RVogbijXt21LFdh7LoXfk5acaZ-nrQ0QSLjEQDlEW5wXDpMPu-nZIcoG-Rt3uVnYOrcKtvim0bTJe6ezBsVfTZrzqAjsej5v7jIyepRUXqhsFjohxUC_EhJ4tdakEzQEKt5PVhAo4oj83QZ3netPwF948HPiJ1KxMgM_u_5De9zFuHlXbMtIbCm2PAUvXyINSz4W7Im1CVpYdNMjuHr_Ul2FsgbWjH5px_WwxvlzKn5wvQwAiAKPsWkr0fwZJXDASEUJBkq-0YPNg3RXAAIgkErM0K8IUy_IJsLMd6aLKcikp7maXPtcuIc07
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:38:56+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T15:38:58+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQC81lFxvuZlWHc5j5DnBZ7wCN8bIjxCWbTePYeJ5goqeFGWuNUpN9iFdNppkyVYQ7R9Ej6EnOAlHYP_hd2t_P55x01aekdIUdialw8R3fojHNP3LdEOeR1evX8rCPPYScuitbKcfLELwtO4pH-MLT9OUbDehpfEdIGc7h2xJ98YHM2MkkhXjTA7QpW4iXPFoIm1CrQbLfBzoJgsW6Nm_gcVn0ZjjvMqRAjvKb84SSINdBPB0g99n-saBn-sBfmuDZAkU4Bcwpbjafd5QembVuZ4RL_8WgBWCHL6PnYfZ1ISO0Hni8lFE7YZfO-fSNUVfeswWxoqv9lhPidS6oGhrTMj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T16:06:50+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T16:07:00+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T16:07:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=qZ2xwAAAAAAAwcHgAAABVpeHud4&oauth_verifier=F99E5jI9nFa6e59CSuaoNwxv7uN9nBiU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T16:07:10+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T16:07:14+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=xzPspAAAAAAAwcHgAAABVpeH5D4&oauth_verifier=5PpQr7ro0EyWNlsm1LZmHmy2DHBnE0dZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T16:07:40+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T16:07:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAtqKuC_MBNlBxy_-lXwe4v_7TQRbFp_jbOTzEMWaxL0Lum45qH3KTMSaANauYyL54shiYZouKq-clSYcdy73qalL4E8fe64qggWCTgyV81oD39eLCrilzXkC6c-KAJnBJ-qMXDyN6RN1LQjv1TU0kx9n483FQDPQQCLCWLmh0gJ6kvP-qSwboxn4kTnuKy9AQDmr58YtFGCk-ZTM2ApzPNGGnxZtpywGCLIWuXtiQp04N_wI-MDLGacsKrfxd7EsIpYDZ02v-njLBde_nFeWvmvqWTvGPSxcphuxCpRcNyoBq84DC8GZGXtxEdToOTSLVH2IWSf7UwP2N00gLkRxQO
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T16:11:32+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCF5J9fYreaTwnVYYOL91M15pm0a7Fcs1eu99oztOoqRuGuNvUHTrVhteZy5bWpGaMnLHc30nMwQ8YouC2s_fT2kyKTZl9aKbLaKG_V0ac7igOJI40wnuWclXigotE9TRVUMU9_VugHPIrat1jazy3bI26jYLlpcCgc8TLnnlISbEfaFNuZDZk95ZEF_d8ti2hknV1N9Qk7exwMkQ1T0cdNgkRMs_-paAgsnvNZQBmrz5PS7tM0q28aBhuEq7IPViwIiXjdU7KWfHN3HXLEOfB5LT6hfPan5NqW1SsYRwVcBZh6Ut6mtt3tXXBEWhw2sm4NR2X6nko6rL0x1A96O-2N
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T16:49:22+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T16:49:38+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T16:49:51+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCw7haEw__rWHdVxezyz5mRhSEUT1tUqui-bSGQGoy0y8ryxJcrzebEL2cKdMWcpdHJ62PsAETQ7Pbmvamkm1TfC7Sl1sj4kMj2esUrg4ftWDS_yfCm6mIvKo2OvIPDB3EZtmM-uKqm6HyFWF2yVyy1BgSFiu6lLWTVGB8sZ0M2ssAUbn8qGaOQ8i0QiwAPJG8D52XlVtn9ami0ZW4PzJALXIi_--jQ2mSBb_kS9H4-19ocj2Z0XicS6ZqBy-Pz6rmCkkdXGA22Rm2vISz9o3L3qG2TrxtU0AQc7J_FpcgY_fwp9ehLL6qujHu_vlP1hLS_bGAF_Ic84yRuEbmTzlkF
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T17:34:31+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T17:34:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=D1h9dgAAAAAAwcHgAAABVpfX2qI&oauth_verifier=3STYBOdN5zwTmSaRnAI0WDwmua5pwgAZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T17:38:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDtWMozYAzgyzAxVmoCd0hTdpqO56OVpq8KNpBIVJdHmo5PMyuWp59HMd375dXOobS7ouIVCyYjpo64AtxI19XtObUbIjxhtUI3uDEZOE-HpMYWZQ2U0-vJqgnaeDz_T2llfsQ5LpzML8MYUHbMhcJOjBJrlZTD1ccb4DiHoS1QwJhxT91AiBOG8Ls9suW_43rHZ65HMjljZWbXLoHUUejsLczZol_5zh8NgV8hW2gUTBMFMHwfji-zONk2N76u0qaPtG2osJ1hu_9dWpCHCSpZoav1XQVPFc2Gd3gnwSB7OyNvjJN-uqskN-jdKqWyz3CxBuEpVJQTZIWbpzBgaZ52
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T17:38:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T17:38:46+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T17:38:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=0vpoQgAAAAAAwcHgAAABVpfbwEY&oauth_verifier=hCJ3dxHC5C3MwyJUJFm7pBdch0UswkNd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T17:39:01+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T17:39:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAymSD4cn9QgE_tIhdb5ZWUE3tOmJzc-7suoncCSH76ZQVQgnDn6SSYWKe4vZLddj6w3n1U5KSmZ39NrETVdoYxpwnYAUny4Hk3XaR2k-bO0HZ759jF7NkmgO0eDrBzSf3xqmFpx2y-XMBW5pjkaru-6EYTRkC-2P85aHx7ZsD5pOWIqg2KVOxopkCx9TXNaJVEk7mFgzJSO8K_VaqwmphUh-dvQoTM0PpFwhW78mhxgfPQnVVWftU4VlsPqe-epMbnQGjgjIYj_D5bK6kece4A7mJl-RmMuOBCUGmc-wS2XskPqtTEYUjLvSTt_z5o66eTOlKH3hF2SJ3HAbpH5O0e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T17:41:39+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T17:41:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=cCws9AAAAAAAwcHgAAABVpfeYRU&oauth_verifier=csV5Tcf5QYYVHAcWqZSY1hrm4yBCgGa1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T17:43:01+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-17T17:43:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQC1OMK8CiTLB29lM-QJQf06qwTBAo2kwZsc-ppgbeSNBn6GytPaXS8XDaHG68pjI755OV5N2o_YJ7bQbcQImFuMzlNBAhyKxY7vVvSQRdDMeEEEfo3zberaWfjyPn90d3vk0AFiETIiYHEackyfw4IRRwPK0VzFHA-o06zHsop2f6ANE2SuwNr6yePjhvKNP6U5VbGNijC-YjAQ04QFsaW_WMPgqDycBVHtjgtgv-swzh1uMVPsxM_MJT6mn8IRGe1KEcxRjLQHQe6_xrMMeRZqzBpAISOEe9SeiShwi9hHAIWvDQmNlR1omCGwLPhVMTK7btdRLOyVRFqsvjNljC_b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T18:28:09+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-17T18:28:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=d5hz86g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+

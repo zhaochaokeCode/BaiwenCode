@@ -1,0 +1,43 @@
+<extend name="Public:layout" />
+<block name="main-layout">
+    <!-- container -->
+    <div id="container">
+            <!-- content -->
+            <div id="content"  style=" background:#fff;">
+                 <p class="nav_box nav_box_04">
+                     <a href="#" class="nav_01"><em>01</em>決済方法/金額選択</a>
+                     <a href="#" class="nav_02"><em>02</em>購入確認</a>
+                     <a href="#" class="nav_03"><em>03</em>支  払</a>
+                     <a href="#" class="nav_04 act"><em>04</em>購入完了</a>
+                 </p>
+                 <div class="send_box">
+                     <p class="tt_01">メRCチャージ</p>
+                     <p style=" color:#8c8c8c;">誠にありがとうございます。チャージ完了いたしました。</p>
+                     <p class="tt_01" style=" font-size:30px; text-align:center;">支払完了</p>
+                 </div>
+                 <form action="__CONTROLLER__/pay4" method="post">
+                     <table style=" width:480px; height:35px; margin:20px auto;">
+                         <tr>
+                             <td style=" font-size:14px; width:130px">账  号</td>
+                             <td><span class="name_input" style=" width:240px !important;"><input type="text" name="bankid" value="XXXXXXXXX" onfocus="javascript:if(this.value=='')this.value='';" disabled></span></td>
+                         </tr>
+                         <tr>
+                             <td style=" font-size:14px; width:130px">決済方法</td>
+                             <td><span class="name_input" style=" width:240px !important;"><input type="text" name="payment" value="{$_SESSION['pay']['payment']}" onfocus="javascript:if(this.value=='')this.value='';" disabled></span></td>
+                         </tr>
+                         <tr>
+                             <td style=" font-size:14px; width:130px">選択金額</td>
+                             <td><span class="name_input" style=" width:240px !important;"><input type="text" name="payamount" value="{$_SESSION['pay']['payamount']}円 ({$_SESSION['pay']['payamount']}RC)" onfocus="javascript:if(this.value=='')this.value='';" disabled></span></td>
+                         </tr>
+                     </table>    
+                     <p class="btn_04" style=" margin-top:15px !important;">
+                         <!--  <a href="#" class="btn_01"></a>
+                          <a href="#" class="btn_02">確  定</a> -->
+                           <input type="submit" name="submit" class="btn_04" value="確  定" style="border:none;color: #fff;font-size: 16px;">
+                     </p>
+                 </form>
+            </div>
+            <!-- //content -->
+    </div>
+    <!-- //container -->
+</block>

@@ -1,0 +1,120 @@
+<extend name="Public:layout" />
+<block name="main-content">
+	<div class="main-content">
+		<div class="breadcrumbs" id="breadcrumbs">
+			<script type="text/javascript">
+				try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+			</script>
+
+			<ul class="breadcrumb">
+				<li>
+					<i class="icon-home home-icon"></i>
+					<a href="#">首页</a>
+				</li>
+
+				<!-- <li>
+					<a href="#">管理员管理</a>
+				</li>
+				<li class="active">编辑管理员</li> -->
+			</ul><!-- .breadcrumb -->
+
+			<div class="nav-search" id="nav-search">
+				<form class="form-search">
+					<span class="input-icon">
+						<input type="text" placeholder="搜索 ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+						<i class="icon-search nav-search-icon"></i>
+					</span>
+				</form>
+			</div><!-- #nav-search -->
+		</div>
+
+		<div class="page-content">
+			<div class="page-header">
+				<h1>
+					游戏管理
+					<small>
+						<i class="icon-double-angle-right"></i>
+						编辑游戏
+					</small>
+				</h1>
+			</div><!-- /.page-header -->
+
+			<div class="row">
+				<div class="col-xs-12">
+					<!-- PAGE CONTENT BEGINS -->
+
+					<form action="__CONTROLLER__/mod" method="post" class="form-horizontal" role="form" enctype="multipart/form-data">
+						<input type="hidden" name="g_id" value="{$games['g_id']}">
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 游戏名称 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="g_name" value="{$games['g_name']}" id="form-field-1" placeholder="游戏名称" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" required />
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 游戏图标 </label>
+
+							<div class="col-sm-9">
+								<input type="file" name="g_img" value="{$games.g_img}" id="form-field-1" placeholder="LOGO" class="col-xs-10 col-sm-5" style="width:150px;" /><img src="__PUBLIC__/{$games.g_img}" style="width:183px;height:66px;" required>
+							</div>
+						</div>
+
+						<!-- <div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 管理 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="status" value="{$games['status']}" id="form-field-1" placeholder="管理" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 类型 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="type" value="{$games['type']}" id="form-field-1" placeholder="类型" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div> -->
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 游戏介绍 </label>
+							<div class="col-sm-9">
+
+								<div class="form-group" style="width:700px; padding-left:9px;">
+							    <!-- 加载编辑器的容器 -->
+							    <script id="container" name="g_desc" type="text/plain" style="height:300px;">
+							        {$games.g_desc}
+							    </script>
+							    <!-- 配置文件 -->
+							    <script type="text/javascript" src="__PUBLIC__/admin/ue/ueditor.config.js"></script>
+							    <!-- 编辑器源码文件 -->
+							    <script type="text/javascript" src="__PUBLIC__/admin/ue/ueditor.all.js"></script>
+							    <!-- 实例化编辑器 -->
+							    <script type="text/javascript">
+							        var ue = UE.getEditor('container');
+							    </script><br>
+							    	<!-- <input type="radio" name="display[]" value="0">显示 &nbsp;
+									<input type="radio" name="display[]" value="1">不显示 -->	
+								</div>
+
+							</div>
+						</div>
+						<div class="space-4"></div>
+						<div class="clearfix form-actions">
+							<div class="col-md-offset-3 col-md-9">
+								<input class="btn btn-info" type="submit" name="sub" value="修改游戏">
+									<!-- <i class="icon-ok bigger-110"></i>
+									编辑 -->
+								</input>
+
+								&nbsp; &nbsp; &nbsp;
+								<a href="__CONTROLLER__" class="btn">返回</a>
+							</div>
+						</div>
+					</form>
+					<!-- <div class="hr hr-24"></div> -->
+						
+					</div><!-- PAGE CONTENT ENDS -->
+				</div><!-- /.row -->
+		</div><!-- /.page-content -->
+	</div><!-- /.main-content -->
+</block>

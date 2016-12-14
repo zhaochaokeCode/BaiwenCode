@@ -1,0 +1,2686 @@
+[ 2016-10-12T09:44:36+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0260s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0270s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0290s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T09:44:39+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews/details/id/58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 58 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:11:05+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Games/index?gid=30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:11:05+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exlogin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:21:45+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews/details/id/58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 58 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:23:25+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:23:26+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews/details/id/58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 58 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:23:28+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:23:32+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exnews/details/id/54
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 54 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:23:33+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:23:34+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exnews/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 4,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:23:35+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exnews/details/id/52
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 52 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:23:38+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:24:45+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:24:46+08:00 ] 127.0.0.1 /gamenoll.com/index.php/desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_raiders` [ RunTime:0.0510s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_raiders` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\DescController.class.php 第 21 行.
+SQL: select title,id,createtime from gn_raiders where belong = 30  order by createtime desc limit 0,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: is_top D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\3261f2bb1cdb955f026746410528a219.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:24:48+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Desc/details/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_raiders` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gn_raiders` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\c6547038c310386d3015e750582c7e29.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:24:51+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Desc/index/type/%E6%B4%BB%E5%8A%A8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_raiders` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_raiders` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\DescController.class.php 第 21 行.
+SQL: select title,id,createtime from gn_raiders where belong = 30 and type = '活动' order by createtime desc limit 0,4 [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: is_top D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\3261f2bb1cdb955f026746410528a219.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:24:53+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:24:54+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exnews/details/id/55
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 55 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:24:55+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:24:57+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T10:25:00+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews/details/id/52
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 52 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:25:02+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:25:05+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exnews/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 4,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:25:06+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exnews/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:25:08+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:30:00+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:33:29+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_playpic` WHERE ( g_id = 30 )  [ RunTime:0.0000s ]
+
+[ 2016-10-12T10:34:32+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE ( g_id = 30 )  [ RunTime:0.0000s ]
+
+[ 2016-10-12T10:35:46+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0010s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:38:28+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:38:38+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:38:40+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:38:46+08:00 ] 127.0.0.1 /gamenoll.com/index.php/sdfsdsdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\ba9f7a85ac4d7e7f0b0da6e93b0b5939.php 第 7 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\ba9f7a85ac4d7e7f0b0da6e93b0b5939.php 第 8 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\ba9f7a85ac4d7e7f0b0da6e93b0b5939.php 第 11 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:40:35+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/validate.html?ZW1haWw9MjA5MTAxNjgwOEBxcS5jb20mdGltZT0xNDc2MjQwMDE5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0040s ]
+SQL: SELECT `email` FROM `gn_user` WHERE `email` = '2091016808@qq.com' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T10:40:35+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/reginfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: submit D:\WWW\gamenoll.com\Application\Home\Controller\RegController.class.php 第 98 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:40:35+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:40:43+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/checkloginname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gn_user` WHERE `loginname` = 'fanzhiqiang'  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\gamenoll.com\Application\Home\Controller\RegController.class.php 第 138 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:41:07+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/jscode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:41:07+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/reginfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gn_user` WHERE `email` = '2091016808@qq.com' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_user` WHERE `loginname` = 'fanzhiqiang' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_user` WHERE `nicename` = 'aaa' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\WWW\gamenoll.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+
+[ 2016-10-12T10:41:07+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/infoverify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: surname D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\36f2f0984b5c7104fba2fb040831d0e1.php 第 53 行.
+NOTIC: [8] Undefined index: name D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\36f2f0984b5c7104fba2fb040831d0e1.php 第 53 行.
+NOTIC: [8] Undefined index: sur_name D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\36f2f0984b5c7104fba2fb040831d0e1.php 第 57 行.
+NOTIC: [8] Undefined index: pname D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\36f2f0984b5c7104fba2fb040831d0e1.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:41:12+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:41:40+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/jscode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:41:53+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/reginfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_user` WHERE `email` = '2091016808@qq.com' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_user` WHERE `loginname` = 'fanzhiqiang' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_user` WHERE `nicename` = 'aaa' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\WWW\gamenoll.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+
+[ 2016-10-12T10:41:53+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/infoverify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: surname D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\36f2f0984b5c7104fba2fb040831d0e1.php 第 53 行.
+NOTIC: [8] Undefined index: name D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\36f2f0984b5c7104fba2fb040831d0e1.php 第 53 行.
+NOTIC: [8] Undefined index: sur_name D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\36f2f0984b5c7104fba2fb040831d0e1.php 第 57 行.
+NOTIC: [8] Undefined index: pname D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\36f2f0984b5c7104fba2fb040831d0e1.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:41:55+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/infoverify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0040s ]
+SQL: INSERT INTO `gn_user` (`email`,`loginname`,`password`,`nicename`,`sex`,`birth_year`,`birth_mon`,`birth_day`) VALUES ('2091016808@qq.com','fanzhiqiang','1bfc4066787f3f9bff0c7a6d002c6ae2','aaa','2','2015','4','11') [ RunTime:0.0300s ]
+
+[ 2016-10-12T10:41:55+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/regfinish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: submit D:\WWW\gamenoll.com\Application\Home\Controller\RegController.class.php 第 171 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:41:58+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Login/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_pay` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_pay` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 49 行.
+SQL: SELECT `payment`,`createtime` FROM `gn_pay` ORDER BY createtime DESC LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 7 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 8 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 11 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:41:59+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Login/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\21af567e48b789664d174d106932bbce.php 第 7 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\21af567e48b789664d174d106932bbce.php 第 8 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\21af567e48b789664d174d106932bbce.php 第 11 行.
+NOTIC: [8] Undefined index: isLog D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\21af567e48b789664d174d106932bbce.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:42:00+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Login/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:42:29+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Login/dologin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_user` WHERE `loginname` = 'fanzhiqiang' AND `password` = '1bfc4066787f3f9bff0c7a6d002c6ae2' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T10:42:29+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Login/personal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_pay` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_pay` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 43 行.
+SQL: SELECT `payment`,`createtime` FROM `gn_pay` ORDER BY createtime DESC LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = 73 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 7 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 8 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 11 行.
+NOTIC: [8] Undefined variable: Think D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 134 行.
+NOTIC: [8] Undefined variable: searchbuy D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 228 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:43:44+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Login/personal/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_pay` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_pay` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 43 行.
+SQL: SELECT `payment`,`createtime` FROM `gn_pay` ORDER BY createtime DESC LIMIT 20,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0040s ]
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = 73 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 7 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 8 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 11 行.
+NOTIC: [8] Undefined variable: Think D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 134 行.
+NOTIC: [8] Undefined variable: searchbuy D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 228 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:43:49+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Login/personal/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_pay` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_pay` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 43 行.
+SQL: SELECT `payment`,`createtime` FROM `gn_pay` ORDER BY createtime DESC LIMIT 25,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0040s ]
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = 73 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 7 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 8 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 11 行.
+NOTIC: [8] Undefined variable: Think D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 134 行.
+NOTIC: [8] Undefined variable: searchbuy D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 228 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:46:58+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Login/personal/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_pay` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_pay` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 43 行.
+SQL: SELECT `payment`,`createtime` FROM `gn_pay` ORDER BY createtime DESC LIMIT 0,5   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0040s ]
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = 73 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 7 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 8 行.
+NOTIC: [8] Undefined variable: website D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 11 行.
+NOTIC: [8] Undefined variable: Think D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 134 行.
+NOTIC: [8] Undefined variable: searchbuy D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\4c2454dfb75d41d0287ecbbf20376e5a.php 第 228 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:48:23+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Reg/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:50:46+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_server` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_server` WHERE ( g_id = 30 )  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_gsur` [ RunTime:0.0310s ]
+SQL: SELECT * FROM `gn_gsur` WHERE `g_id` = 30 AND `u_id` = 73 ORDER BY last_login_time DESC LIMIT 2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: last_login D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\93ef6f4e0883454498eb7273983f50b5.php 第 184 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:50:49+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exlogin/loginout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:50:49+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0010s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:52:30+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:52:36+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:52:49+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews/details/id/52
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 52 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:52:53+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:52:55+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:53:39+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews/details/id/58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 58 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:53:41+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:53:42+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:00:20+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:00:21+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exlogin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:00:24+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exlogin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_user` WHERE `loginname` = 'fzq' AND `password` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T11:00:24+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_server` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_server` WHERE ( g_id = 30 )  [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_gsur` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_gsur` WHERE `g_id` = 30 AND `u_id` = 39 ORDER BY last_login_time DESC LIMIT 2   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 25 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:20:12+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_server` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_server` WHERE ( g_id = 30 )  [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_gsur` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_gsur` WHERE `g_id` = 30 AND `u_id` = 39 ORDER BY last_login_time DESC LIMIT 2   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 25 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:21:41+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:22:19+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:22:27+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: img_src D:\WWW\gamenoll.com\Application\Home\Controller\QuestionController.class.php 第 58 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\WWW\gamenoll.com\Application\Home\Controller\QuestionController.class.php 第 58 行.
+SQL: SHOW COLUMNS FROM `gn_question` [ RunTime:0.0470s ]
+SQL: INSERT INTO `gn_question` (`u_email`,`q_type`,`q_img`,`q_time`,`u_id`,`s_id`,`r_name`,`u_browser`,`os`,`create_time`,`communication`,`content`,`g_id`) VALUES ('2091016808@qq.com','有料ポイント購入',NULL,'0','39','24','123','','','1476242547','1','11','30') [ RunTime:0.0360s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:22:28+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_server` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_server` WHERE ( g_id = 30 )  [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_gsur` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_gsur` WHERE `g_id` = 30 AND `u_id` = 39 ORDER BY last_login_time DESC LIMIT 2   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 25 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:44:12+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 3 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:44:33+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_server` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_server` WHERE ( g_id = 30 )  [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_gsur` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_gsur` WHERE `g_id` = 30 AND `u_id` = 39 ORDER BY last_login_time DESC LIMIT 2   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 25 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:44:45+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 3 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:46:00+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 3 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:46:12+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 3 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:46:42+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_server` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_server` WHERE ( g_id = 30 )  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_gsur` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_gsur` WHERE `g_id` = 30 AND `u_id` = 39 ORDER BY last_login_time DESC LIMIT 2   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 24 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 25 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:46:45+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 3 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:52:42+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 3 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:52:53+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_server` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_server` WHERE ( g_id = 30 )  [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_gsur` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_gsur` WHERE `g_id` = 30 AND `u_id` = 39 ORDER BY last_login_time DESC LIMIT 2   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 25 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:52:56+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 3 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:53:04+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_server` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_server` WHERE ( g_id = 30 )  [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_gsur` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_gsur` WHERE `g_id` = 30 AND `u_id` = 39 ORDER BY last_login_time DESC LIMIT 2   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 25 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:53:05+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: nothing to repeat at offset 7 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 88 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:53:30+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:53:50+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:55:21+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:55:31+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: nothing to repeat at offset 7 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 88 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:56:01+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_server` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_server` WHERE ( g_id = 30 )  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_gsur` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_gsur` WHERE `g_id` = 30 AND `u_id` = 39 ORDER BY last_login_time DESC LIMIT 2   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 25 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:56:02+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: nothing to repeat at offset 7 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 88 行.
+
+[ 2016-10-12T11:56:11+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: nothing to repeat at offset 7 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 88 行.
+
+[ 2016-10-12T11:56:25+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] preg_match_all(): Compilation failed: nothing to repeat at offset 7 D:\WWW\gamenoll.com\ThinkPHP\Library\Org\Util\phpVerifyAction.class.php 第 89 行.
+
+[ 2016-10-12T11:56:41+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:57:34+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:57:48+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:58:02+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_server` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_server` WHERE ( g_id = 30 )  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_gsur` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_gsur` WHERE `g_id` = 30 AND `u_id` = 39 ORDER BY last_login_time DESC LIMIT 2   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 25 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:58:03+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:58:44+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Question/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T16:13:31+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.0000s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T16:14:05+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.1140s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.1010s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.1090s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.0940s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.1030s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.1030s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.1020s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1010s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1020s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.1010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T16:14:09+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.1030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.1020s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.1020s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.1030s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1030s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.1010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T16:14:14+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.1030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.1010s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.1020s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T16:14:16+08:00 ] 127.0.0.1 /gamenoll.com/index.php/desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_raiders` [ RunTime:0.1020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_raiders` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.1030s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\DescController.class.php 第 21 行.
+SQL: select title,id,createtime from gn_raiders where belong = 30  order by createtime desc limit 0,4 [ RunTime:0.1030s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: is_top D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\3261f2bb1cdb955f026746410528a219.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T16:14:19+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Desc/index/type/%E5%85%AC%E5%91%8A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_raiders` [ RunTime:0.1960s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_raiders` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.1030s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\DescController.class.php 第 21 行.
+SQL: select title,id,createtime from gn_raiders where belong = 30 and type = '公告' order by createtime desc limit 0,4 [ RunTime:0.1040s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T16:37:46+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Desc/index/type/%E5%85%AC%E5%91%8A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_raiders` [ RunTime:0.0950s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_raiders` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.1090s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\DescController.class.php 第 21 行.
+SQL: select title,id,createtime from gn_raiders where belong = 30 and type = '公告' order by createtime desc limit 0,4 [ RunTime:0.0940s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T16:37:48+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Desc/index/type/%E5%85%AC%E5%91%8A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_raiders` [ RunTime:0.1030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_raiders` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.1050s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\DescController.class.php 第 21 行.
+SQL: select title,id,createtime from gn_raiders where belong = 30 and type = '公告' order by createtime desc limit 0,4 [ RunTime:0.1090s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T16:37:50+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.0930s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.1010s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.0990s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.1070s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.1010s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.1120s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.1070s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.2980s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0950s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1120s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1020s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.1130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T16:42:31+08:00 ] 127.0.0.1 /gamenoll.com/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.1020s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0940s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.1100s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.1020s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.1000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.1150s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.1000s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.1020s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1750s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1150s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.1110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T16:42:34+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews/details/id/54
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.1170s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 54 LIMIT 1   [ RunTime:0.0930s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T16:42:38+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exnews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0980s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` WHERE ( belong=30 ) LIMIT 1   [ RunTime:0.1000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Home\Controller\ExnewsController.class.php 第 15 行.
+SQL: select title,id,createtime,is_top from gn_news where belong = 30 order by is_top desc , createtime desc limit 0,4 [ RunTime:0.0930s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T16:42:41+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exnews/details/id/58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0960s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 58 LIMIT 1   [ RunTime:0.0970s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T16:42:44+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exnews/details/id/sdfsdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.1410s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 0 LIMIT 1   [ RunTime:0.1020s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: title D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 49 行.
+NOTIC: [8] Undefined index: content D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 53 行.
+NOTIC: [8] Undefined variable: g_id D:\WWW\gamenoll.com\Application\Runtime\Cache\Home\245df50f11285ebc48d63b431fe7d6fc.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T16:42:47+08:00 ] 127.0.0.1 /gamenoll.com/index.php/question
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T16:42:48+08:00 ] 127.0.0.1 /gamenoll.com/index.php/exlogin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T16:42:52+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exlogin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.1140s ]
+SQL: SELECT * FROM `gn_user` WHERE `loginname` = 'fzq' AND `password` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.1020s ]
+
+[ 2016-10-12T16:42:53+08:00 ] 127.0.0.1 /gamenoll.com/index.php/question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `gn_server` [ RunTime:0.1030s ]
+SQL: SELECT * FROM `gn_server` WHERE ( g_id = 30 )  [ RunTime:0.0950s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_gsur` [ RunTime:0.1000s ]
+SQL: SELECT * FROM `gn_gsur` WHERE `g_id` = 30 AND `u_id` = 39 ORDER BY last_login_time DESC LIMIT 2   [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 25 ) LIMIT 1   [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_server` WHERE ( s_id = 24 ) LIMIT 1   [ RunTime:0.1030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T16:43:04+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Exlogin/loginout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T16:43:06+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.1030s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.1020s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.1840s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.1230s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.0930s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.0960s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.1010s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.1070s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0910s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1250s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1140s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.1000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T20:03:42+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\gamenoll.com\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.1060s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\gamenoll.com\Application\Home\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0990s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.1260s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.1080s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.1100s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.1180s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.1020s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.1020s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1120s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1360s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.1060s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

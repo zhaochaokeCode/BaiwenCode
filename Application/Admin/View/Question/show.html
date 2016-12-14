@@ -1,0 +1,102 @@
+<extend name="Public:layout" />
+<block name="main-content">
+	<div class="main-content">
+		<div class="breadcrumbs" id="breadcrumbs">
+			<script type="text/javascript">
+				try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+			</script>
+
+			<ul class="breadcrumb">
+				<li>
+					<i class="icon-home home-icon"></i>
+					<a href="#">首页</a>
+				</li>
+
+				<!-- <li>
+					<a href="#">用户管理</a>
+				</li>
+				<li class="active">修改用户</li> -->
+			</ul><!-- .breadcrumb -->
+
+			<div class="nav-search" id="nav-search">
+				<form class="form-search">
+					<span class="input-icon">
+						<input type="text" placeholder="搜索 ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+						<i class="icon-search nav-search-icon"></i>
+					</span>
+				</form>
+			</div><!-- #nav-search -->
+		</div>
+
+		<div class="page-content">
+			<div class="page-header">
+				<h1>
+					客服管理
+					<small>
+						<i class="icon-double-angle-right"></i>
+						问题详情
+					</small>
+				</h1>
+			</div><!-- /.page-header -->
+
+			<div class="row">
+				<div class="col-xs-12">
+				<center>
+				<table>
+					<tr>
+						<td>反馈用户:</td>
+						<td>{$data.nicename}</td>
+						<td>用户邮箱:</td>
+						<td>{$data.email} </td>
+					</tr>
+					<tr>
+						<td>角色名称:</td>
+						<td>{$data.r_name}</td>
+						<td>所属服务器:</td>
+						<td>{$data.s_name}</td>
+					</tr>
+					<tr>
+						<td>问题分类:</td>
+						<td>{$data.q_type.0} - {$data.q_type.1} </td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>所用浏览器:</td>
+						<td>{$data.u_browser}</td>
+						<td>OS:</td>
+						<td>{$data.os}</td>
+					</tr>
+					<tr>
+						<td>发生时间:</td>
+						<td>{$data.q_time|date="Y-m-d H:i",###}</td>
+						<td>提交时间:</td>
+						<td>{$data.create_time|date="Y-m-d H:i:s",###}</td>
+					</tr>
+					<tr>
+						<td>通讯环境:</td>
+						<td>{$data.communication}</td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td colspan = "4">内容: <br><textarea name="" id="" cols="60" rows="10" border="0">{$data.content}</textarea></td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td colspan = "4">
+						<if condition="$data.q_img neq ''">
+						附件: <br><img src="__PUBLIC__/{$data.q_img}" alt="" width="450" height="200">
+						</if>
+						</td>
+					</tr>
+				</table>
+				<a href="__CONTROLLER__/index" ><button class="btn">返回</button></a>
+				</center>	
+				</div><!-- PAGE CONTENT ENDS -->
+			</div><!-- /.row -->
+		</div><!-- /.page-content -->
+	</div><!-- /.main-content -->
+</block>

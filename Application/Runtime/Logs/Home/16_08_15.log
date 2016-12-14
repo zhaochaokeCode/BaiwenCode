@@ -1,0 +1,1331 @@
+[ 2016-08-15T10:31:42+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T10:31:45+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T10:31:52+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T10:31:57+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=895axuw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: Think\Controller:Yahoo方法不存在！
+
+[ 2016-08-15T10:32:05+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:32:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=yf-qegAAAAAAwcHgAAABVowIeOg&oauth_verifier=1HFLqUvdG88lGDkFdPHybReka1hkIGE0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:32:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=yf-qegAAAAAAwcHgAAABVowIeOg&oauth_verifier=1HFLqUvdG88lGDkFdPHybReka1hkIGE0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:32:15+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T10:32:17+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=h2tgWgAAAAAAwcHgAAABVowIn1U&oauth_verifier=KPVQm16F1M6o84642Yhpobp5b3yukMVa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T10:32:42+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=5ii7fQAAAAAAwcHgAAABVowI_5U&oauth_verifier=OCmLRHH6qYLlTOI5Rd57Xnl1qoDMODcD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T10:33:05+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:33:07+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=Fi6QXAAAAAAAwcHgAAABVowJY48&oauth_verifier=zPPUlwmvs6WTa48Bol7armpVEJqWrfDZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:33:24+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:33:29+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=2JOWMwAAAAAAwcHgAAABVowJq_Q&oauth_verifier=uuZ31Ql8lXGymsMx05TGIrQyWFDlTj5C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:33:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=2JOWMwAAAAAAwcHgAAABVowJq_Q&oauth_verifier=uuZ31Ql8lXGymsMx05TGIrQyWFDlTj5C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:33:34+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T10:33:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=fvFoVwAAAAAAwcHgAAABVowJ1b0&oauth_verifier=yvwc8R09kIL7RYfX9nkNuONsHBHw8WC8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:35:11+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:35:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=BG0k-gAAAAAAwcHgAAABVowLThs&oauth_verifier=uQDyC5qqIMMponSswhIr6HDpgacTE1yp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T10:35:22+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=daJrUAAAAAAAwcHgAAABVowLcZs&oauth_verifier=FRxbj7qkw0xSlT4PTToAK6FQ8WQ6wC7u
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:36:53+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=OJAvAAAAAAAAwcHgAAABVowM1Lw&oauth_verifier=hRcie7mFFCOiCnbZP0DmlxGxWtfyrmi8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:39:27+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T10:39:36+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/iqxS3YiKamVj48RXX16aLp6EHJOndgXMXPDGn-B5y-k
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T10:40:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=SyhCHgAAAAAAwcHgAAABVowP1fo&oauth_verifier=u0YLVtC5AfxY2054faFMh3EE2gY4WkmM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T10:40:37+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:08:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:15:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:15:16+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:15:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=d5eejt7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Controller:Yahoo方法不存在！
+
+[ 2016-08-15T11:19:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=7bccu8b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:19:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=7bccu8b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:22:18+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:22:20+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:22:28+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=jzqevse
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:23:06+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:23:18+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:23:51+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:23:57+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:24:02+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:24:17+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=kp7qe3a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:24:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=kp7qe3a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T11:24:47+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:24:51+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=54sfwau
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: Think\Controller:Yahoo方法不存在！
+
+[ 2016-08-15T11:31:28+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=54sfwau
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:31:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:31:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:31:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:34:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:34:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:34:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:34:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:34:56+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:35:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=v6mpbcv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:35:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=gprhtgk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:35:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=v3vdqpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:35:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=fy3krh5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:36:38+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=sz7tcxm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:37:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=xqekbz2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:39:08+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=pggpq75
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:39:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=qnycyfq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:42:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=9gw6uhm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:43:06+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ndwk6g3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:45:16+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:45:31+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:45:39+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:46:42+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:46:51+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:46:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=u5dpj5p
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:50:35+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:50:40+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=9a5m3yh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:52:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=9a5m3yh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T11:52:09+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=djk8zgw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:55:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:55:09+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:55:49+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:56:04+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:56:09+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T11:56:37+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:56:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=x46bzjw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T11:57:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=y4efxbp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:00:45+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:01:53+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:02:18+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:02:33+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:03:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:03:04+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:03:16+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:03:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-15T12:03:25+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:03:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:03:33+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:03:38+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=gezq3dj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:10:58+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:13:05+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:13:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=zcakwq8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:13:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=4fcgtdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:14:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=hxxeng6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:15:29+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:15:32+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:15:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=zsfgYgAAAAAAwcHgAAABVoxnLbs&oauth_verifier=PAFJgNTC8ESx98wber0YJoVYyEZwDAIZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:17:58+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:18:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=eKomRQAAAAAAwcHgAAABVoxpaAc&oauth_verifier=ywdGckgdkQkD0JcCmVf1HJEsBanwCSyI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:18:30+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:18:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=1IPlGAAAAAAAwcHgAAABVoxp5yE&oauth_verifier=Z76vegiJSAegOkgrTVYSxZuWTNiJRLOL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:25:07+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:25:12+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=6UX77AAAAAAAwcHgAAABVoxv9DQ&oauth_verifier=APwlbFR4FQlvJS3mnC4w1VVO1Wv3MKxj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:25:29+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:25:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=6AwDJQAAAAAAwcHgAAABVoxwSwo&oauth_verifier=AMjccuILGkYgJXJ3zHePoVLPP1jFehgV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:25:36+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:25:44+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=2nqah2m
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:26:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=v8yec5p
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:26:36+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ssg3ghc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:26:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:26:53+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:27:00+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=vaakh4z
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:27:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=j24zn4w
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T12:28:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=66we38h
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:32:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=tevtfyr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T12:34:12+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=7a9apeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:13:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=qmyys7g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:13:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:13:52+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:14:18+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:14:26+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=fqv8ttn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:16:15+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:16:24+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=8n39yvt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:17:38+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:17:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=kg3pese
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:25:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:25:54+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:26:29+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:26:52+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:27:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=aub75vb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:28:10+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:39:24+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:39:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=mfbsaw9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:40:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:40:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:40:44+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:40:51+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=uqv5927
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:41:19+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=7ufrr6t
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:47:11+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:47:22+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=tgbanu3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:54:22+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T13:54:30+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=tweee2t
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T13:56:48+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=m5yzb46
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T13:57:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=m5yzb46
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T13:57:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=2r6nq3x
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T13:58:00+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T13:58:08+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ktdw2t2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T13:58:42+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=jmxzujv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T14:03:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:03:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:03:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:03:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:03:17+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:03:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/6lJjOmd0GjSkHos8Ibrf6nKQkTBtubd9rAWdhLnXFts
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:03:35+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:03:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/DyMy2gWFspMG3Ls1-OoPYVt9GXGOVEWxqjqV-kG0xA8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:03:52+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:03:54+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/LA9Wp0NT0jHN1HbAOT95lN66sAYnh7y9oU6mW3govYc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:03:59+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:04:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=1Fv5QQAAAAAAwcHgAAABVozKdwQ&oauth_verifier=ILtkTxah26myx3nIwLA42rhakuAoCwrC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-15T14:04:20+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:04:27+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=fmutudf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T14:04:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=f5szdrd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T14:05:07+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:05:12+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=g5cgdx5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T14:05:57+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:06:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=fqynggd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T14:06:29+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=d44be3f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:06:52+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=859hma2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T14:14:58+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=99w896r
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:15:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=tvkqtxq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T14:16:15+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:16:20+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=39u282q
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T14:17:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=mvczp4n
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:17:19+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=qnhymzu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T14:17:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=zks5gyw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:18:26+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=8juuscc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:19:26+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=98yputa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T14:19:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=mmzxvk3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:20:11+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ct2kwzr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:20:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=sduaz72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-15T14:20:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=4ab26yy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:22:19+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=4u4uxyb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:22:52+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ccnpfx9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:23:30+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=kr5p67d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:24:12+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=h6q9aqv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=w3e9c8t
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-15T14:25:29+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:25:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=evk55qm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:27:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=keqv8xz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:29:19+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ceck52p
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:29:54+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=5mv66jb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-15T14:31:42+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=xn5bsqc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:32:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=82urbns
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:59:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=n2hzwkd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T14:59:31+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T14:59:38+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ufkm6n5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:04:29+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=cfp5yx2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:04:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:04:38+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:04:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=h4ss4b9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:07:52+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:07:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=5fhxeru
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:10:20+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=bf2tejj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:10:54+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:11:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=rtdgp22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:11:40+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:12:06+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=5t4ncap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:17:02+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=jqjvrkv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:19:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=2y3qr75
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:35:41+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:35:44+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:36:39+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:37:08+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:37:14+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:37:47+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:37:59+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:38:06+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:39:40+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:39:49+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=6ktd9h6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:41:14+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=9cf9hfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:41:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?error=access_denied
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:43:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-15T15:43:14+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:43:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=yc6tcnn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:45:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=9cc9pz3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:45:50+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:45:58+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=3asDagAAAAAAwcHgAAABVo0ntE0&oauth_verifier=favAsqwlJSVWV2xv8VK9cdp0VM0jwpRV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:46:07+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:46:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=9j294kh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T15:49:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=a59x44c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:49:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=xwuskag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:50:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=veakzf4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T15:51:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ty5zm5t
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T16:41:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=s9qkh56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T16:41:58+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=uqj2j3e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T16:49:44+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=bm7zq7h
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T16:56:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ytv4t86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T17:03:31+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T17:03:40+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=b4fjmhn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T17:04:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=vfdrufs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T17:17:23+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T17:18:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T17:18:18+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T17:18:27+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=79cxceq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T17:20:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T17:20:33+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T17:20:40+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=adaye38
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T17:28:57+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=dmpmn9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T17:29:08+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T17:29:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T17:29:48+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T17:29:57+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=7m579wy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T17:30:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=bd7u7x3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T18:09:34+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T18:09:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=gyzdhkm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-15T18:10:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=476xaue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T18:10:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=rmzwm5y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-15T18:10:53+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=q6zudcn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+

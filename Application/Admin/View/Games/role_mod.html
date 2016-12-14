@@ -1,0 +1,113 @@
+<extend name="Public:layout" />
+<block name="main-content">
+	<div class="main-content">
+		<div class="breadcrumbs" id="breadcrumbs">
+			<script type="text/javascript">
+				try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+			</script>
+
+			<ul class="breadcrumb">
+				<li>
+					<i class="icon-home home-icon"></i>
+					<a href="#">首页</a>
+				</li>
+
+				<!-- <li>
+					<a href="#">用户管理</a>
+				</li>
+				<li class="active">修改用户</li> -->
+			</ul><!-- .breadcrumb -->
+
+			<div class="nav-search" id="nav-search">
+				<form class="form-search">
+					<span class="input-icon">
+						<input type="text" placeholder="搜索 ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+						<i class="icon-search nav-search-icon"></i>
+					</span>
+				</form>
+			</div><!-- #nav-search -->
+		</div>
+
+		<div class="page-content">
+			<div class="page-header">
+				<h1>
+					游戏管理
+					<small>
+						<i class="icon-double-angle-right"></i>
+						修改游戏角色
+					</small>
+				</h1>
+			</div><!-- /.page-header -->
+
+			<div class="row">
+				<div class="col-xs-12">
+					<!-- PAGE CONTENT BEGINS -->
+
+					<form action="__CONTROLLER__/role_mod" method="post" class="form-horizontal" role="form">
+					<div><input type="hidden" name="r_id" value="{$info.r_id}"></div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 角色名称 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="r_name" value="{$info.r_name}"  id="form-field-1" placeholder="角色名称" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 所属用户名 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="nicename" value="{$info.nicename}" id="form-field-1" placeholder="所属用户名" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" readonly />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 所属账号 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="loginname" value="{$info.loginname}" id="form-field-1" placeholder="所属账号" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" readonly />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 所属游戏 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="g_name" value="{$info.g_name}" id="form-field-1" placeholder="所属游戏" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" readonly />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 所属服务器 </label>
+
+							<div class="col-sm-9">
+								<!-- <input type="text" name="s_name" value="{$info.s_name}" id="form-field-1" placeholder="所属服务器" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" /> -->
+								<select name="s_id" id="">
+									<foreach name="server" item="server_info">
+										<option value="{$server_info.s_id}" 
+										<if condition="$server_info.s_id eq $info['s_id'] ">selected="true"</if>
+										>{$server_info.s_name}</option>
+									</foreach>
+								</select>
+							</div>
+						</div>
+						
+						<div class="space-4"></div>
+						<div class="clearfix form-actions">
+							<div class="col-md-offset-3 col-md-9">
+								<input class="btn btn-info" type="submit" name="submit" value="修改">
+									<!-- <i class="icon-ok bigger-110"></i>
+									添加 -->
+								</input>
+
+								&nbsp; &nbsp; &nbsp;
+								<a href="__CONTROLLER__/role_all" class="btn">
+									<!-- <i class="icon-undo bigger-110"></i> -->
+									返回
+								</a>	
+							</div>
+						</div>
+					</form>
+					<!-- <div class="hr hr-24"></div> -->
+						
+					</div><!-- PAGE CONTENT ENDS -->
+				</div><!-- /.row -->
+		</div><!-- /.page-content -->
+	</div><!-- /.main-content -->
+</block>

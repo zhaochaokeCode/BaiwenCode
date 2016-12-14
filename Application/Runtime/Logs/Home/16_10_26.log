@@ -1,0 +1,136 @@
+[ 2016-10-26T09:49:44+08:00 ] 127.0.0.1 /15combo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\15combo\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.1620s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\15combo\Application\Home\Controller\LoginController.class.php 第 71 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.1610s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.1620s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.1610s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.1650s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.1660s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.1650s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.1650s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.1680s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.3330s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1690s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.1700s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-26T18:07:25+08:00 ] 127.0.0.1 /15combo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\15combo\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.1600s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\15combo\Application\Home\Controller\LoginController.class.php 第 71 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.1560s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.1500s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:1.2860s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.1560s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.1520s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.1520s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.1500s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.5180s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:1.5350s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.3150s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:1.0450s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-26T18:07:31+08:00 ] 127.0.0.1 /15combo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\15combo\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.1580s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\15combo\Application\Home\Controller\LoginController.class.php 第 71 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:1.3190s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:1.7230s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.1550s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.1470s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.1550s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.1490s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.1350s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.1430s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.4210s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.1520s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.1560s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-26T18:35:53+08:00 ] 127.0.0.1 /15combo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\15combo\Application\Home\Controller\IndexController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `gn_user` [ RunTime:0.1090s ]
+NOTIC: [8] Undefined index: userinfo D:\WWW\15combo\Application\Home\Controller\LoginController.class.php 第 71 行.
+SQL: SELECT `rc` FROM `gn_user` WHERE `id` = null LIMIT 1   [ RunTime:0.1160s ]
+SQL: SHOW COLUMNS FROM `gn_website` [ RunTime:0.1160s ]
+SQL: SELECT * FROM `gn_website`  [ RunTime:0.4520s ]
+SQL: SHOW COLUMNS FROM `gn_playpic` [ RunTime:0.1320s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 2  [ RunTime:0.1340s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 1  [ RunTime:0.1410s ]
+SQL: SELECT * FROM `gn_playpic` WHERE `type` = 0  [ RunTime:0.1330s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.1370s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '通知' ORDER BY createtime DESC LIMIT 3   [ RunTime:1.0310s ]
+SQL: SELECT * FROM `gn_news` WHERE `type` = '活动' ORDER BY createtime DESC LIMIT 3   [ RunTime:0.8700s ]
+SQL: select * from gn_news where belong = '30'order by is_top desc , createtime desc limit 5 [ RunTime:0.1380s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

@@ -1,0 +1,287 @@
+/*----------header----------*/
+body{
+	font-size: 16px;
+}
+
+
+
+
+.beCenter{
+	margin: 0 auto;
+}
+.header{
+	width: 100%;
+	height: 400px;
+	background: url(../images/bg5.jpg) no-repeat;
+	background-size: cover;
+	background-position: center 0;
+}
+.navbar{
+	width:1250px;
+	margin:0 auto;
+	overflow:hidden;
+	padding-top: 30px;
+	font-size: 1em
+
+}
+.navbar-inner{
+	display:flex;
+}
+.col-md-9{	
+	flex:1;
+}
+.brand-center{
+	width:165px;
+	height:138px;	
+}
+.wenzi{
+	float: left;
+}
+.logo{
+	float: right;
+}
+
+
+
+.col-md-3 {
+	width:560px;
+	height:138px;	
+}
+#navigation{
+	width:885px;
+	height:30px;
+	margin-top:9px;
+}
+#navigation  li {
+	float: left;
+}
+#navigation  li a{
+	color:#0a1316;
+	font-weight: 900;
+	font-size: 0.875em;
+}
+.icon{
+	margin:0 28px;
+	color:#434547;
+}
+.tj{
+	margin-left: 23px; 
+	display: none;
+}
+
+#navigation .home-block a{
+	color: #fff;
+}
+.tj-block{
+	display: block;
+	margin-left: 23px; 
+}
+/*----------content----------*/
+
+
+
+.content{
+	width: 100%;
+	padding-bottom: 170px;
+	overflow: hidden;
+	background: url(../images/bg6.jpg) no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+.content .contentArea{
+	width: 1280px;
+	padding-top: 72px;
+	overflow: hidden;
+}
+
+.content .contentArea .contentBar{
+	width: 314px;
+	height: 1475px;
+	background: #f8f7f5;
+	position: absolute;
+	right: 0;
+	padding-left: 16px;
+	padding-top: 40px;
+	top: 217px;
+}
+.content .contentArea .contentBar .contentBarModule{
+	overflow: hidden;
+	margin-bottom: 35px;
+}
+.content .contentArea .contentBar .contentBarTitle{
+	background: url(../images/Grid.png) no-repeat 0 5px;
+	padding-left: 20px;
+	font-size: 1em;
+	color: #6b4632;
+	margin-bottom: 23px;
+}
+.content .contentArea .contentBar .contentBarCode{
+	text-align: center;
+	color: #ed593e;
+	font-size: 0.875em;
+}
+.content .contentArea .contentBar .contentBarCode img{
+	margin-bottom: 12px;
+}
+.content .contentArea .contentBar .contentBarRound ul{
+	margin-left: 95px;
+}
+.content .contentArea .contentBar .contentBarRound ul li{
+	border: 2px solid #ec6941;
+	border-radius: 100%;
+	width: 15px;
+	height: 15px;
+	float: left;
+	margin-right: 8px;
+}
+.content .contentArea .contentBar .contentBarHot .contentBarTitle span{
+	font-size: 0.75em;
+	color: #333;
+	background: url(../images/img01.png) no-repeat right 0;
+	float: right;
+	height: 20px;
+	width: 72px;
+	margin-right: 16px;
+	line-height: 20px;
+}
+.content .contentArea .contentBar .contentBarHot ul{
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+.content .contentArea .contentBar .contentBarHot ul li{
+	float: left;
+	text-align: center;
+	font-size: 0.75em;
+	color: #666;
+	line-height: 30px;
+}
+.content .contentArea .contentBar .contentBarHot ul li:nth-child(1),.content .contentArea .contentBar .contentBarHot ul li:nth-child(3){
+	margin-right: 10px;
+}
+.content .contentArea .contentBar .contentBarHot ul li img{
+	width: 146px;
+	height: 107px;
+}
+.contentBarHotTalk{
+	position: relative;
+}
+.contentBarHotTalk .tx1{
+	position: absolute;
+	left: 0px;
+}
+.content .contentArea .contentBar .contentBarHot .contentBarHotTalk{
+	height: 70px;
+	
+	overflow: hidden;
+	padding-left: 60px;
+	padding-top: 15px;
+}
+.content .contentArea .contentBar .contentBarHot .contentBarHotTalk .contentBarHotTalkUid{
+	font-size: 0.75em;
+	color: #ec4727;
+	margin-bottom: 3px;
+}
+.content .contentArea .contentBar .contentBarHot .contentBarHotTalk {
+	color: #333;
+	font-size: 1em;
+	margin-bottom: 6px;
+}
+.content .contentArea .contentBar .contentBarHotTalk .contentBarHotTalkQuestion{
+	font-size: 0.875em;
+	color: #333;
+}
+.content .contentArea .contentBar .contentBarHot .contentBarHotTalk .contentBarHotTalkTime{
+	font-size: 0.625em;
+	color: #cacaca;
+}
+.content .contentArea .contentBar .contentBarEwm ul{
+	margin-left: 10px;
+}
+.content .contentArea .contentBar .contentBarEwm ul li{
+	float: left;
+	text-align: center;
+	margin-right: 12px;
+}
+.content .contentArea .contentBar .contentBarEwm ul li span{
+	line-height: 32px;
+	font-size: 0.875em;
+	color: #333;
+	padding-left: 30px;
+}
+.content .contentArea .contentBar .contentBarEwm ul li:nth-child(1) span{
+	background: url(../images/wgzh.png) no-repeat 0 center;
+}
+.content .contentArea .contentBar .contentBarEwm ul li:nth-child(2) span{
+	background: url(../images/gweibo.png) no-repeat 0 center;
+}
+
+.content .contentArea .contentTitleArea{
+	width: 1158px;
+	height: 145px;
+	border-bottom: 1px solid #e7e7e7;
+	position: relative;
+	text-align: center;
+}
+.content .contentArea .contentTitleArea .beBack{
+	position: absolute;
+	left: 79px;
+}
+.content .contentArea .contentTitleArea .contentTitle{
+	font-size: 28px;
+	color: #333333;
+	margin-bottom: 23px;
+}
+.content .contentArea .contentTitleArea .contentTime{
+	color: #999;
+	font-size: 0.75em;
+}
+.content .contentArea .contentTitleArea div:last-child{
+	margin-left: 510px;
+	margin-top: 20px;
+}
+.content .contentArea .contentTitleArea div:last-child img{
+	float: left;
+	margin-right: 6px;
+}
+.content .contentTextArea{
+	width: 1000px;
+	overflow: hidden;
+	padding-top: 40px;
+	font-size: 1em;
+	line-height: 32px;
+	color: #666;
+}
+.content .contentTextArea img{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+/*----------footer----------*/
+.footer{
+	width: 100%;
+	height: 70px;
+	background-color: #22313f;
+	color: #485663;
+}
+.footer .footerText{
+	width: 1000px;
+	height: 70px;
+	line-height: 70px;
+	font-size: 0.75em;
+	text-align: center;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .content .contentArea{
+        width: 1158px;
+        overflow: hidden;
+    }
+}
+@media screen and (max-width: 100px) {
+    .content .contentArea{
+        width: 314px;
+        overflow: hidden;
+    }
+}

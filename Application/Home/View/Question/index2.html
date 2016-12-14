@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>问题反馈</title>
+	<link rel="stylesheet" href="__PUBLIC__/home/css/style.css" type="text/css" media="all" />
+	<script type="text/javascript" src="__PUBLIC__/home/js/Validform_v5.3.2_min.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/home/js/jquery-1.9.1.min.js"></script>
+</head>
+<body>
+<center>
+<h1>问题反馈</h1>
+	<form action="__CONTROLLER__/add" method="post" enctype="multipart/form-data" id="myform">
+		<table>
+			<tr>
+				<td>邮箱:</td>
+				<td><input type="text" name="u_email" value="{$_SESSION['userinfo']['email']}"></td>
+			</tr>
+			<tr>
+				<td>
+				问题分类:
+				
+				</td>
+				<td>
+				<select name="q_type1">
+					<option value="问题1">问题1</option>
+					<option value="问题2">问题2</option>
+					<option value="问题3">问题3</option>
+				</select>
+				<select name="q_type2">
+					<option value="问题1">问题1</option>
+					<option value="问题2">问题2</option>
+					<option value="问题3">问题3</option>
+				</select>
+				</td>
+			</tr>
+			<tr>
+				<td>游戏角色名称</td>
+				<td><input type="text" name="r_name"></td>
+			</tr>
+			<tr>
+				<td>游戏服务器</td>
+				<td>
+				<select name="s_id">
+				<foreach name="servers" item="server">
+					<option value="{$server.s_id}">{$server.s_name}</option>
+				</foreach>
+				</select>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				使用的浏览器
+				</td>
+				<td>
+				<select name="u_browser">
+					<option value="IE">IE</option>
+					<option value="火狐">火狐</option>
+					<option value="谷歌">谷歌</option>
+					<option value="百度">百度</option>
+				</select>
+				OS: <input type="text" name="os"></td>
+			</tr>
+			<tr>
+				<td>时间</td>
+				<td><input type="time" name="q_time"></td>
+			</tr>
+			<tr>
+				<td>通讯环境</td>
+				<td><input type="text" name="communication"></td>
+			</tr>
+			<tr>
+				<td>内容</td>
+				<td><textarea name="content" id="" cols="30" rows="10"></textarea></td>
+			</tr>
+			<tr>
+				<td>附件</td>
+				<td><input type="file" name="q_img"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><input type="submit" value="提交"></td>
+			</tr>
+		</table>
+	</form>
+</center>
+
+
+
+</body>
+<script>
+	
+	$(function(){
+	//$(".myform").Validform();  //就这一行代码！;
+		
+	$(".myform").Validform({
+		tiptype:1,
+		showAllError:true,
+		// datatype:{
+		// 	oldpassword:function(gets){
+		// 		if(gets==$("#passwordold").val()){
+		// 			return "新密码不能与旧密码一致！";	
+		// 		}
+		// 	}	
+		// },
+		// ajaxPost:true
+	});
+})
+</script>
+
+
+</html>

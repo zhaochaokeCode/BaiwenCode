@@ -1,0 +1,71 @@
+<extend name="Public:layout" />
+<block name="main-layout">
+    <!-- container -->
+    <?php if($_SESSION['isLog'] != 2){ echo "<script>alert('您尚未登录,请先登录!');location.href='__APP__/Login';</script>";}?>
+    <div id="container">
+            <!-- content -->
+            <div id="content" style=" background:#fff;">
+                 <p class="nav_box">
+                     <a href="#" class="nav_01 act"><em>01</em>決済方法/金額選択</a>
+                     <a href="#" class="nav_02"><em>02</em>購入確認</a>
+                     <a href="#" class="nav_03"><em>03</em>支  払</a>
+                     <a href="#" class="nav_04"><em>04</em>購入完了</a>
+                 </p>
+                 <div class="send_box">
+                     <p class="tt_01">メRCチャージ</p>
+                     <p>RCをチャージするには、決済方法、チャージ金額を選択し購入ボタンで確認画面へ進んでください。</p>
+                     <table style=" width:510px; height:35px; margin:20px auto;">
+                         <tr>
+                             <td style=" font-size:14px; width:130px">账号，RC残高 :</td>
+                             <td><span class="name_input" style=" width:240px !important;"><input type="text" value="{$rc.rc} RC" onfocus="javascript:if(this.value=='')this.value='';" disabled></span></td>
+                             <td><a href="#" class="id_btn" style=" padding:0 1px !important;">パスワード変更</a></td>
+                         </tr>
+                     </table>        
+                     <p class="tt_01" style=" border-bottom:none !important; border-top:#ececec 1px solid;">決済方法選択</p>
+                     <form action="__CONTROLLER__/dopay" method="post">
+                     <input type="hidden" name="rc" value="{$rc.rc}">
+                     <table class="card">
+                         <tr>
+                             <td><img src="__PUBLIC__/home/images/img_24.jpg" alt=""/></td>
+                             <td><img src="__PUBLIC__/home/images/img_25.jpg" alt=""/></td>
+                             <td><img src="__PUBLIC__/home/images/img_26.jpg" alt=""/></td>
+                             <td><img src="__PUBLIC__/home/images/img_27.jpg" alt=""/></td>
+                             <td><img src="__PUBLIC__/home/images/img_28.jpg" alt=""/></td>
+                         </tr>
+                         <tr>
+                             <td><p><label><input name="payment" type="radio" value="visa"     /></label></p></td>
+                             <td><p><label><input name="payment" type="radio" value="webmoney"  /></label></p></td>
+                             <td><p><label><input name="payment" type="radio" value="bitcash"  /></label></p></td>
+                             <td><p><label><input name="payment" type="radio" value="netcash"  /></label></p></td>
+                             <td><p><label><input name="payment" type="radio" value="paypal"  /></label></p></td>
+                         </tr>
+                     </table>
+                     <p class="tt_01" style=" border-bottom:none !important; border-top:#ececec 1px solid;">決済方法選択</p>
+                     <table class="card">
+                         <tr>
+                             <td><img src="__PUBLIC__/home/images/img_29.jpg" alt=""/></td>
+                             <td><img src="__PUBLIC__/home/images/img_30.jpg" alt=""/></td>
+                             <td><img src="__PUBLIC__/home/images/img_31.jpg" alt=""/></td>
+                             <td><img src="__PUBLIC__/home/images/img_32.jpg" alt=""/></td>
+                             <td><img src="__PUBLIC__/home/images/img_33.jpg" alt=""/></td>
+                         </tr>
+                         <tr>
+                             <td><p><label><input name="payamount" type="radio" value="500"  /></label></p></td>
+                             <td><p><label><input name="payamount" type="radio" value="1000"  /></label></p></td>
+                             <td><p><label><input name="payamount" type="radio" value="3000"  /></label></p></td>
+                             <td><p><label><input name="payamount" type="radio" value="5000"  /></label></p></td>
+                             <td><p><label><input name="payamount" type="radio" value="10000"  /></label></p></td>
+                         </tr>
+                     </table>
+                     <p class="btn_04">
+                          <!-- <a href="#" class="btn_01"></a>
+                          <a href="#" class="btn_02">購  入</a> -->
+                          <input type="submit" name="submit" class="btn_04" value="購  入" style="border:none;color: #fff;font-size: 16px;">
+                     </p>
+                     </form>
+                 </div>
+            </div>
+            <!-- //content -->
+    </div>
+    <!-- //container -->
+</block>

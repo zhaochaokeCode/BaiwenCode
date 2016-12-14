@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>模拟登陆</title>
+	<script src="__PUBLIC__/js/jquery.js"></script>
+</head>
+<body>
+    <if condition="$last_login.state eq 1">
+    	<h1>最近登录:</h1>
+    	<foreach name="last_login['data']" item="last_server"> 
+    		<span> <b>{$last_server['server_info']['s_name'] }</b></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    	</foreach>
+    </if>
+    <br><br><br>
+	<form action="__CONTROLLER__/login_game" method="post">
+		<select name="s_id" id="servers">
+		<foreach name="servers" item="server">
+			<option value="{$server.s_id}">{$server.s_name}</option>
+		</foreach>
+		</select>
+		<br>
+		<input type="hidden" name="g_id" value="{$g_id}">
+		<input type="submit" value="进入游戏" >
+	</form>
+</body>
+</html>

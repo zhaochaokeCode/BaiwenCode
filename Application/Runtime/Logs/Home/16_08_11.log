@@ -1,0 +1,1130 @@
+[ 2016-08-11T10:39:14+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T10:39:16+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T10:44:36+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T10:44:59+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T10:45:01+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T11:03:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T11:30:16+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T11:31:12+08:00 ] 127.0.0.1 /gamenoll.com/index.php/callback.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T11:31:22+08:00 ] 127.0.0.1 /gamenoll.com/index.php/callback.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T11:32:10+08:00 ] 127.0.0.1 /gamenoll.com/Index.php/Index/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T11:34:37+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T11:36:57+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T11:36:58+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T11:45:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T11:47:41+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T12:25:18+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T12:27:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T12:27:25+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T12:29:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T12:29:15+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T12:30:14+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T12:32:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T12:32:03+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T12:34:39+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T12:34:43+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T13:31:16+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T13:32:23+08:00 ] 127.0.0.1 /gamenoll.com/index.php/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T13:32:25+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Pay/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T13:32:29+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Faq/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T13:32:31+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Help/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T13:32:34+08:00 ] 127.0.0.1 /gamenoll.com/index.php/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T13:41:43+08:00 ] 127.0.0.1 /gamenoll.com/index.php/News/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T14:51:32+08:00 ] 127.0.0.1 /index.php/Index/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T14:51:57+08:00 ] 127.0.0.1 /index.php/Index/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T14:52:03+08:00 ] 127.0.0.1 /index.php/Index/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T14:53:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-11T14:53:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T14:56:30+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T14:56:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T14:57:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-11T14:57:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-11T14:58:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-11T14:58:22+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-11T15:00:19+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:00:38+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:01:14+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:01:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:02:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:02:49+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:03:11+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:03:57+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:06:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:07:42+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:09:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:09:12+08:00 ] 127.0.0.1 /index.php/Index/callback/type/yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:11:19+08:00 ] 127.0.0.1 /gamenoll.com/index.php/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:11:21+08:00 ] 127.0.0.1 /gamenoll.com/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:11:22+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:13:49+08:00 ] 127.0.0.1 /index.php/Index/callback/type/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:14:17+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:17:22+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:18:57+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:19:32+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:20:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:20:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:20:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:20:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:20:40+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:21:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:28:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:29:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:29:39+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:30:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:30:09+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:30:51+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:31:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:31:07+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:31:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:31:23+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:31:27+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:32:14+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:37:06+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:38:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:38:27+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:38:53+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:40:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:43:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/f57a20d5a38037cfc9c4d42161e93c1db8f84254yahoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:47:18+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:47:20+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:49:26+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:49:28+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:49:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:55:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:55:40+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:55:51+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/xtSyC5qOLD_pChaZuPVMl8_3j8ojk4JE47JX6_BtsWI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T15:58:26+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/xtSyC5qOLD_pChaZuPVMl8_3j8ojk4JE47JX6_BtsWI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T15:58:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:03:00+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:14:18+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:14:20+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:14:40+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:25:56+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:25:58+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:26:08+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:29:17+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:29:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:30:07+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223?access_token=tbYRFFSZ5Rl0PHcH4KuaaNDXwKkBhHg4bh.3jBPCHw.KSuKI_TjC8Mn0u0h89bq3LTV_xuDZW_Wlksu9tM22KJ5RiFbmqVlNkBjIvDpSlTjWdFshio00F8urzzG9wmgDExr6gLEm6ibHxFCrkILlEJr830KGFP73o4OBkt3wKGAVjTDSJejvqMvZvEAkFTwgVaKi0bZR5xkbbExvZm2vAEJ2M9Y7qdrp.N8GHv0Z9Zs1sjpjg5EfC2U1bBXBI5G23dj.RgKuaUrqMl2wciu4cFPzWv3ixFEjlJ0urIqLt4AS.SBZd8q9RkbzpeXkXWbZlMxEIaaKMYO0XLR164xy1qbbtfyzSWCk03XUikbXodOtS5oERRIvTuGdpF0L.kImYfFBMzNjgOG6oGp9bHn8GQXTKxItX.y7OkNUC8UpuoLY8u5akna.qgZa4kRkSOGBqwvv4MqTXfvq8Td.badHN51_BkM_6OjL2BmXE1Gqsk.JZeiaDRYuQScA6KOx6Py5XMMuJB_la.yu9P2wdcHDyLGylMpN5b89ZSngIhlUknu9zKoQwHyHfOjVH0UYYrMYayvo9SAdU0r0KaWNKGSrCkXhYwOBCUwmJ0yS292CbwjgJRvFIitVzkAIDvKHwxuxRbu23jS5GKmGCTUpqYyVSGqCS8zBXU0NPAyKVeB0GO1nrBFPR90FEpKTUcVk_dfySJk3HitYJJv35A5AOwjzt4KSJ2pyKbvukawZxB1C3_gUIUpED2a7NVvJTRSolrSlmEDzWUrkPP587kxUQ4w2TnKskiaBcVNbVGQzZGt68rmCyq_ureKSiwxQDUDtLTGflETqU1kZBeCKu60rbYSdwz4VI61xCCkn6GukzKa8h7j4XYF6yoSO38q7u9HpU1XV5mr04dIOgZrnKH0iF4MzqZkw8mEISOyWyOx7ZJtdMlVVLifW.Z1du.dG6wSk7w51yVcMso.M2nGdT2PjYUHk.S3ckGG8K.v.9wS.EP6tdvCAj5iIG0g6DAkSy.SE1qxai50EeXXyfGh8a1pmje0CiQcxAF.x2PvUs3HebQ--&token_type=bearer&expires_in=3600
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:30:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:30:20+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:33:00+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:33:17+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:34:28+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:35:20+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:35:21+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:35:27+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:36:24+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:36:29+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:36:30+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:36:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:36:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:37:08+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:37:10+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:37:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:38:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:38:10+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:38:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:38:55+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:38:56+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:39:00+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:39:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:40:02+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223?a=1&access_token=BYTOYvyZ5RnlX7zU.Kt2j8Ag7A9ZknpPH0xwdjCQS_9LZ4wEPiLAXREQoP3ftfk3tZC4ZE5EQdQf1EXQDDlzZo9hVqNLJ4UilU4aGva3rkTuBUOUqXIRpOpP62kFxnYj4s735E6rpA0BnhFLbbb_BRqJJkZ4Qxytj40gur3g3qmGZMu4vtaMZI4907wyalElgZ.VEUP4jhEOljaBMqY9tiwy427BKeh.OF7aBT1qiwaB4e6LoSuMzGIHKohC_xdK_Uk5rEtFKaSYPW9vDiwCgviDFqKjp1PKwDXJJ3HaY6QuYVw5eQsSTTwoKVYbkh0aripG2g6rGDO77IYYogdsgePGfCrczgbdTcBAfEK6mcbN.J0BdkHIS7ACUD9BC_WHZxElM52Fe_OXO44jyBlWcJM6FsVBTr_08ivH09FLJcnIHWsZhu0wEz8zo47c4MkIIlIWX2qENCKH4lNUpO_xycXpcNyD7nks.czMlIajH6maCBF6n2WHUkIXraqazsUdShxGUoOzgotKuD2eh5rIZQoiUfDUvCoviW3_r89rWG0qEeRawgny6MbfVYj_W0cXvLr5fcoZCNq1LMsL6OVkaQzquLEgNQuw7y1mlvr.14OWiZ6nT1QS6nTS8yhlnh_HP30MbL9ReEdPdI2seh7MLwkg0K6kA6S272iDkZ9b8HeYWzvwiQZVEUSxr9hdeyiOKhaOKjACHVGleM7qIv8L1nZ1.aTt4RTmAtSjUEvB9UTQtAupagKIvTg94UPek6qFnWI7sQa98.VWgwI0NEgynAC4Q8jw3GU2N6VvDcgMFAzlRUjTplcPnYNP5G8LzdW4FqskFcSmO3xE_AmU155O9lZfUQcrHmw_WeXKWAWyLe1AJZTOokgW7eYqCxZH0x6ZxVDXHyUesIK.JuE_I24ZsZRoAzyhQlG8tYS3StmqU5Vw40f4W9CNLhCTz26zYKt2CyH.jogSPexBOU19h0qrZblNRohUdFNl6BvAyAGEP9zVU_f_pwKHfDw1lhqixMQ89u3kOQ0tg8eDuHk51mR9Mp6Z4RfQ.DS95w9GFO4-&token_type=bearer&expires_in=3600&a=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:40:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223&access_token=BYTOYvyZ5RnlX7zU.Kt2j8Ag7A9ZknpPH0xwdjCQS_9LZ4wEPiLAXREQoP3ftfk3tZC4ZE5EQdQf1EXQDDlzZo9hVqNLJ4UilU4aGva3rkTuBUOUqXIRpOpP62kFxnYj4s735E6rpA0BnhFLbbb_BRqJJkZ4Qxytj40gur3g3qmGZMu4vtaMZI4907wyalElgZ.VEUP4jhEOljaBMqY9tiwy427BKeh.OF7aBT1qiwaB4e6LoSuMzGIHKohC_xdK_Uk5rEtFKaSYPW9vDiwCgviDFqKjp1PKwDXJJ3HaY6QuYVw5eQsSTTwoKVYbkh0aripG2g6rGDO77IYYogdsgePGfCrczgbdTcBAfEK6mcbN.J0BdkHIS7ACUD9BC_WHZxElM52Fe_OXO44jyBlWcJM6FsVBTr_08ivH09FLJcnIHWsZhu0wEz8zo47c4MkIIlIWX2qENCKH4lNUpO_xycXpcNyD7nks.czMlIajH6maCBF6n2WHUkIXraqazsUdShxGUoOzgotKuD2eh5rIZQoiUfDUvCoviW3_r89rWG0qEeRawgny6MbfVYj_W0cXvLr5fcoZCNq1LMsL6OVkaQzquLEgNQuw7y1mlvr.14OWiZ6nT1QS6nTS8yhlnh_HP30MbL9ReEdPdI2seh7MLwkg0K6kA6S272iDkZ9b8HeYWzvwiQZVEUSxr9hdeyiOKhaOKjACHVGleM7qIv8L1nZ1.aTt4RTmAtSjUEvB9UTQtAupagKIvTg94UPek6qFnWI7sQa98.VWgwI0NEgynAC4Q8jw3GU2N6VvDcgMFAzlRUjTplcPnYNP5G8LzdW4FqskFcSmO3xE_AmU155O9lZfUQcrHmw_WeXKWAWyLe1AJZTOokgW7eYqCxZH0x6ZxVDXHyUesIK.JuE_I24ZsZRoAzyhQlG8tYS3StmqU5Vw40f4W9CNLhCTz26zYKt2CyH.jogSPexBOU19h0qrZblNRohUdFNl6BvAyAGEP9zVU_f_pwKHfDw1lhqixMQ89u3kOQ0tg8eDuHk51mR9Mp6Z4RfQ.DS95w9GFO4-&token_type=bearer&expires_in=3600&a=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:40:28+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a22?a=13&access_token=BYTOYvyZ5RnlX7zU.Kt2j8Ag7A9ZknpPH0xwdjCQS_9LZ4wEPiLAXREQoP3ftfk3tZC4ZE5EQdQf1EXQDDlzZo9hVqNLJ4UilU4aGva3rkTuBUOUqXIRpOpP62kFxnYj4s735E6rpA0BnhFLbbb_BRqJJkZ4Qxytj40gur3g3qmGZMu4vtaMZI4907wyalElgZ.VEUP4jhEOljaBMqY9tiwy427BKeh.OF7aBT1qiwaB4e6LoSuMzGIHKohC_xdK_Uk5rEtFKaSYPW9vDiwCgviDFqKjp1PKwDXJJ3HaY6QuYVw5eQsSTTwoKVYbkh0aripG2g6rGDO77IYYogdsgePGfCrczgbdTcBAfEK6mcbN.J0BdkHIS7ACUD9BC_WHZxElM52Fe_OXO44jyBlWcJM6FsVBTr_08ivH09FLJcnIHWsZhu0wEz8zo47c4MkIIlIWX2qENCKH4lNUpO_xycXpcNyD7nks.czMlIajH6maCBF6n2WHUkIXraqazsUdShxGUoOzgotKuD2eh5rIZQoiUfDUvCoviW3_r89rWG0qEeRawgny6MbfVYj_W0cXvLr5fcoZCNq1LMsL6OVkaQzquLEgNQuw7y1mlvr.14OWiZ6nT1QS6nTS8yhlnh_HP30MbL9ReEdPdI2seh7MLwkg0K6kA6S272iDkZ9b8HeYWzvwiQZVEUSxr9hdeyiOKhaOKjACHVGleM7qIv8L1nZ1.aTt4RTmAtSjUEvB9UTQtAupagKIvTg94UPek6qFnWI7sQa98.VWgwI0NEgynAC4Q8jw3GU2N6VvDcgMFAzlRUjTplcPnYNP5G8LzdW4FqskFcSmO3xE_AmU155O9lZfUQcrHmw_WeXKWAWyLe1AJZTOokgW7eYqCxZH0x6ZxVDXHyUesIK.JuE_I24ZsZRoAzyhQlG8tYS3StmqU5Vw40f4W9CNLhCTz26zYKt2CyH.jogSPexBOU19h0qrZblNRohUdFNl6BvAyAGEP9zVU_f_pwKHfDw1lhqixMQ89u3kOQ0tg8eDuHk51mR9Mp6Z4RfQ.DS95w9GFO4-&token_type=bearer&expires_in=3600&a=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:40:47+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a22?a=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:40:52+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a22?a=1&access_token=BYTOYvyZ5RnlX7zU.Kt2j8Ag7A9ZknpPH0xwdjCQS_9LZ4wEPiLAXREQoP3ftfk3tZC4ZE5EQdQf1EXQDDlzZo9hVqNLJ4UilU4aGva3rkTuBUOUqXIRpOpP62kFxnYj4s735E6rpA0BnhFLbbb_BRqJJkZ4Qxytj40gur3g3qmGZMu4vtaMZI4907wyalElgZ.VEUP4jhEOljaBMqY9tiwy427BKeh.OF7aBT1qiwaB4e6LoSuMzGIHKohC_xdK_Uk5rEtFKaSYPW9vDiwCgviDFqKjp1PKwDXJJ3HaY6QuYVw5eQsSTTwoKVYbkh0aripG2g6rGDO77IYYogdsgePGfCrczgbdTcBAfEK6mcbN.J0BdkHIS7ACUD9BC_WHZxElM52Fe_OXO44jyBlWcJM6FsVBTr_08ivH09FLJcnIHWsZhu0wEz8zo47c4MkIIlIWX2qENCKH4lNUpO_xycXpcNyD7nks.czMlIajH6maCBF6n2WHUkIXraqazsUdShxGUoOzgotKuD2eh5rIZQoiUfDUvCoviW3_r89rWG0qEeRawgny6MbfVYj_W0cXvLr5fcoZCNq1LMsL6OVkaQzquLEgNQuw7y1mlvr.14OWiZ6nT1QS6nTS8yhlnh_HP30MbL9ReEdPdI2seh7MLwkg0K6kA6S272iDkZ9b8HeYWzvwiQZVEUSxr9hdeyiOKhaOKjACHVGleM7qIv8L1nZ1.aTt4RTmAtSjUEvB9UTQtAupagKIvTg94UPek6qFnWI7sQa98.VWgwI0NEgynAC4Q8jw3GU2N6VvDcgMFAzlRUjTplcPnYNP5G8LzdW4FqskFcSmO3xE_AmU155O9lZfUQcrHmw_WeXKWAWyLe1AJZTOokgW7eYqCxZH0x6ZxVDXHyUesIK.JuE_I24ZsZRoAzyhQlG8tYS3StmqU5Vw40f4W9CNLhCTz26zYKt2CyH.jogSPexBOU19h0qrZblNRohUdFNl6BvAyAGEP9zVU_f_pwKHfDw1lhqixMQ89u3kOQ0tg8eDuHk51mR9Mp6Z4RfQ.DS95w9GFO4-&token_type=bearer&expires_in=3600&a=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:41:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a22?a=1&access_token=BYTOYvyZ5RnlX7zU.Kt2j8Ag7A9ZknpPH0xwdjCQS_9LZ4wEPiLAXREQoP3ftfk3tZC4ZE5EQdQf1EXQDDlzZo9hVqNLJ4UilU4aGva3rkTuBUOUqXIRpOpP62kFxnYj4s735E6rpA0BnhFLbbb_BRqJJkZ4Qxytj40gur3g3qmGZMu4vtaMZI4907wyalElgZ.VEUP4jhEOljaBMqY9tiwy427BKeh.OF7aBT1qiwaB4e6LoSuMzGIHKohC_xdK_Uk5rEtFKaSYPW9vDiwCgviDFqKjp1PKwDXJJ3HaY6QuYVw5eQsSTTwoKVYbkh0aripG2g6rGDO77IYYogdsgePGfCrczgbdTcBAfEK6mcbN.J0BdkHIS7ACUD9BC_WHZxElM52Fe_OXO44jyBlWcJM6FsVBTr_08ivH09FLJcnIHWsZhu0wEz8zo47c4MkIIlIWX2qENCKH4lNUpO_xycXpcNyD7nks.czMlIajH6maCBF6n2WHUkIXraqazsUdShxGUoOzgotKuD2eh5rIZQoiUfDUvCoviW3_r89rWG0qEeRawgny6MbfVYj_W0cXvLr5fcoZCNq1LMsL6OVkaQzquLEgNQuw7y1mlvr.14OWiZ6nT1QS6nTS8yhlnh_HP30MbL9ReEdPdI2seh7MLwkg0K6kA6S272iDkZ9b8HeYWzvwiQZVEUSxr9hdeyiOKhaOKjACHVGleM7qIv8L1nZ1.aTt4RTmAtSjUEvB9UTQtAupagKIvTg94UPek6qFnWI7sQa98.VWgwI0NEgynAC4Q8jw3GU2N6VvDcgMFAzlRUjTplcPnYNP5G8LzdW4FqskFcSmO3xE_AmU155O9lZfUQcrHmw_WeXKWAWyLe1AJZTOokgW7eYqCxZH0x6ZxVDXHyUesIK.JuE_I24ZsZRoAzyhQlG8tYS3StmqU5Vw40f4W9CNLhCTz26zYKt2CyH.jogSPexBOU19h0qrZblNRohUdFNl6BvAyAGEP9zVU_f_pwKHfDw1lhqixMQ89u3kOQ0tg8eDuHk51mR9Mp6Z4RfQ.DS95w9GFO4-&token_type=bearer&expires_in=3600&a=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:41:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a22?a=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:41:39+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:41:40+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:41:48+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:41:54+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223access_token=0FkMQUuZ5Rk7nb24go73YBcGuZKHnV2KVmQrgyAsINA3QQ1JC9cbfNdAnKrSQw5stUaEP5BePIS7qGaIUCbCjM3WwvmAsMSXt31RMtJXjBp7DxJoH1LFPQ63Is_X2sexOBNrMxi49IAsT99TXHSxtmd8CPhFE89lfjIobTGABWMkox8mEbXlj58GA4UKunFCCITT7PRddyLv7gmtCECOj2C8ld1u5TXzNKB9YdXljnSqS.TjXkQLmgH9CH0qy1gEJTTsc9n.ocVYzNfQRp9.idJPzyYYQlnTWanaJUNzitUGDm6SLUNDKaomtMCftFX2HFgLDvDNl2Wa2qvvzLsCs22mb0xuI.6KJKaH9BfMcsFk2kiQsaAk3_aemiVzbwvTlGIwGQ972kWelE77stnktVkDEnsFCPD2wUWBq46U5pby0bjFydB80dZru_NazBdfYXPvoY1PBbxRBd.R2TGgoIEYVzYn8pFGZgOEHuN8OP_R.0l3EVbtpbPGxLIqPd28SS7ODiVYSnB2_IK1avD4k76pNOqhEBp73H.OCC9rOY9Typ4wKFj1eFg7zKUvGwL114HL6LtaaIDZ9QB3Akf8otEk0G7Ds5Qau3DhPl.p2UosoZQcuBwxrJwd4pZ7BBeljEuXei_GQbtG5bgdQk1.BH682PWA5YOJVO2yF8Kdjvmrm4c0LhGGCLNhNWWCS9AK7ANAbdIRy6tV4Ll3okmO7J1LF2l7X9ZCN299zku8LqUVDUR3Y4ZxYLwXY_kvSHu34zk.gMWPkXxaNYr0APm3BoVxRNRKGE.WjgXk40e4KG14SPoMOc.N1oQdsM2RdQMqAzK4NOTto6imW51rgjVhDhe9QPxRg.WNJJbldRj3SmNY0rExRh.ULtupbwXC2Io5XypdAMbS7W6QZ1JIApVeGM.IUJsDMo4r6m1qaxCGiFHRFlRkw2xpRPrrsdARXMTK0ZdGr23nGx2EC.IAg34tcT_nSCb3FOTVsRDFRQ2T64GtVj3vGd_ZsrB.tsMjLhlfmSUdPKTWMnHiFPbNKkxX_ho2xOldhdakRCsRV3s-&token_type=bearer&expires_in=3600
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:42:00+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223?access_token=0FkMQUuZ5Rk7nb24go73YBcGuZKHnV2KVmQrgyAsINA3QQ1JC9cbfNdAnKrSQw5stUaEP5BePIS7qGaIUCbCjM3WwvmAsMSXt31RMtJXjBp7DxJoH1LFPQ63Is_X2sexOBNrMxi49IAsT99TXHSxtmd8CPhFE89lfjIobTGABWMkox8mEbXlj58GA4UKunFCCITT7PRddyLv7gmtCECOj2C8ld1u5TXzNKB9YdXljnSqS.TjXkQLmgH9CH0qy1gEJTTsc9n.ocVYzNfQRp9.idJPzyYYQlnTWanaJUNzitUGDm6SLUNDKaomtMCftFX2HFgLDvDNl2Wa2qvvzLsCs22mb0xuI.6KJKaH9BfMcsFk2kiQsaAk3_aemiVzbwvTlGIwGQ972kWelE77stnktVkDEnsFCPD2wUWBq46U5pby0bjFydB80dZru_NazBdfYXPvoY1PBbxRBd.R2TGgoIEYVzYn8pFGZgOEHuN8OP_R.0l3EVbtpbPGxLIqPd28SS7ODiVYSnB2_IK1avD4k76pNOqhEBp73H.OCC9rOY9Typ4wKFj1eFg7zKUvGwL114HL6LtaaIDZ9QB3Akf8otEk0G7Ds5Qau3DhPl.p2UosoZQcuBwxrJwd4pZ7BBeljEuXei_GQbtG5bgdQk1.BH682PWA5YOJVO2yF8Kdjvmrm4c0LhGGCLNhNWWCS9AK7ANAbdIRy6tV4Ll3okmO7J1LF2l7X9ZCN299zku8LqUVDUR3Y4ZxYLwXY_kvSHu34zk.gMWPkXxaNYr0APm3BoVxRNRKGE.WjgXk40e4KG14SPoMOc.N1oQdsM2RdQMqAzK4NOTto6imW51rgjVhDhe9QPxRg.WNJJbldRj3SmNY0rExRh.ULtupbwXC2Io5XypdAMbS7W6QZ1JIApVeGM.IUJsDMo4r6m1qaxCGiFHRFlRkw2xpRPrrsdARXMTK0ZdGr23nGx2EC.IAg34tcT_nSCb3FOTVsRDFRQ2T64GtVj3vGd_ZsrB.tsMjLhlfmSUdPKTWMnHiFPbNKkxX_ho2xOldhdakRCsRV3s-&token_type=bearer&expires_in=3600
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:42:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:42:30+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:42:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:43:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:43:28+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:43:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:43:42+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223?access_token=UUig.mKZ5Rk6hmlFb84ZZ1GN9Matq3ZdykXZ2dUIbDLt0F1dZ0wzrdN7OyMYeM78utXe7YoQDxMbv0ktQPz6BD3qVH7l40bCFPWrUIK8TNJl5Qwg32S2GoOOsuLvQplYa3OCyFSw0.b1UCU2nqqfvXVYsKMzItv2nVFlbTqohh1c3AG5Z1ncuDllILDdgvLBwPegjQt5VKXCiqDoSrI002335Mb3TokaL2Xs9fiVdKTt87PYYDUZhD4dJuPWQuxT9szRowrvsNmQWNFcFfhQ7jGmeJ_Z..u21nKMr0.r1OyiiHKTZ8PiiAV7uYQhy0pZJsDYnagAL2C3u9yPSR6QJb3hoxuOMrmLcP.HNBEQT0Bi.s7GScQrSLEefHW7ZRC69Opwl4ONvd1_26idU_7ln5XgUtkUNkmpAZlp8KY39YBX2ZE7770Z1.VM25mte6NFBMo80v0aWN7_lVJoHsAhzI2Wputzav2I_MIPQZS9K3xWMle82eqVf1EQwCNnV_vvTqOwIiZKNtfOmTB70y8gscImRBYPCq5UXj3.FeKc0OUJrZhQ62XX2v0C5ZyeqVTpOt8ooryVfOP71m3dMB_3p38_2NAKeeEh2TXOwJrbLvxRqgPMYVdq0hGlsRlJDOKFnHNL8NORkN45jhPDxTb10.aH3XU0yGqYmbUit0.xr4BFWmnLaDzVrbW8jSHoVj3ECA98jSTG5VawpcxCGNtwh5SUT7OliO9LjmYK63eZQfxWaUrECH630m7VugiPDNZkquR53zesYM41TrXtjnhWA.kyD35wo_4oSUwGCo31BmydswBQq4vnsuxzzp0UUgft669cg2bYylNSuOVz5jT_h8PMFD02thmJxAyOisy1u6jUWkQUbGClJdB8d.cKR3WJm7PT3kUHyfiT6UN4lWg6WlyMqagGaNhrvxNrfB0tTZpqF8iW5ApGxHPWmeJjC.9vbylotCCfBqcD8.mM6vsH9VieRVYdOFeQSKQdUn88zmqPxYcMXV4LcUY_0JqBL2sicfcxz7F4Cvn8y81keNiYQaksj03InggLPB0D0Ok-&token_type=bearer&expires_in=3600
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:45:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:45:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:45:30+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:45:38+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:45:49+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223?access_token=8MLq9nKZ5RkzH2aeFoExzhYPVN63vI4hMvsWd5t71tr82O_fGZYA6DTiiqmOndySvSKQvPplY8k2BDwjvqobMSZtoG4sjxts2Ega.jlix2xCUrD5jPvo2J9UhKyoiWGV7oNpaOfTkQoJU43r6WNGQAvX8TGmpYI74pWQ3AQL4UbzqUFK5PMX7kd7ObCReEHi3f2LV_yib86n3EwwRWq2OzGKevXt8A_xuukXVqBZOymYnJpV8R5eSng3WHvIIxHBVHBpgOQl2VuifPntDB3icXc4Qwg.osj7sYiOrYH89yhG2aGXv7cxG4780F1_B_0QLCVX64G9o3XAe1eqZSBo0EaV6IL_w86cgtmgN5YjCQ1S4i8wn1sPoAc7A.6dfGjHOW3OiDZXMtIdRo_GL6uq6cvkaHIS_AcZxiB4hxYs61cKR4EdFH8cqVdIcvx_ACaByfUSW.49YGl3BBMD8.Hy5AUCLo_YN71jmskkEK.fEi5U7Bsb4WSb60bOpEhA9mnX.pB.02YgXr2KDOUbfPJ5LvWaVT0DgsDmkRySDWyTw_1SyCSQNH1WDGQAcndIGVXjBz1i3r5S_WlA_mCL1L7alPeyJS_jo2Wm5vTGXuI3IojzfxoE2SXgR6MbxwyZtya7yIfHtm_94dXCwUCdn2Jqq..nHQjpTuygh9lefcJAR_QYZJGKgf88BoiCq.2Pl0eV2uybv2.w8voWdjqK6VG9aUmC5LsPlcHePIb4itpCW_KEBlMAb4l4XOjsjZmkeCF0TqFFfMKQPzug9Zc4rWWguybkEQCbIMeaQxXyqk5f6EJJjTmIxa2iJ3RJozRk6WtzCf_2GvF4SS8NH_EvCeyYygQFRMngljWRIPedsCiyveq8Itqhl8U4RiB1OcNjMrCg7I3Yiag_q90UuYtRiexvKyKHHzQKc0TAlNsi7S3e5aPdjNQz_1ShX6xFLi0ZzYcwiZxWuSG4rzpxiGn0DZKul7ruojVCOXAgX6o6vM7dwYDPVoBztq3KajYMPu4R8MxeC5ACS0H0kgixQpZJjQIcZXq.2vDOpBjq_Q_aog--&token_type=bearer&expires_in=3600
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:53:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:53:29+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T16:53:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:56:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:56:46+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T16:58:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-11T17:07:50+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:07:52+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:08:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:17:09+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:17:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:17:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:17:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:17:50+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:17:56+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:20:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:20:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:20:56+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:21:00+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:21:05+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:21:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:23:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:23:02+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:24:51+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:24:56+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:25:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:25:26+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:26:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:26:19+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:26:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:26:31+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:26:36+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:28:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:35:19+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:36:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:36:32+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:37:56+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:55:27+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:55:33+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:55:38+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:55:48+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:59:10+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T17:59:12+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T17:59:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:06:34+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:06:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:07:04+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:08:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:30:04+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:30:06+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:30:28+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:30:29+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:30:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:31:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:31:34+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:32:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:32:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:32:42+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:33:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:33:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:34:47+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:35:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:35:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:36:29+08:00 ] ::1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:36:30+08:00 ] ::1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:36:48+08:00 ] ::1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-11T18:36:59+08:00 ] 127.0.0.1 /gamenoll.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:37:01+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:37:47+08:00 ] 127.0.0.1 /gamenoll.com/index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:37:49+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-11T18:39:52+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo/code/9e04e5f76c6a1511ee0ef6c500fe6d09ea96a223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+

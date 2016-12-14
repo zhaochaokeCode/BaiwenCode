@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>影视中心</title>
+<link rel="stylesheet" href="__PUBLIC__/home/css/jquery.fancybox.css" type="text/css" media="screen" />
+<!-- <link rel="stylesheet" href="__PUBLIC__/home/css/lanrenzhijia.css" type="text/css" media="screen" /> -->
+<!-- <link href="__PUBLIC__/home/css/bootstrap/css/bootstrap.min.css" rel="stylesheet"/> -->
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/home/css/comment.css"/>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/home/css/glass.css"/>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/home/css/movie.css">
+
+<script type="text/javascript">
+  var videopath = "";
+  var swfplayer = videopath + "__PUBLIC__/home/videos/flowplayer-3.1.1.swf";
+
+</script>
+</head>
+<body class="front parallax">
+<div class="header">
+    <div class="navbar">
+  <div class="brand-center">
+  <a href="__APP__/index/home"> <img class="logo" src="__PUBLIC__/home/images/logo.png"></a>
+</div>
+<div class="nav">
+    <div class="nav1">
+      <ul class="nav-left home-block">
+        <li><a href="__APP__/index/home">官网首页</a>
+          <i class="icon">/</i><img  class="tj" src="__PUBLIC__/home/images/tj.png">
+        </li>
+        <li  class="shouye ">
+          <a href="__APP__/view">影视中心</a><i class="icon">/</i><img class="tj-block" src="__PUBLIC__/home/images/tj.png">  
+        </li>
+        <li><a href="__APP__/guide">游戏资料</a><i class="icon">/</i><img class="tj" src="__PUBLIC__/home/images/tj.png">
+        </li>
+        <li>
+          <a href="http://localhost/th_l/">互动社区</a><i class="icon">/</i><img class="tj" src="__PUBLIC__/home/images/tj.png">
+        </li>
+        <li class="drop">
+          <a href="#">官方渠道</a>
+            <div class="sub_menu">
+                <img class="jiantou"src="__PUBLIC__/home/images/jiantou.png">
+                <div class="appluntan">
+                  <a href=""> </a>
+                </div>
+                <div>
+                  <p class="officialForum">官方论坛</p>
+                  <img src="__PUBLIC__/home/images/guanfangweibo.png">
+                  <p class="officialForum2">官方微博</p>
+                  <img src="__PUBLIC__/home/images/guanwangweixin.png">
+                  <p class="officialForum3">官网微信</p>
+                  <p class="officialForum4">204422345(1群)</p>
+                  <p>官网QQ群</p>
+                </div>
+            </div>
+        </li>
+      </ul>
+      
+    </div>
+    
+  </div>
+</div>
+  </div>
+     <section class="new">
+            <div class="container-fluid">
+                    <div class="span10">
+                      <h2><span>———</span>  影视中心  <span>———</span></h2>
+                     
+                    </div>
+                <div class="row-fluid">
+                    <div class="row-news">
+                        
+                        <div class="center">
+                          
+                            <div class="container">
+                                <div class="headCenter">
+                                  <div class="movie">
+                                     <ul>
+                                     <foreach name="data" item="v">
+                                        <li>
+                                            <a href="__PUBLIC__/{$v.view}" class="video_link">
+                                            <img src="__PUBLIC__/{$v.picture}" width="1042" height="323" alt="tour" />
+                                            </a>
+                                              <div class="dask">
+                                                  <div class="opacity"></div>
+                                                  <div class="button">
+                                                      <a href="__PUBLIC__/home{$v.view}">
+                                                      <button class="ClickMe"><img  src="__PUBLIC__/home/images/button.png" ></button>
+                                                      </a>
+                                                  </div>
+                                              </div>
+
+       
+
+
+
+
+
+
+
+                                        </li>
+                                     </foreach>
+                                     </ul>
+                                  </div>
+                                                
+                               </div>
+                            </div>
+<!--                             <div class="qiehuan">
+                                  <ul class="pagination">
+                                      <li><a href="#">&laquo;</a></li>
+                                      <li class="active"><a href="#">1</a></li>
+                                      <li class="disabled"><a href="#">2</a></li>
+                                      <li><a href="#">3</a></li>
+                                      <li><a href="#">4</a></li>
+                                      <li><a href="#">6</a></li>
+                                      <li><a href="#">7</a></li>
+                                      <li><a href="#">8</a></li>
+                                      <li><a href="#">9</a></li>
+                                      <li><a href="#">10</a></li>
+                                      <li><a href="#">&raquo;</a></li>
+                                  </ul>
+                              </div> -->
+                        </div>                 
+                   
+                  </div>
+                </div>
+
+
+
+            <div class="fluid-right  fluidRightMargin">
+                <div class="download">
+                  <img class="xiaz"src="__PUBLIC__/home/images/xiaz.png">
+                  <img class="sys"src="__PUBLIC__/home/images/sys.png">
+                </div>
+
+                <div class="hot">
+                  <img class="xiaz" src="__PUBLIC__/home/images/red.png">
+                  <div class="luobo">
+                    <div class="luobo-img">
+                      <img  src="__PUBLIC__/home/images/img13.png">
+                        <ul>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                    </div>
+                    
+                  </div>
+                </div>
+
+                <div class="community">
+                  <div class="right-wrapper">
+                    <div class="left-hotspot">
+                      <div class="caption">
+                        <h4><img src="__PUBLIC__/home/images/shequ.png"></h4>
+                        <p class="clearfix"><a class="btn btn-glass pull-right" href="#">查看更多<img src="__PUBLIC__/home/images/img01.png"></a></p>
+                      </div>
+                      <div class="head">
+                      <foreach name="hot_p" item="p">
+                          <dl>
+                            <dt><img src="__PUBLIC__/{$p.pic}" width="135" height="110"></dt>
+                            <dd>{$p.title}</dd>
+                          </dl>
+                      </foreach>              
+                      </div>
+                      <div class="head-c">
+                        <foreach name="hot_t" item="t">
+                          <dl>
+                            <dt>
+                              <img src="__PUBLIC__/{$t.pic}" width="50" height="45">
+                            </dt>
+                            <dd>
+                              <div class="hp">
+                                <h4>{$t.author}</h4>
+                                <p>{$t.title}</p>
+                              </div>              
+                               <span>{$t.time}</span>
+                            </dd>
+                          </dl>
+                        </foreach>
+                      </div>
+                    </div>
+                  
+                      
+                  </div>
+
+                </div>
+                <div class="official">
+                  <img class="xiaz"src="__PUBLIC__/home/images/guanf.png">
+                    <div class="offic">
+                      <div class="erweima">
+                        <img src="__PUBLIC__/home/images/erm.png">
+                        <img class="gzh"src="__PUBLIC__/home/images/wxgz.png">
+                    </div>
+                    <div class="erweima2">
+                        <img src="__PUBLIC__/home/images/erm.png">
+                        <img class="gzh"src="__PUBLIC__/home/images/wbgz.png">
+                    </div>
+                  </div>
+                  
+                </div>
+
+              </div>
+
+              
+        </div>
+      </section>
+  <footer class="footer">   
+        <p class="footerText">
+          温馨提示： 本游戏适合18岁（含）以上玩家娱乐  抵制不良游戏   拒绝盗版游戏   注意自我保护  谨防受骗上当  适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活
+        </p>
+     </footer> 
+     <script src="http://cdn.static.runoob.com/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="__PUBLIC__/home/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/home/js/jquery.min.js"></script>
+
+
+
+
+
+
+<p style="text-align:center; font-size:12px;">&nbsp;</p>
+<div style="display:none;">
+
+
+<script type="text/javascript" src="__PUBLIC__/home/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/home/js/flowplayer-3.1.1.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/home/js/jquery.fancybox-1.2.1.pack.js"></script>
+<script type="text/javascript" src="__PUBLIC__/home/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="__PUBLIC__/home/js/fancyplayer.js"></script>
+<script src="http://s20.cnzz.com/stat.php?id=3992412&web_id=3992412&show=pic" language="JavaScript"></script>
+</body>
+</html>

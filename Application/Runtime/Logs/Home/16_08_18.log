@@ -1,0 +1,2576 @@
+[ 2016-08-18T09:43:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T09:43:39+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T09:45:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T09:45:54+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T09:45:57+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBENSPNn9XXnnqZKLrybQWWXmIO0IxzQgG9CL8IqIjjxlt32GyMVMar1dX2q1Q1My_-HLHA2ZLz80j6J1gckZzAmYucQwtnUrHAzkNyu5PPBftEgdIBV78U4C8_7Sm1FuboHzoaITnZSZVR_fkORs1A6GB9fXqfByLFybsAvUy1q7JrTozp8vS_5PMcaSLD5UEoPXGpUN2REaCX0wHbC1IJe-ORQMIXyvjdz_Mi6-mIL83G2Jyex78Bl-XImxvxp4O2ij08ZjGZUGtodYRZclC6oFmZQPpspb217j1xDa9XbHMb4uBvngFUQ0ATO5s8JQRwMzVhA3_RAWoxptqDLkm1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T09:46:01+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T09:46:06+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=ltDCUgAAAAAAwcHgAAABVptRQ9c&oauth_verifier=7Ub48XOJ31mBO5Atf7qPS0wveLeX2qnT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T09:47:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=ltDCUgAAAAAAwcHgAAABVptRQ9c&oauth_verifier=7Ub48XOJ31mBO5Atf7qPS0wveLeX2qnT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T09:47:06+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T09:47:12+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/3E9UpSXaVhXlsHeLf9ejxlBOR8QKhNnfl8j2_HB5bpU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T09:47:15+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T09:47:24+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=nm2pgvh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T09:47:29+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T09:47:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBqsWmrRdF9NTGQnYO-i4E1kkzPlQ0xpucrnYACHO0VSRgz8ly9mD_b2XY9Vr9U9cqIxzobJVpo18Cc4acGunqQD__CvHSXk7-3X_HKzTEu4Rh8Ui6DSy82jj3FtvpUqkAj8lvgaCYCch0xFS5iC4SsgTDNF3l3CgWKLwb_5cPsRTdaODhkQ-LL7zJIL8A2qT7QawfpbrWa3hPdKfUEsG38o1HeZlW6Yqn_llx9tQ-kXknt0T3Japw9YSNQUR8OxFEHMbplguGW4ODNuYJ9Tj1CrzHW13e9ZBTp52OuCQKxKXtjAKeS2WhX6RdKQKlkHpTZ_eAeYuAShYmdCpqhQ_ye
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T09:54:29+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T09:54:30+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?error_code=100&error_message=Invalid+Scope%3A+permissions
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T09:55:21+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T09:55:24+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQD-JMpbykgJo_1f6DEBDmPKhGlN7OZ9wr0dl3tRmH-4ERSKsYhKogCjOIYYVrRMdQs6oklAKpy_wmai2pLM1V8kmHVY_vvqPLH0hkwrdpzZLDa9QwoWWeV_BQqm86lEFEQLiNGGmpZg_g5uySqjqHhaA-CNh4-cjCsRVqsxpkc6k0xDiW4LbndmDUcZpNshkqIczsoVJ9m1pRBW3Kav6e7Nn8cebgN1enIj-jenCWGQ3BNa8__bPBeFAMuDx0x5_Kay-TCWgKEvcSjozpmg2ikguiSGOFYV1vQgmjDhEQAytd5f5lAoWVK7gYx79g6qFG-ygpBk3lq1HBA6ZYcRaOiK
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:01:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:01:12+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:01:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?error_code=100&error_message=Invalid+Scope%3A+permission
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T10:01:47+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:01:47+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?error_code=100&error_message=Invalid+Scope%3A+permission
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:02:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:02:13+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:02:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAelx9QTgt5mtpQu6UyvUxvTeYHsQWiNI-zkKbor24aT1FLJkJmOc6i6UNHWJ0d0QY1XgpCTNQJTbSgZM0UF1Sla9xfIdb158e0TuUv2HiUVc52WHKP-n3LgUxProTVAc03sei0M01IdcObemIzaSxiPdRUUiJAM5GAgYABuVQROL1klo3X2EMzqonHkbL5hEMpNqB64fcK6T5MAz7pPZwgiKVbR5Aqk0vOMeT-gNvvnOe3fwAPwj665FXCFI_QAwZvoP0xidqt9RC1dj2eCXxMXlVuivuVLPkCfrJmMsFRM52glGvyJ_anCH0KmqtXpmBZGzR3dWdBYfYR_IuDQBZj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:09:20+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:09:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQARhK0Utn7fY09J3kXrVC_TOInOgd21uLjyVw7aIGXB51XMyLB4voySmPOEe7ZUUM5L1fFDFkP3oJmEcc-Ji6bz0IMuyb8UkeTfdi6Q4dL7f8b7TjnpKKx4QUn_drUusY3olV5y9Q5Sq71VbhoMKPb9KDfkYs2pDYf0S-428aV9fUv9NyN9zTWxIADMJ93fc187p-pjf8aXu-uwdRK-EkB2xxKE3YJDFT6uxVbXpyjbkJ249S48txEzn7H3vixnIo0aEQvFLB8ky12-uIMws-ECYjiu7s6H-OlRJ7kALUfemyXd-LIbxCuvRvPH3CzJAcC4yB8hFEsiLAlW1FFXPuoZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:09:28+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:09:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=HZaCiQAAAAAAwcHgAAABVptmueE&oauth_verifier=aW9hMINGRSd0KsJtXARwCmKO0ErWlANX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:09:57+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:10:00+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/zE4JDCoiewDIr5W_zA0Ez1-04CJ7PA6e7oDacRgKizo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:10:08+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:10:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCTJBSaG6kgfVMV4TTcbOlsSDuyAPdVUbExa6gjd6UMB75IYpqL7ucYfY2OXb-05Z7PEDGOZUU3c3057zSz_FjjA3_N9GCKTKKOAQ6WefD0fxfbWMySdGnv0W2SP0Rkm0YJ6PBWIEJCp_AcNFA0-fgCCnh4KU10R0M1We94a06ka5FpJUaZuhdALwS3GWcNW5SPXxCE1K_c8E3H5s76GB51BZl6UJXi9bnlppEvd-FpBQG26IQwFf3gRwwPX1yQVvIUFY4dzKuEQsxt5ZHTi87n_mIMagzl713Ks2A923G8r8Cja8cYQRI7WDMndAOhwqwXK7NX_PNEhciomgJEMZjb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:11:38+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDeP5uVqSc1_j17bUkVJwB7-zcPV2vNLemCA5EjyQj5wP3cCOoQMx2XlP3NoGDL2EXOkPbLDIbHcJ9Dmu4E7qbu1rhHpVKfUToKJl76T_sYwMJLVaxhV0R2sPVY0TEFt98XOsOnBEYK2zec3A-1sb5K1fM-oNzEv1HIWnCXv458xBokkxoiY3q-pUhixqkGWGL5G6KuPFMHhgExtLoODb-vy8wFbMldFPXV1rBYNtrBntslBC3271tTuaQs2CNb2ZBZ1S4C3KtjA-ynNJC7iE82HBn9H1V8LVWzcUV5HcwBYE8GfN2wu0T-4e6bnkVVVCkzjtPZrJXbXUgE84DiYil_
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:14:25+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDeP5uVqSc1_j17bUkVJwB7-zcPV2vNLemCA5EjyQj5wP3cCOoQMx2XlP3NoGDL2EXOkPbLDIbHcJ9Dmu4E7qbu1rhHpVKfUToKJl76T_sYwMJLVaxhV0R2sPVY0TEFt98XOsOnBEYK2zec3A-1sb5K1fM-oNzEv1HIWnCXv458xBokkxoiY3q-pUhixqkGWGL5G6KuPFMHhgExtLoODb-vy8wFbMldFPXV1rBYNtrBntslBC3271tTuaQs2CNb2ZBZ1S4C3KtjA-ynNJC7iE82HBn9H1V8LVWzcUV5HcwBYE8GfN2wu0T-4e6bnkVVVCkzjtPZrJXbXUgE84DiYil_
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:14:30+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:14:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQA6GmwZsGzw4WQubQWHZQNJsXjAzVNUorUDwGvXSYbYsK98NHgRIjd3umppdAV4SNNLUr3nrhxVFhNGgN164WE2S-4TRWrF6lDoyczbH2O42UayAqUNITXUtAYSntI60bLiBEITGErEArZwSwVAeUwaXwD3NJoV_gWJ4ClZafVmR5W0FmsZOUMdhoj7mQ1UP1xVmU_iq7mz714EduYPWY20qtzB4qBFTRqtRCeGJ1UZl6bEBUciIMca2twyWEQiEZizHSNIq0nlGzG0WgTmQT0CJ5pWRwNE2S0nSHycvZwdkzEJn-z5V6f-wdHJgqhwyZ3OSB-V-OEFjTyYTkUjti5r
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:18:51+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:18:53+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAoO2SFHNupRVirOhi1FdzI2si30OlAEQyzuUcnn_R3qGikTQNwYc_8aSBzNoZyht5InUmerJIURkyNUSrHYvRtcEQyz9cM2OZBZn7obRjN9n5-pNJidqw_a9H5uFQyVDQbDWr88BUG9ESXWEGZZO4tOrMnBzSAOshIHlREVgLWLVmTrpnDyzzIuG6rZ1GPikYu2UYIFt6qTF7y0s4Iyx4z38tiHPtJVkUcNhBrOEw7vTPtuvMerrq6R1I-N5eyf0H_QfMblB942CDuEVvNdQBDJaCygwKkpqOvoNxdQxMF6e87TLnusYIjCRJFxKKR_dhX2xtlzNwq5vec7jHuVrMd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:20:34+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:20:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQA49v6GBpC8cwWumaGfHWZkYiqbLyJXuytCpM6d0tV7iYzRz2Dkw7SHSgm8MpRfRW82x6aOnIQmZo5AsudFoqoItk5DX3S6YZjbeSTpF0x3rBkMjXSXAubVLCuKXlUC5AQzcW_CD--RhOS17PxTaGyvWN_lbSABj2tGN4NjL-LyLTI0aKpWYWHLvajKRyzgY3QKpb-vgA0T9ZwCyGLK8FOZkhQf7btBLR2UhpKjIWJWjjzBO1bivIEO4tN7wWmTrHwgwkV307zVNalFXAuz08WWAyB-Q2tuWEZ1LMEkekFvlucUwVe0JD94KOrvJRuNJA6ZMg3NfQu8w5OaCNmh46Gk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:22:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQA49v6GBpC8cwWumaGfHWZkYiqbLyJXuytCpM6d0tV7iYzRz2Dkw7SHSgm8MpRfRW82x6aOnIQmZo5AsudFoqoItk5DX3S6YZjbeSTpF0x3rBkMjXSXAubVLCuKXlUC5AQzcW_CD--RhOS17PxTaGyvWN_lbSABj2tGN4NjL-LyLTI0aKpWYWHLvajKRyzgY3QKpb-vgA0T9ZwCyGLK8FOZkhQf7btBLR2UhpKjIWJWjjzBO1bivIEO4tN7wWmTrHwgwkV307zVNalFXAuz08WWAyB-Q2tuWEZ1LMEkekFvlucUwVe0JD94KOrvJRuNJA6ZMg3NfQu8w5OaCNmh46Gk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:22:06+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:22:06+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQATwEBVTyqDhSaRcq9E70oatrzRCCJbmoHFu6MQfu_HZWAeBbPGjXtxmAOybq5IF3hse5-eL41aSuH-zmcsoAPzfgxP83sgGqzPhUwygellQdtUCberVaZjggSA_ZihLsrKthfUkaVLq1ABvJ3J8N67JqEDwyZPBTCDL0jBFHvYt3P7ol9_Oa_fDR5S2KOOD8M9ANfMWnrNvqhpTlovdHLUIlvKphtn4IbRz9ZEuqFD8_7NgLPXAqpSt6sVciBecQvKfhJVrJS5dLHN4djl5PeMG8A6toexBx8DpDZbWubafIc6vZXbEJf1rroXNPb97axH4d4g2IwsL3MDxGKbtEOx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:23:57+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:23:57+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBg5h9MJbARa0Kdu-neVsZvHit0gdUOfKOoDy1XCfKLqKY0qOAMOzKDKYWyo8ExMC66oCYJgw_5WW6NBKqjEAzt3eh8ZthhzTEoX7YIolYLo9UDGnQe6i_53fTOwtr6j0AlV-xzkQm1KP8uY6R5PgeWx3ZnMaZ4BT5zU31cpAsfR4yTFRW7FrrI2LqNdQkNZrOpObeBTPZL9Tjc7wwRn7ZMlDBV7ONZ2JqYRkSUgt0SNuGP4GDs9J3Fwicp4f1pPhewX5agueJIVjzE6TT2tGmgGKvHjlCgLE7JgPWSdsLM7fLAzbH7uMasxDFl-UbiAkYD5XQsslhk-HAHDsJw2WJd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:26:11+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:26:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDUJfb0_8utG1xPh6sg8c427BsMQb8aDNCS1kBYiBBgJb3ApwEqNyihx0rJOcCoWqt8FnnboJIsdzIdWx_65Mc9WjEG811KdzqAzujKVDDxhNsm_R6yVEJZAAVkE0aQXaxGMQPX5tdqK8iOGf4TNIoeXi6SM6lQxVyPsJ3FC9RpeD_M4yUhAeaGZ7ZPJOJk-OpcsSUGZRYUiRu53pXIkdulPKg_yqvWQ6gvnfgui3s_sKyWa0_uG2F4hYIG_PcittcE7nBV1HgqEzKP5l5Ng5wjgqjW1t8a9qExWP1z_AavfSkHn91ZMMfhtBh4BPwA-3sFDYa9WzomUaP5Y9fsOqYM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:26:38+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:26:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDpJ7fiz3rOZ7yPmENMSuAi1ouki1sABRs43JNiSeNpgXQlfslc2rZXIv-pDdfq9IUALYKkvf_ALLtjuKEOsIdzU3o1vweqpd1AjaWDIQeu7nFXIJmmGU9A_wz_ra1Uf5m3lg-EUF0FXGYYPV0YTgMOtZxvSMyn7NogT_j0lbGwtjQ3mJKqRq2okePJIUeCAJXrEH0LDyrQ3Xe_bcNIWMMdjuPS-Nl90ZWIwFisCX78EyAgoR8mrYL-ne_urMPSMtx7KkEcgOgVvyqCczH8OHI99EZK1vXr--9YpiJf94ZaYuCggq97X_JPr9uTLKn17INY5sfOR_YYLbT4s9p9WLJU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:28:59+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:29:02+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDJeQXvUoI5lopuY2y-K77jNwz2GuFwAJhu3izTKV_Xw_9tcdWwHN7q6c5Ch5FVnZGQVoJuwbmfQXVBPY3AMZLAqHf9lHIspX56ntZLGX48hLQH2BEtcnyxZ3F2_SGAMNoV0VQ1jZHQRLkUW_muGJV9O08RmDXeh4zkZX4lNywtoKLWq3yZqwIORsyfBITlL6srqIcW3rJv0PpQbCURlYIGTkDdTDMMQ88TPMTS4IAYPEP4x6JrKaflpKhQykNa-IBZOvUuY33KBezzR0mkCzMrEPDlbuP28mFup11rU7QVjmahBMxhvoCxy74dkNqInySQ6PzMwAtEDZDwdmxsFrgx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:29:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDJeQXvUoI5lopuY2y-K77jNwz2GuFwAJhu3izTKV_Xw_9tcdWwHN7q6c5Ch5FVnZGQVoJuwbmfQXVBPY3AMZLAqHf9lHIspX56ntZLGX48hLQH2BEtcnyxZ3F2_SGAMNoV0VQ1jZHQRLkUW_muGJV9O08RmDXeh4zkZX4lNywtoKLWq3yZqwIORsyfBITlL6srqIcW3rJv0PpQbCURlYIGTkDdTDMMQ88TPMTS4IAYPEP4x6JrKaflpKhQykNa-IBZOvUuY33KBezzR0mkCzMrEPDlbuP28mFup11rU7QVjmahBMxhvoCxy74dkNqInySQ6PzMwAtEDZDwdmxsFrgx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:29:18+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:29:20+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAyKNjopZXdds0Cw0QC7VHTFowx4YMKawWT83srm-JZDfPnRTSFw2lvKl8dmsmBL6aDrCChvVtojDjrQNH5EO-VrD9useG-Zkh9j6lCGbNL6V9XUY4oVBSQmz7b0GUH2Hm6jmoQJjCP3Ah1-_HMS8N0FuS_aghdlqoM1SyQa0CDJwAZzqwgw0jBQtDCdR0EzUCRi5r4QsQisvEteQpXLJkaTHL_Jhv9l5_YZQFtPJ0Gfrgd1AWzZpzY2kZcIC_Ivx2poQZ0UWfRfmZysBeofWJ4v-V1IQPr7SMxrPeqRlUCi46nk3JpEb--51ALd6EYa7kJ4nQz2fqv2eeGo8SEcocJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:29:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAyKNjopZXdds0Cw0QC7VHTFowx4YMKawWT83srm-JZDfPnRTSFw2lvKl8dmsmBL6aDrCChvVtojDjrQNH5EO-VrD9useG-Zkh9j6lCGbNL6V9XUY4oVBSQmz7b0GUH2Hm6jmoQJjCP3Ah1-_HMS8N0FuS_aghdlqoM1SyQa0CDJwAZzqwgw0jBQtDCdR0EzUCRi5r4QsQisvEteQpXLJkaTHL_Jhv9l5_YZQFtPJ0Gfrgd1AWzZpzY2kZcIC_Ivx2poQZ0UWfRfmZysBeofWJ4v-V1IQPr7SMxrPeqRlUCi46nk3JpEb--51ALd6EYa7kJ4nQz2fqv2eeGo8SEcocJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:30:02+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:30:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDZnWpttZ8KtiSBKIVln1RXoo8iei2ertf022EUzXXZX452MuUpIhyA0bVe9aLMuj_KrNA10C57Hq_MXpAFAdQdQs1SHESOc253cun8PJAHVLo23L4zFIhJt6Mq3YHo3mGwbea3WqCYO4OVKPUHgj05eHEB4OBOaqSORb87RGLXtGUytcmUfvSRHpF_6XlNC-s1H2TL6ERIl8GAKbmjQSdReJEOFUeQXd6CHBplJHedCQxTgLIogNwToWrn73OtMi4gMVWAK1cQdEqp54EVXp_8NAqFCftf9py-mGmrNxXNMiYhHoJbmuQmNInXdAitvB3dtcDR6WxjDFHUOs1nxhJx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:35:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:35:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:35:31+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:35:32+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBOkx-RqPVuMmrRTirIpA3J_vULBfVg6Xj8d7cG_B8li9EgdOtivAEj3A82cFebwb4x8czD27rD47SVCvRQV8k0lDGQsi0K-G5qcYVpJNTNmI1gAXp64nZGG9yKXIUkAaSRs9a5zA7efGddbpj3i-wqwmTOF6Rp5qRx5exeWwG7tHtqQFpVHAuqH0I-TWKbCMJTldpl-Lk39yFWH9zbAXhQhTiAS2ne1iXoAlhO4upAdK2k0eeAWM05gZMl1YAguqc2QAnz43L1DLIgMcD91NPFTI2u_uePJaUbxfsJ1BE1-le1a16U3JSyIcqfK1Ovp3Rauj39Cv2ePREK8YOWXUY0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:35:59+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:36:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAWon408HiKsM_llNQ8JWrRm3gmW4VBtTBceb0fDAkIAiNsuq9CaVgCCvN84Nkvo-QKnlEAIhlMMR6zyNpiiQ8NyO5gMiSqg8rQGiQZPdc4RRxqFN85-cqrsJjtRJ1tO9tVdijKro0Jhm8FjyuinTqXY01OE5wXhrCjxLPmBN2v-mxhGCvaXMPNUa6Il6SV3fLDOmWUP9Jtimk9mXLaakMCU212b7yjmvfiEGUfIo6kQlpdX77MPfBZ0M1aPgAHsVChIAuMt58JtVGd_Yrqd_1q1ifTo0ZA0WnoeqDBLB2tGWoEilpBhbgUer3feRvSca9GXXOV0zrF4A6sZYOMxx5r
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:36:44+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAWon408HiKsM_llNQ8JWrRm3gmW4VBtTBceb0fDAkIAiNsuq9CaVgCCvN84Nkvo-QKnlEAIhlMMR6zyNpiiQ8NyO5gMiSqg8rQGiQZPdc4RRxqFN85-cqrsJjtRJ1tO9tVdijKro0Jhm8FjyuinTqXY01OE5wXhrCjxLPmBN2v-mxhGCvaXMPNUa6Il6SV3fLDOmWUP9Jtimk9mXLaakMCU212b7yjmvfiEGUfIo6kQlpdX77MPfBZ0M1aPgAHsVChIAuMt58JtVGd_Yrqd_1q1ifTo0ZA0WnoeqDBLB2tGWoEilpBhbgUer3feRvSca9GXXOV0zrF4A6sZYOMxx5r
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:36:46+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:36:47+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCdiKcuPyeoNq43vdnd7EhNLljcMEdWDRwIpUaQ05N7-mpWjSddk32A6ZWplJtpO-UQZrrrMorr2JwCNgGWG0P1vaPjq9wRFBW4AR1BrhCVdYUkZIJFFMO-zrSMKiqRsF9fnL7lux_AXobxcB47PYIuzeMOJWB7SHKt4sq-yRbsZKak-lGl7RqTv22_wxQW1HqlAEHXbyxI9iNRHBoI1v2AZUCpnrTlQ_iAKmAUC8hvUieFz8yQo8igvwnv_L0WbwJJho7VfyU0YYxq2RJGs0vVDkx2mYdf4TBFSa8svpoksfuqnEf3zjrGbngUb6vAvZqeK1QcOoSmWMnE1wAtSl25
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:36:52+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:36:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=BiCTDQAAAAAAwcHgAAABVpt_z-o&oauth_verifier=Uv1qAcksc1Jao1pdxUcT7FfDnJCJeVdX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T10:40:00+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:40:02+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBHlKfsVE1xmPr4Zr4_P88gGtNne5t5JhSv9AGVjGDQah-55Wn9IF_WOxZU991DUVfbSgf1vRNq5lhrwJKOYAA8QzuRa39V6bkWr5DS7PFg8MmUaW5ZPjDWUVELigXjIn75j0_lae4rHphPh71LXZo4MuCtySnqrXEoOecjY8jotFsixky1ri2hUOXieQOH_YOBCjmfG_LjUV3kFJ68_o8J4XcSe1pOEzEa6U20LFnDktPAq8wUIelW7wmwVF4sLwxvE-_-XDJEcWqB8FyvSi37ge6ggTBB7EC55aImzzcS4QIB-JV5UDyOc3AqdqI1PM0DtNS-DXPZSzNCsscMbghb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:48:27+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:48:29+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQB3mAFxdPTyWQXiLVXfQu_tfnIw7pRfzDWk_ucR9ZRed3aLEB0AMfcEWTpdtjdOJzt9l2vGsOVmVzQ7iXyaPQdbUi7C6qtV7MSIXSQXQq25fEPmonuRZWgStI784FZXXTxL4eOOnI4xx4Lendg99ElhrDmPeyVsgYmKRrOFi79UVpGjqkg6AjntHy1sfYbjWV_DyJqKIzmoAfE9CZa1OakA5CztXq6aNo-L8sIBkwqMHihynddcJ2I1_jp3Pz4W-QBE1mimX5oXScd5Lgy6-aMObqi_IhSJ6F3q7rEYfWjT4WabMCa1TEjTpX3beokjHF12SGhBAl1-YJAi8rnICEHr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:49:09+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:49:11+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDB-9Z5aRhdJHAFPl-cZvZu3CH822PEwN6dQy9-HwnNrHQL4-ddL74Xmtw_xmvZerlgUPADG1Pob6X0e782D_HCdc_Ihlf_5mBfLY6j7rUVx1_HUekunDJWttDoR7hgt4rK5-3DsoF09LJH3GqFGxzbaoqjJWuqwxD3Br8mSASSOQztwAbSIHYfDN6klkT8g-ez6jP-aBaQhvAvrecA3F5b1b0Gfaao3mR_Uja8z25Acb6FOnHJ21-EH1xKzsLXbDVTrlRbu4JdWo_gs_UChSe5D_u8ZjmZBeumQIFdrPjfdwYcF1t-QdVhcnWMn25Ek9dpCO7PNAsN-Dr6oLO5hqbO
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2016-08-18T10:50:03+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:50:04+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBFXECvhOGSBkMM_3zgQwzf-GXKS2JUqKXr36ZuOmbfOvCkxHhpZs9tbY4lOlQLfIm-rC1S0S6rVon8YwV1FMYqVcT4_lHV_sZEAXqQ6od7l3pHvutQFPirUCE3h10eRD5RIr90jeUj2f2a54UI-CrPTMuraAfsoY2jqwe4sdMNG0O2fjw5372kdv9ASJJvsXI2SaG48MjBAVb7kHMUSWjBtzde0vxwKc9CvSgtVy4PVqJFNtDe5h6pL6N_TP59rh-jLt-b-y6soK78cuSCjqhJDGAGrXItVrlAuKxIDv-6k_y8Wv0JbjPNP_fDFFc1a-QN-4tGg9z_a84rOprtBiBZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:51:19+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:51:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDMyzpzof2SpoK6S-bXVC_aMbeHj4Sm_KtZKiJqKDg68rKV7Qxuru--Awl4w7tW4_xH3iNiRr_Zv5Y-nuAJWp6_iGQWPUVpxphFeCbtENCWrDcLi2ffu8fI2458kJKBJAasT2L8SrBXvL_9g2fTYpqzAzW6iWYoLhxDYQzYHTMfbyFqchK0KByt5c0ulHaVraqo4epN9-1x5P0co8253SFZoLTBQWGIYoSsi5ekEeUhIZLMBmOee5Bzv2neYSpuny1kd1s448aYm53W2LlV7IdUby_4ZmCml53Cmr6z4QlYuKF2Y_Bl9p2Zc0agt9PuX7zwIqS9XllgkQy2sDSTFrr0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:52:40+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:52:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCKx20OKiOLBgRy5qINfyWiOS91QrSzjsu3O-n2-xO_tDucDOXgF0igixcUfJ5cSHbU8S_nnHJtlizbc8syag-xneTS_kb_B75HHXClZNVB6eABtstJwA_-RXnhb5AFrC8cTGPxf-u7WNteL8znnMVceh5ch7g4Fef8z1ZfPaR4bdDxzk-tj7p8f4UpR3l1S0sM1Ia9YkaTONakrdV5yktvuW4pCn-qJx6ux9_eWpRzJmk7dVUOI_eeaCoqcGe56JAjt14wc57wFWi3G8DnMf_1aT2aObt3Zzl3aGUf_u7qxhnHEl2lA1Ixwks4RwETgXl4F8rIsvDQXNEIWLTtuSwm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:54:58+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:55:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQD2RTeOewThAVgyOT0jcYgqpsH06NvL5lL7UQYFr3BcNevDpyS30KHxfqxmA0RqdKwt3JC2ywMDn_q7dNN7txs4jdpO4ER2X2VdTTu2P7B1kbc-6JKMOM2nrtQZdspU_a5HCCkbJrffJCsrAZsUluG85xW__YAYr7bEYf3GKtghjSWqZBGICmjBdRj8-0FdhG_a9otec2l_ns4dK-JPIjz0ijhF_P-lBsl9yAoPv7HA7xerB3sGGKjKsRUbkfCIkCxl4dznuG9QAV0pxXM77dGLtuwts1W7M9hM9-ENVR9K_V2qQ7z-yX_xF8Pb-kSnA2ulCLjl_GxgvkxzjjlzwudB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T10:55:33+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T10:55:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBLgIkruEovDmQWSANzlmqQ-G6i9ape5ZJorDGF-OWG-YV9jt0qRm9XMYAgMUsdBLzFK3vxOecpkZ6MqK4s8VTS6FWJOYHojk4lngBpZCVfoR1UP694S3lWCjBtNy9BGIzYmOmkfTIC6vkMlCAmpQ-2EXXHFvGXbDxABZzCjneaFKY0QoL3qHlpepq8Etr_ASxH355wnS0eCZQ0ECUSVL3GWQFmV__ICQOcPhECc6rStZ_j_VDt6Doq9kC4V8BTqJ4OUT1nm3LsAWAKRHyimZ2AJ9Dgx3YG0lW18iK4vhiHzvVjex8oITuaF70dqHaqsQsOhz2AvxH53dR57gO9Hhgb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:00:24+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:00:25+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBtBCpR0gRKLNvcf0KFwfFE3Oja_U50eMjLS63E57Exm1FW2MLfPBktmZET9Me3UC22jv0-mBkyVvgOJRBYYULUcA4XhEpQcrHD3rz7spcGsv1hcRMq9AUh6RZwt9xaKzNISVuyTZbOQMXPDRf5-LP0LlxiU9pfu8fmgoQAB82WEeSvr6BgQ2n8WSirXm6ml2rVwgdbTIz43Dt2VpM-vCEO-RpkKpToDatzESjPTBXQXOue6CP6GgEzP7nL2W7Yr91_YMiwHC0lqrSaIF5v2xGFN29y48VfZ7n_kOtlp3OBlprxV8Nmqn_2aj5nn5couURvBFbJvXVpU64AGrgHyTJM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:02:47+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:02:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/1wEVpOmDFBYpa5yu8wHzxyPtWYhDy7ClXKoByoTzrdk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:02:58+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:02:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQD8baN-Vatdw7z8Es7kiJxm19eV9Nry7dQgH7_ITSqqUXVKz2ML8TjyerJ7gp27sREhrkBYo3C-6M1Jgg5vQ1irLR_fWmwq9xozmdEbzL1FXCTUL-J0kJu2-6vBY98eYH5pMU-8P4tspcy9cRz46yQsxSPUWh6MGZtBQOS7PeqNnpSKElshm6YGD4RHpS7Yav1GSLktc4_yeVAMg94ePcpQexu1pM_uHRTOn0kstx50usBZvksEmw8A7oYr9MSJ0oKCo6qATK6O-bVRkdtF4zHDPqFl5mPEscBZ-H_sjDbe082rPLZU6r0HorYcefia-mwgFvIkm9_A-tdjfifKKRt6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:03:51+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:03:52+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAHdSvO7kqm5LtUaWTgauTR381lGkpTt_x68ssBVyf97cZGPg8GYrns52KkE54Nzj-Lek1TM6CXOld-pKGJAyV_xknUCkcPBv3TnHGtenu7nBY7ehi-ujxrf7E35jK65v_03FcxysY1O9BGQn6ZnaeQIv-HGGxjU8rcz4DJHL9sSaoSs5BBfmNY_uBtP6A9H95GkuNNPX34O6a97nkbCBIeqqIrXj03MjUpAIwelpFklftOUcpCzuZoif2NlNhlIkrfRPAeThrrJofkTwKlxkkxmjIrR-BoCKmrWtYaShyEUf9HlC2kW51Kkcjk0FSEi_EhRH_DVtajCNMYf3x4kwuP
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:05:39+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:05:40+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBTg4h9QN3EsHcjCUDZ6_7g4iq_kDRrmNrXDf-3F4zYyHMUj-nzs2DsS1sDSX91HNOfjQUfFG86zdQd-QoP2O0kC1GfrofD_6kx4_jr84YjLuJT7iiQAlxCqltgn3rnqi625EdLbduN3odlofVrvUFD2NQETHsWxNpptggOS78_WRRmQ8LAdzw9R96kf_v3Gh0KKcB_EHTcUmFjDJj-iDtsO8dRhEmFlaUtSgfEDSnwF6MDuOm2ttc7VhDiwZTI7kBd4ZX-IMo9NslcUNnRQ5y0wksOLo0e3HcWVT4GXhzMyVMbBJJKvJAdIsgN3lc-l9wNdkpdXFcW17lz6uonnXq-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:06:00+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:06:02+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAHEoVNp9ZjLkSf7cRoiPL8JgHqviC3mbcVEx8YDms_v52xxR5ySSU1ScNBvmDHhU8QhpnNvu1vPlrucnn7zOmbmQla_QQ7XEnAyA5GeBPNGFawIaG6nC8Bm3OFdOZjmFxvogbs5QO-CUWcxoodtM6bqWHESW03MM-P_0huCQullsBtTg5HUTPsomn3nN3vZpCw6eLpYQZolXg3MfLDQF0fvbdqQYGNcOlShvPR37Si9pRX40SYTCWwvKu4YbxSE35a7zGq2jaXC5riZEAdkqbV2Rmlwt3HZ282tlUXvSL_nUI3H560sGR1FXyxQg5ER9oaSY4wnjqr3mj0yK0bajp9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:07:28+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:07:29+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQARM2Q8_HCP7YY-2hpOViECsFO2WGkFvR3FCU8vhYdKp_cul-CixgqlotFA1SA9G8bCbDYdy2zVHc8jmebFmCNIwrH_ZLb5htj1rxvXzBmDzAUsMyF1RNmGwKQyMvhUO-WFqPWyKTccmYoXGS0ZeUwpH_9g7N6f8qbdsESWhXlcZNfIbGCFZbxnY2zAsKJnxKf9imSTyjzD2Kb_twY0r32URYHJ-ioqDD7Mlh7l8hD68c4uXwpwQ3eDS3bH88RvYCnyDYgjURtjlpUfi0dyFsQ4tCaAV0jIXOOfGJC-7oumNt1Y_IC0sqTGAFRDvfEWJce-dxDCKe7FmNwZoSJletfE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:10:38+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:10:40+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBY2zoWFodZNEIv86iagXICrHYjROq_oYO0zVF-uVUlVMtSLrvKIJQkrSyTsfOU2wwfoj7D1YflS7LiBz4h1F-82zn_vCCyfN2jLezW2MG6xhB09ODDPh08vGYDMHEZjhxDpRS2k2eXubNHk-dGZk8Ur9HqAFmldoFYdw50l78rYINQpKtDi1Ze3H3TokAAHdP8IPUUahVkbeVlDrwaVa6P4-4-zXaxOFqlXdzx5nMld5G4k-HBdNWmzhS989mPvByX2RTteAqVwSKgEfrxDpowWJsbBFE1F6BymLAJgy6LgBWv-NxcVbbWERpOrSv_3DScAjQIDMNRWcgny6xPBo2T
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:11:15+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:11:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBMGYeRyk2txU0CSwoJ8Bk6KCcRoK9mUT8z7PX15AvwAmsZPUOvMtS0cqrAjqWpnQXNUVoxCzIOBIAmH2_RlicgLWst9MtqpYzRRgRDYr430tN0otXMyol7zoEm6TNTqpiVjVSk_doKOgj22m-pws6pQ1r_hUnlEMqaUcbBWd1Kttdm85LHccYxcuSWNjyvp3eYJpmz7PavuOSBUO-0gXOCwW7PPwGC6hAglD3RTIWPJHN75qsmVZDKzlJZ9UBf1GZfg2fpkMKuy-AZytIale9xNGZ4aT_Cmn02qP8elKhHoVUi-KABBaXTOjFwOZd1BnoLHz0nRENE68Bha3FiXYEd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T11:11:22+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:11:22+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBUpUZVEz9d3vvxXZXo2kGljHG7gejQjTBnZGe2w36gQUvT4F16j6sY1oF9yonC0pRyylpCEyAdWAPJSPEK-Lx8nb-2JD2RApMF6iaO0tLmx3iIZEmKhmfivwBr3pjYuB_owE-MhmpQD5Z-z9IiouvRgfpLsSuYfJCDwrAr3xDDT7twRhUx-X7RpmPg5UtlEHoyyidcbwMtguL-x-5RiV6D4khryWY8uobxIidWNNE6SEUj6gZj6JUdWIcyi-FFvPw-NMz1EbVa-KWu5fgPeiSkPs0Ubk6n7p1Luk8Jc8n7BQ5CPEBrEDF2QYLeOZV5N9d5pP_ztMcYV_HIhWWyNjYl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:11:38+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:11:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCeB_w81vDKUXNGG8ay9QgDy8oTPYaVYjbScUBRIBCyekwLxZnqREdD8VLzoTyPcga1IhOfQ4FIFzBwgHkcx3Mn-X5_eZBdyIMOnn8NqBCO5xH9n1l2xYcEG9A10yZLd_j1toLAlj9Qt0XxtXn7fpfjNrFHp4yI9slE3trv6kaniWv2lS2utuUZTPGlZRAt9D9SuTxITtpHOlGdnrb48DhW2F_Shx07AbDO8YyvPVMhcPnG667oW895vQfVkJ8pH7FOZgQElIL3_TMFS4lgzmvgh-nL-lstQiPaY7tmRgYSHSCGLRK32_JSAxJffwjfKRSVLs_J4Et7BNNKygmTAbz1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:12:49+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:12:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCT6ztM-ax1IHftYyAhr3Ka1Ik7HlT3nyeqG3-vPKitxAOALTL58fstXn81jqZPJagaWXknIkkJfBbfsZFbSYwayYguqpDeatzc1Z5BCm06Bcg-ffpt7YneU8iXKr6f6Z7cJpXrEcgVZ-efcDLgWlhDj688ADhpW-JXDatPOr1LpzmsTFWXZWID7z4kTDhV_RZCpC8o0IwM-rypMDChKn9zy_jF96V3mOynaKEBHvmJ-L2G6HwLqsqIOSdiOQ2CN5wClv8jG2rlAsH_FS38yzBFXjwJl8PrJOCUNQK5Ky0R2gYgjAbcNiEzR3QPPoo8RYvVZ5o0J80jZkohQyTnyliw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:13:56+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:16:09+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:16:10+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:16:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDxf4-2tq_LxEC8SZwQYr8yo2qGQtccW3zXk2_nhR1P8cbRDtAqO8uH7ikjP77yH-Gc2jd45aTftYnAwFN2yGd9p2bOQSPg72G1e2N5zd_BCCVeWDJ7ioWX0uYbcgmmhTHWV06LWTBFREba35dVCQaragoIwt1GtW1cB8qAtsQXv22-1UinkWDDBU9td22UFwREV08nMpBUFsVjTIsGi1kseupJuVOpOjbrSEeivAbY1yhzi-aY8x0TU7E63XHh9mrTeAgU_NfzuQRRUzgLwOKbocYCh255ZXEKkpdMFOdJxzaHolmFkU5vu3sygp6SEdc25Hci6MhTF5E8yddlXg4_
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:20:07+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDCku9SWjhcv1038It8yd2LO9lR18Mbp35V6v-NPJJhReb2Tu6nr3YznobFPee_n1tXwwH_yTzPFzLKGD69XCYtDrOCS8bOCxE6j2m3IqyA3ZdRRAo0YvLJpfquy58_UzmFrYVDwbp6O-cAF2zwA8njQ_zODFcfq3Orgz7kQ_b7Ilgim2kHfv32SwXsvmFVletMPN4wiGL16IM3ET0VT-w4zGLqlmHrL0Gn43Ho4p2h4iKkgMSaymuVrH64NqDGII1fHeos6yOZtdE2bDWfLeoe_o0c6TrelZmGGYaG09c3zwLQ1ltRM9oki3nFCnwFatbRbop7YPbJ7cW9wKSuzb6v
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:20:09+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAMel4ELKiY2_gOEvugSezuCMN0TDilxOpIqzl8jmdyQz_iJOtG5g5tbgGs__AkmnO-4xk61gzTU_FmqtP2cHZ84535zzBPQ4gdIeqYKJ0BFUteKOXwdSUwZzHKlmVwPmeK2Hz5uMi62eL9raNv1Sh2HnSQcB0vjD4UUL_DmIfPNcLeOCqBU3nGvYAbxMFQmu-KRfPXDZgyC-rXDzz6sQ_pn4mgA8DZ5rfwe3EU-6YwejKFB7EYJmJfyNYzIT0_lR4atc6PRBmMbMfxNv6AIAwtI461GqEekJpUm7hFi0cbRD5Fq0uIuxwZKxfQkmsT6Cw88WnD2TwWSyQimKceyfjb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:20:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:20:16+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:20:17+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQApZsM-_4cvaeF_EutEzCb9X7yBFhHHVJ3vkHIIdBB_fEEARHXMTlXdPksCWInUak0Yud2inZu6ZqwScS_81RG5GmyxRU_qh8lHraYXQbZm_ANC71Iq-5O34htOBb-a6gdksWqL_7cm2osvrOwZXC4OJpe55VqjThM9U6Q_V9RvmMbXcVSHNYWW7QfjMQ818loC__IiWIdtN4HSV2tzqSct8XORqIxe1bJ0XY5gVlPMTj4dM9ibbMOW2LY-zJ9hcUdJI_GCs_jHrhnp1IyBVP-rBqJKz81Y1KTAxcoehFAjuBi5C6f4tAkL9z_eo5eyvXhfhwKdiSpln5UHpVguZWJF
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:20:29+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:20:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=EqBcsgAAAAAAwcHgAAABVpunvxY&oauth_verifier=UYKCIvUmz0YzrUxMHRmv2CHaFJTrkD4x
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:20:42+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=EqBcsgAAAAAAwcHgAAABVpunvxY&oauth_verifier=UYKCIvUmz0YzrUxMHRmv2CHaFJTrkD4x
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:21:58+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:21:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBeWF91NpSNMvDuhYLLV3it9PRt-ruDyOPK51iRHzT08MPECFc2ioS9sBUG2M1O_l6dh9YlE3VRasWg-SF3kvRvXXhOyiwUmgPr-5DKwwowG5ot8lxBMikeGU8JzeJxaCYHNZara_hXoElkSgY_1sO_ZM-WoodMYZi9h7p6QXqJ-BoJklaqyWdafGQUlb2s7IKSe1QaqMX_Pb8Byd0vc4teQdql79DghtyEabMDEGO3ZI3ATBwQdi4qAcB3YEWYQ6PRrwhL5FHnMvCO43yfqjV1G6kiyKjYJoxa0aRUL91J3a6Yxd2UW5ZLmaDrC7xJVasp8_Yu55-1FPQVSHnSGmZ4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:22:22+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-18T11:22:32+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/EGpFhk-EA1ORcZZYCls9FChKvd8iG5QE2r_kmmMiMTc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:22:56+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:22:58+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQB06WzzBtreqss-ihcJ0259yDKssek378epBsY8dwJi-z_8-XwZJ3MJUTxWlkoof7HR-O8zfv34u431HndeT9TVqkBAeicDjDzp-xvfi4LEtOG_B6TFUVN3TKakwHo23juqY7TgLhIbMSkMgNIZagxCGKoaV3i8FzX7eOXUhzlyMePxw3OHtEvOfEappJCF8_-lPLhpczc_vNbuh2Fdm6DsyNBH3yX7EU9QokqcMLx6mVDVbDtkVCUSnO3ud7EXbSnwr1FZbEvbulIy0bks-qO-IKd5cS-WzQ7j1d5k97wYw9nNIg9fBbGfof4GplktrjI9sK4XmULFm8nV3a7Kf3Qa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:25:26+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:25:26+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDWtegrYbYYxrgBHv3WN2gf9i4uJo1OHYypgsuZ4gfFaquezAXftJ4KzNdgSFLFwTkSo2XLyFm0nc7Ftuk7nib7NNF1sAOwwip0YTnQkjDsrod5IeENwlta5TLh6ZKrqO-PyDvjFcZhSvCW59XQpvjnDMTWFDt9b-t81HsfQXMOHNhpBew4rwabYHASjMTcqrOXozyz5glvPG0qFN6u8Y5GBS9c7SUIxj-jr3-ABeNiu5XcueEdyk_ZxYGOC_Ue7WGvjPYxRW_Bbaa4uZigXLTLFwjC_Vfy0qYBOckGASWyMJhDBQ6UCqOMjzTc0TTKQCUWQ1jI8AoJ9BBG069frTZX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:26:51+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:26:52+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCmDltCvcG3w81RUr7jDfqV64YxW_vRwZX1I2iWUUu1WNUZgaOoIZpkeQes18zUts0MUTOdmdtgwY-aKDyPSLEGyi4zW3YrZ84-DkC7nkj-6bovuKEhCDKlrfQbmCRUdKquezZWGBkUO8hve8_8Eowfq_LtAf5x1UmA9dPcaqZL1Q61lZ8FCVATwFfKFUCRpZ-hSvUWOTbx87WEctSHEOujtNspS3MAx9Ca99jfHprRB1hsYjM4aeNcs7ZqYFkb_ERLTekmC1l__T4c9ZsbsM_FZWhCHixd5C83INU-4pwdiVZDLVksMBA5fQF8K9UHFPG6U-R-Btu1DPZf_PHrX8nF
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:30:51+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:30:54+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCobKIuTsA4uJ3-U83tJMzq7LSOkvmoVUgXOjFWwlrwCMSmInIOEpaL7S4yby1fYFq6OoFp81QzpMnk9c1ALO1jf6Z4M6mk7yjxwgVH_bBIqXuXVLQ0yMMlvhWLJJEeXdNcVX7olX_iD8oX9HZd9l3UaNZTCmAoJkrke7QvGGsRjsTvscHAcB-PCN6ANsv-ljCkCWMjrPPKBBx1Qyu0qT9F0S1tNlH5vD78jVoSuh9y91GtqvltJCJX4Sh1zM83r9aLblpi1clTDwmT7xWmnKXyJ57z2QiX3XeM6wTxcf4L7uipHJY_N9UXv8ROPhaKRqzskyoueYl9TVLcMUHBNDD1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:33:25+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBlAf85CKvwwVx28XhuzAx01V1ScBxwvuyQp6ctU64c9P76FreNtfYREfmB1SnPfb0uMDydZHr9DvynGKcGUmrhG6wCnjeUDVER_KbIqlq4YXvgOnQ56KpGkwroOqHkOQTT_S5sINV1FJVbK1heiemdfddORBHewwpvl9m19p2_t_hCDM5p66f-tYanl-HcbIiYO-Hx7_g0s4LOfN5TC0wb3TdoRMlUw-d4uh0tjsUDrnfznUW4ATUFPmo3aiua3HS6U6taK6GZCSEoFMXPi0RGLe0a0zDZI01cqa1O9IOQV1APYmxGBUmPCFB3zhQCDDebV9BNlpoLhEDxnQ3q1hcY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:41:34+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:41:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCmd5FJ--9gbYEm5J5t3j3BAWV5TCGGSYhtUUDEorQUvbqXObuOCp-LwmK_kDtd327rMu2HlAsG0LOQEjZnB5lIqfuUvImrBefBosEBaWFtsctzBcJY2dNPxJMHZo8FtHkVSq67RVj6SLJ_GF_rDx_Yb-7Ks3Y-UXe1oxst-Ia4sBrQ2S5dBho127vbBsdcw_FueLOW9W4bRJfqmLWlGdVJeQnCRwD9IsFivdFxAyFnjmwN25AHFzaq-j7De-u4scElfRrt8GQEFhEYts5x4vF8U56BZXURQFN3mlvmNPWBvpgP93FyYfqXckNI68SfX3ow0VhOucrbvXN2zYagJYni
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:45:10+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:45:11+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBp5WLaHPyFY-m5Lh8HZBF4uo8Hhsvbq6jTmSQIZ3gAzIrkc_64f7eqXfYwPDhZMNOJjmWdD8qw1Gg9Nlit6LMmwL0UEpUf26Vv-FJxGmLtfh9DWON0Rpin8GdIKP7tmNe83nH9tovcJKKcRzfCiYk9ekDwneQiMqp0Mfv1rTLE5w3aNqqxRJgLwuc1lHHe8FTJisIswqnhLh3TKBwnw0KtADdgGHvO4ixPMlWSbv9M0MPUMEVr1u5WxN8cnEI11zM3QXJjm3LfmYa5oAqady_ZxuGQTyO7FGxmwpte2X_tR8lpuCntAFg-1KslTx4MIHcAeIeqz77k_rgGCvkB9jfu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:46:44+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:46:56+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ymkdh83
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:47:47+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=dewwuet
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:48:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=afpcs8b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:49:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=tkpuezd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:49:25+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=zdc6wtm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:49:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=paxnrtf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:50:08+08:00 ] 127.0.0.1 /index.php/Reg/Perfect_information
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:50:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:50:48+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:50:56+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:51:25+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=zjsq6pw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:51:26+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:51:28+08:00 ] 127.0.0.1 /index.php/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:51:30+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:51:33+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:51:45+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=2madaj5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:51:45+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:51:52+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:52:02+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/uI5xxJgq3jZ8mOW1_HFuoNH82O5KoFSkqX7r6NDnwbw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:52:36+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/7nmXwvRMTvkSGncAUB5_9vop99UOJ1tpOB71HI3RQHQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:52:36+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:53:03+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T11:53:09+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=Tap0_gAAAAAAwcHgAAABVpvFkj0&oauth_verifier=EuSBUDCRScQSxOq8E4pQvIbcWQ5fzo3g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:54:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=Tap0_gAAAAAAwcHgAAABVpvFkj0&oauth_verifier=EuSBUDCRScQSxOq8E4pQvIbcWQ5fzo3g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:54:46+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:54:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=JAH9bQAAAAAAwcHgAAABVpvHJI8&oauth_verifier=ZlNcoO4xRG8A1yI1OL2QXnhjq5B9JMqA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:54:50+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:54:58+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:55:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCA0lVUPlXCyvibIWYg9bsdO2ks_xrw2Yp_ML8JJb8ViESqqsidNnRhVhw-35ASJWAN3Hf4kklDFt7XfIHx3c32SiBMyy6dhgaa5Mtlc0SUJrsIyY1wtSSVQX5jU0-7QWV7VDjws1-nL4JtwQsoo2MNZUPdEj6oWgHw1USO5pFLISkn9Fq6LgN3_lXKTYYvZX9OEid09JDIEmco0EuNIfwjJj8ctrNHP-ocTx5c7d5ViDqsA5F0YbEidIhtLFa44IRHmt8_VnX3DV357ms4Gp1gHwUHQXl815cpmGV8nD8W5FPaLFmzPUxvv4ohX-k-pXaAtRZ8UuwJMM4ffyn5thNY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:55:48+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDHHlU2TIQ1QYPmO6M_WGl8xh1r8rG-mS8cK4Hy-AZdzC0dSUm9FHt9aWcXA3_IqusWxDAcBjgTfnBrQTbTsKIkWGhiqNkdyybAt9gvvWXGQ0UVPfu8tAWW0hvW2bJ1oR5YILX8IizPWMJh9u_NL2bkpkvFNy952DiKiP2CVxhsoxjtk0cPI5EMf_f660hCFVd0Fu4OCeM61nQeFKyqBTBASCNvCj5IZfo_JsECLjtFb68_1MBqeg2pGfhiGXV_5HI_YmbmPBAwQlu6BTJ8QFXCv9D4GKBjWvJ3U_eCNOukF28af4EfEG1-16Q_H7RSMLpyWeSE1nPeSDqiSpqx3WCR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2016-08-18T11:55:52+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQB3RE-0_ORzeR3XksHGamRuPGQsDpSZJflXueOONVRn8R5SUM1iijVdiQlIfd1BE_MAZgDELbqiZVf3TN_n7ds8rB0phjPZW4jT0ivClA1cGl1Zm348qN5SDm3S1buO4Y8nsrbe_RfZvAU7ZBvtFpyZlzjYRNHtKYsWFOtxjUfB6CmCwawDv_zz2kwAAmAMiuFRjU2Kb7elsEeIlaie3eFKPpIg79mH3RhOBpNT1w4NrcxO-bOtg0QBckqb4YgI5ESVdqImSdsSMJO75NCyc0AgOnDc1Jr8yfE0xMq2KGFEc4o5SSQ629DqvRf3dnPYqE8DoF6vrJnFRTpQVhD5NAdy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2016-08-18T11:55:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:55:56+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T11:55:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBZE8A0tU1Gtszl0QSS2Ftpr9DD9Hep76TPJnQfTSV3RqtFFUn61I-oT_S8Q69vrN44sfVyHMgMyhPuvqYTFnN5CFIs2w0KP16YCtopHVLkc-KVtCY03fyw64a9iT-3aXdrJzKI7_ecKdny7lKn3-DQkk9MwRW1i6-XCIn5owh73HhzvecZB-Iu7ZFO4nIYV3OrKI85OVIK9yOSex7JBJEDShiZPgS5zE_uAn-dPr5U4iFxUCCXl_1nw7XSaVj1dt-4sgt7CE_AG8TkksXfPJQIVsqQ3ELedQ6tpRTQ-YEKFQEOgqEEKGPdVH02SEPrvH4YM15vljmragUUcxt043wu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2016-08-18T12:16:02+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:16:06+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=pk_r1AAAAAAAwcHgAAABVpvanHw&oauth_verifier=AKch9qLfamY8lXwXLkaQOudLJcUYaKJL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:16:06+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:16:45+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:16:47+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/5JAMXVIzizlQyxje1N5w3_XmsB2TwR_P95iLXHsQcEo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:16:47+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:20:35+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:20:36+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBhb97akLY3KKql6Dp2bnHURDYdFfX-cXk6aqOO1qJ6kvc9qOCdk2j0MWB5JjqavN4eCdL9tXJ4nrIheo-li6DEEeay1Z2zBt7vaT2Slgrw97PLRTniMZq32Q9iMoVTyVjGm7aCTSQMYZLCQu1A98_4uHDHbCn5FR6HjkGtiAXLVcvn9bJpZWV3j2bUKdkhFTNLDJMSHcWkQvu1oSqgrhtWZ4B1ZSsWPTUHlA1kvrResXJr-hX0QSI97g4SFn5Qw5BWiI623mMrfDlAO6WrM0AGEG3u7WH91s1tFJ5d7S5JSboxnHgTTrGk66VLhIidFMMnWJtGI8KQGUQFyMayQkVC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:21:21+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:21:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBoACx8zHS0HDclvUlkbTzyaU2B2Dzq-29qXggcwzIxrshSCM5xvyfTgOnOPfDnJoBY1IzhdLK4ohE-hNooiuEKsgtrXr05Ki0EQahSz205QSGNeevJBkpfyYqIghUYIO_ZKyxRGe8ujDLGfe-R6gRF0vnxq0827p9YA6NAvPyC_0p695AeKKWo_h1jyrwQTgupdjd8zlenkr2036baSh5qMWQRj-ma4rw31sgIsReA-7BQK7sS5czz-PC59vTddLsAvwl-vdoH92I_CmCxsFg0F8tevCWvHgCxyP8In5C5wwCm8968hPZkErXomGWAF4374pB43Bkg3s2JJQg2xo5X
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Controller:call方法不存在！
+
+[ 2016-08-18T12:21:32+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:21:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQB1WQVgt5bUbl6IbEKgTVVLU-sdE5-cZ0_ggmCYtF23q_LecLI0kCLJ-2xObQQJXf_nnCylewmnqVQnOuypW-JVyededwVaj7Y-AH-Vl8RgViBf-85gtKxWvec9VYNA_lMpXLW2t-bwXlUCu3xq_uo9rfT_6IeBHG0s3XuNYWFTfFYCaN6ZCfOc4t37rKRhrh38SFLMQ02E8T5y-qeWSyBISYbaOeLuJ8wb1_TGtF2apcQ1d6x_fB4Z077ox5Yur8DvJJlptgB0EItqK3dAIku1Xdd-5c8_gSRj0eC8v4tmcvqpwG87FwV9TjX24CpUXqrMb2NiOSib7RXXb9nllY7C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:21:49+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:21:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQC-Zb3-d-_d8_hzhugRHz7TV9Pvw74DNgi8tZOZ7UcGeib5gVsmHSR-K-ZO_a6IlQyTQIvXkM0iJItyWd_NabVcodAGiyr5RGd5xErZeFShbNNriueBktRsVFUuvmhhDH0u0acaf1age9RAlGSJ8aRzSbqrwCjOCF28LS7L0n54X2ACYhcIWvr6IpqxHOupFZXbHrL_QFGHMI7uA2Vo7Yj7j6rEevfC8nFw-agq64oLzWJqu5vc4iLK86tOlVdR_YEAocEyG1H32KByxxi7GDiqAwYU1DL8h6ED75abAJiIayu_jI22TIPBfgPRjRaYxBDEu5647KIU6shPdtbIxWk7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:22:13+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:22:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQC8mE4M0tFRl_zdJMe8H7UINLREFErRse2vQPZlm8v7M6kTxoEpjU7-QwfO-kSezPXuinh4yqErixjzMfd31NCAdrxb_bJMj6WjU_tVEzwDjaVa__iJez_9Ay7VYHjNr0raELzQt5wCQ6X4G2FQTifRUyVCLGia9fqHSyCBNX8X-PR1ypmG0eMrt_8O2f_gg9k7vKnM1J1AspgMZE9dTZp-LqqIIL7iWp-3D_THv49B2NlKUs-BImHh24FcfCOJCwbi7ScO9IxY-mxUGPCuqq6AJkHSetnFb9WpwDvjtuC9Wh0au2Fil57AY8QNUzuaCPI4ltDAbhvPtBmwfKu9Elw6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:22:33+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:22:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDIrOgOHDxbPEedi7zHW3Fuba_dUYW75JdKVicS10bqwPJfWthc1Bt1KODMGcbgLu2fS1M7fJyzjhTQBeIewK3IQyuaCjoO1u9wmNbzf73YJ5flyU_-fPyl9MtPpPh1-g1E8pPmP0Qf4KxwS-X8eZwcUlRZrv1JwOEKm1gMhiduxm6Xy6nbpwm7_77K99OZHHYRMeoRNCA7ou5lmphm7rQyQM_xu1cuE7ur_dvkpZjC6rNj1DMb18QKKsuF1Q7ci88uX8waPwfuHbTIU7_vp8FCeoZpxgWmciTOLIcqHHGt1uGhG4HDgmrpKYhs9D7Ov8tSkVDK-XEF9jiccqLj6pFA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:23:20+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:23:23+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQB8Rz643_7LCLRLTw3gbSUxhOaT_zLZBdE2eK4W6ItKWiKQqFaFwbThkdt6ruSq3T_oxTmi3aGnYevuYAHI62n-mVY_bh0ekM0ohb8gfVYuilcD40TYoW8npgs5sS2JwZBcpoPSdjGi5lEBTOJ7EgDmymMl6qjjPbr1Ojsyy7Q6D97VnA5LWujeDDrCvnoSWk9ZwSPBdHfup5x0fugG2DRl3Rb9sUCnWEAf0w2gLae-OY_WAIT0GQ_yfrjlbSL06ICVOd3xsf3R4_tq-RpgswjeQgPgcb5pvL4hOlfdrtw6sJcfrcBHByHhI0QztJ4GFMHI5o9rxti8KDByKS4hqWeG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:28:04+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:28:07+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQD6vJq9tNTa4iwXT2v4e8VlgBexN56pxO_-kmXGjkw4NxLww4WFEuh4S7zNaGW_-u3ar_ZctdGjkvN8bAxS3D8XNNLLRfsNwgjnPvapIelIwcOI9MRNMG-RK30UehfPM1qRBxqXeRpYLcK9WIAfai7x5tILvEGt0_nyvfEUd_midOYMWlylE23tb_SbYSOUT9DAy41fTx7Mq_Cu5EbTwLd_WKMIiVMCgQ2SIbZmHsyvuUpJR2a4jZPwWYVFlkTTpwFQYu2slYMGx5S_7wBAmhB0VFRPf_UAVYGQGlFeWoUTED2ptTHZTO14rPVE4WDW9IahMyDn6rhtfKzaMsHUDOSV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:28:24+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:28:30+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDPO553lquT0T1lzWkG7v_0HgAzszrhn4RbKcFcqULm9jsrvmKdzUhbHkTX9ODPOT8zVEEbz7xFNTfFFkXT0ufF_P22eLQPUgI_pD2ms4QElX_cpUnzfjsJf__iwSEpo6jBchWaEYK6bkd81D7HOobNWfR0sU1y6YJiebUx16Ykqn4gUK5R4-DQHoQLsGOTJifplYpZOny3jfY55p-iY_gC6CKKe3KjtgkHkKcit9nlEh1YGx3goSUWiKmhNRXnBYvWOcN9FXHZ_93QBraEXdHUX-xWqz4pyBwpfjuWZSEuIP8PaojkorHwLtMkEmJ4-pO9dJ_RLo9k1uHpToeGMnw3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:28:48+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:28:53+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBH-OHTG5KQxApdXvVd5WYMvCBZq48NTx7e8RnC7ZF84C4MZBuCFeSKSAtS3EPopYDCcQoLi5wC2tkNvVJLAZTGHTFRM8Ws3XNQkGqR1fWH9XDqk8KWcDbaF70yDfAVn8YozNSjEHy5ykTiiD8e3SzUhi3Z7Sl8tC6i6TJIRxWUR-86g4QY5kLXC47jJ336ZXW8DR5_IrjRx1kTrdv70iihIbNq1sokTETPUaxOSZNdUjvn2CBPhdewNib5qIAiPFDbaevHF5Ie8jazz_ktvPsQ_XKo1EyVRwyemPyjyYS8KXG_3ur2ICg9pVKesUF-VwfOwIoGlAtCr3QKr04eCuuT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2016-08-18T12:29:33+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:29:40+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQA03im1ImLBKQr02vqDY9vIaDsRWjSQarcF3kHBwbuKUFndPw2YbNoH8j32aRajaqgSzLPpWGEGe1-6K4QVp6Bq4fGLoaVWo9qIqDh4p1uD2h49BIERpwa8L-AmdQZhJ57VnqXANw91RX0nlcVaz2Yl6nDE3XcqEu8SzcqMTRO8zUiFc69b5qGEjz0VrI-h9mW5ZaG_0ElYToShn6aQMjyoHuqjbJzCa-YNPninY60VfC-msSFONi2T5jiM0aYsY50nbdrgyjpIuSaI2S3W5f_yRQ7rRiSn9fhfdpPKmy1AkAp_JOVycYKPDAbWrSvmTRp81sxIMhryzu2wRfGEZdh2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:30:17+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:30:20+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAQst_690R-RAda9q-Iz204OaF1qIjw0CWIMLpq7EX9P5cHvWtD4ggtkdNlEn5t3QijDRKoK2bpg6O-3ZweDxOZHXZ1AZVunpOe_ei8UB0NuVJUHnS9M5djY2pktSju45cLLpndxuWgzLA72MNJwV_xiyVym0wQ9XFL5rpP5XXMEhLKE5NPbP4S3GKSLsVvGO4e4yNvMKyMKhJ53wikmWKq54aVYvh37x_2yA9uOL2m66L40qj9-MDCt6j7JvBrt7Hd9J-fEt-Crn8GF_C_KeSlnk5OUTUmyaFmSFF_nFrOnhJY4QMDao1GzutYCcSHYH9LkduPjLQjlv97D78OooaY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:32:52+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:32:56+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=OscREAAAAAAAwcHgAAABVpvqAo0&oauth_verifier=gqQhUwtJBQNV66Xp88kuhhbbPRxNiUdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:32:56+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:33:06+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:33:08+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCzPhJwDlMCDc5UUHM0ojS2HvXiTP8Fi1J9Yo6hrR0XPhdeEsgCH_EWGl-BxP7EkjE8nyJMftgS_73umDZ0xHW7K8LxalUzB0uy-aYjikGV_R_GaWBVFSUYhLvu1UKzmM01g7Ii6rixWp_r5IKxm1Lo0rDYlbNt_AUCDBru0_28fGpcSa_FIbRHw2bBBmlWNtgWzb3Uc0_zNTKmtr_8Eio8wM1wvLnCERVi8t6DCanaNfT8bmhFvqoDlPLSDKGrfzPvo3dPZP8hTmZ2PMxS2kFQdGMgT9WH3Jv7h4KO2MKJ3i4Dx9EDl-DfJZmZBJnoP1ND_EcMS4ABOzrXsNqWNTef
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:33:22+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:33:25+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=kDfiYgAAAAAAwcHgAAABVpvqec4&oauth_verifier=V3rcv1AunqPL8w29uxhYtYF972uEVuCg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:33:25+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:34:39+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:34:42+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/o7rKQIQCt9joQL197xS0BVXshrw0PVD7WZI-PyBEwos
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:34:42+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:34:45+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:34:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=habqt2n
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:34:50+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:35:34+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:35:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=-FxRVgAAAAAAwcHgAAABVpvsfHU&oauth_verifier=DHFptcnK5Dj3xjdgO2ZaNIp6V6sMd64P
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:35:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:35:41+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:35:44+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCpWKRsNMDEKliukgqtzMXIITCweiK6VOlFKT3rj7Lr3oHGpq7lrGqca-iVMWB2f1SkTwJ0LXHBSrhp1pzKTkwYHYz6FP3W93XygcT2iVS9mproJN2nnAC1YncyRmeXWz0z9skDYs2pPy_F5_jFYKWvDTjPKEC0aPhzUEFRHBEDhdVn2JLAhsXRaUyaY_zqm1paSxcvuJaNzsteEZF1D2-QdIARUt-VHsnKk5w-JwUkkfN-hrxTO3GtDUJ1a1I34F31Vg9jHGbbTNrhmMxX4nGV1KkGc8xWyfzFgYxdIzCmNCFS8I3kDZ_3kfCBh28tFAq1JXClbTGPWNLAwiaVkc2M
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:35:52+08:00 ] 127.0.0.1 /index.php/Reg/Perfect_information
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:35:52+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:37:52+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T12:37:55+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=Ato1ggAAAAAAwcHgAAABVpvumAM&oauth_verifier=EsgguxFKBKqwpSB6W1yNpMDwP6iSgrEb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T12:37:55+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T13:26:25+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T13:26:32+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=vvq2zc3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T13:26:32+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T13:26:43+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T13:26:54+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=FgSJBAAAAAAAwcHgAAABVpwbUYY&oauth_verifier=zadTwo548Dj05NPQcC6esFUqKQzhPiPF
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T13:26:54+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T13:27:10+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T13:27:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDJuB5g5qfnkqDnbzgKHcf2S1gNn2j8iBxjvQxJWv57RGc3kN_kmxBhMTUOvE3rKwIU_Eeqd2WaG9XOD6VzTpirRauEaUi_80-3iUPzF35VD4IqxgdWQOxLDknOFauNbw1w3SvThO3-2izXHuDvimczdxmK6nJJ9S12Mo-uFJd395Df5dmi9McGtIE7KAHO-1B16G5yADxCijDbdA8a34vAy7gU6O9ypKmC0q9lMmljoiqIDivnxdTumHHBfSg8iqdr9wRiwNKaK8F_szGE3flP0MkT-3pOAgspMBgZRg-JsyKe9v542fd-hAcvvGJWi_gfiTo4O9fQu_uH8Io9cHte
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T13:27:18+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T13:27:25+08:00 ] 127.0.0.1 /index.php/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T13:27:26+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T13:59:59+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:00:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=vn3bvnc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:00:05+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:00:24+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:00:27+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/6TByad6gGVfjrih-gtnpBEZl60nul7Sie_4c_GiAZrM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:00:27+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:00:29+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:00:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=Bm1WfQAAAAAAwcHgAAABVpw6O_k&oauth_verifier=Wvfkxphi3aWgyEUe8JghoAlPpSiMpqIf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:00:33+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:00:38+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:00:40+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQC3J40hO4lXIcXA2GX0bFSh3FLCjRC5A3so6AUstfAJc4nmB4k-NLMjsDQm-ERfsSw-a_0EsEHD0bwGhem6oTzxfdt9uOwMgxU7mYrQeFUuhVZAA6mm0E-2zXoHaunsZ8tR4GnnB0TpI74bBjbvEjrTedEmjAk2GEObtjA6DE71e6x33WR8PWNwr7Yq4CXWoSRj3Mvn5mS_7aXvfcRKKOkw6e2e8IlpzAz4pNJeS8LHX4lOarY2TAufc4xOZ4JRp9e09Ri-VwFXHkqumNJLP-gvuCAmyuNV8apM62thA2QPBtdK8tEIRR7OQWI_OzBfuvhZnVEwgrV0PJmOEPd5voj9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:00:40+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:00:43+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:00:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=vBb_igAAAAAAwcHgAAABVpw6cUo&oauth_verifier=cryWyKrl5SsBfpFKpjR02lnly7wDJv0g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:00:46+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:00:55+08:00 ] 127.0.0.1 /index.php/Reg/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:22:28+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBuEK376lKv_MZals97d24X-DiY6hcMzdIvRjcP4kXXnfvLuV2JAHHK4Mnyh8zKtLWgyBht80erbki4-6TKdF6jpRqBy6xA3h_CoJyxZGv_c5pfq0Eoam6W0XtmbvYkgZSfARc-WR3AZ5gdITWMSKKP5bQevC4OgmOEEFop5fFDQd7_LV-wnMWINXWSK2LkofjslsvJwSqpmL-I-jUvsV1-mXPrp_1ZWrQooqJqGl58rwnDU9yTHhL97LsjT2MPq5XX3IqQSnkzZ8n7FhhVpuKtLMJG6pe-GBNB7YASgq7lLLpEYd1EPhS05KrvytpbmxleSEwiN42FOgqQtaOyFWEL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:22:28+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:23:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCiZoVXff-FAK5zGpIWTc2pPwQkb8JbmpR3bEmXP_Vq5qWEDRTU-YNMKKQC3iWUUyotiRWbdJOMv9LK6QcVNEwY7KTrtRwDXMWxBjbMH8rpXgU_34-6b17oC0jy4GCbTiUENtuYOIeFNj9KNreAhgg5yiguza1FTHETr2NxO-jRIwEuKfpj1q3Zmxm4RKOzW_KyIeUKftCGj1c8R0rKZXVp83Rt4pNqeppjhYi_eWrSGHEQouKlwXhjf50wv4GK6Hs-gp_IO-zl2SgO7kufxvJCrsL2dko-U5uXdXy81Bb1_xKJdBNT0_huIgQdUEQ_Qj60_A9IrEhjJW9adTyryot-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:23:10+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:23:58+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:00+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQACS-sKQe3tZKpIQVc6rqVHxbeYwAMLwb8OKiPanGS8FS1OWAWNJVThvIH_gxqiLuGCnHwK5zr-1Sx6ZvZ2ZTOgnlK8psMp54CZaXPKg3nBA_lZDHL9LgYmBtupxRoStfJ2MXvh8Ngmgrs6M23thxiRRZwMRO44qie-YYAuUINetfvvQ2t3CLj_CaJ_M_vYFNMi3DvKvyRmb-y6B1sMc51jipMjz0dwDQCj4-2kWI15o34wiIM_nPWRTCV5s6kd6pcCZ4AdRAhSGRTLKEsyC8ROqbWebGr59Gp1NhYm_yXmKwRRBhCF8_fAIS_JhmgTJswKZr2nTsMX5w61MxObpYf-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:12+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCvqQULHTZzs5_yyY0pZS5h8kB_t601o1ITZ0jX3uFs4IrF2R0N69bZi9SgLSoUyFYO7cZmIMPYJxQuNFLAbRKM75ULa_sXVkprjgVqeI8K0Mf-Y3eDfCREDCF4TlPNIh9Y7ZVhU5_gDioWthPNh4Rvd6QCQfAr1AGO47_0o355WnCyAiYQ4aE9Txm1EQ0ZAFMJaM7GyST9AcoX2JsxY8_okVcR5_OJFkgB28rJzlCytcEMYHCvLR2zwD-gh4PmA09ipUabUYTbmN7J6WDj3VjI0vkb5c6vx5GhLgrzG0JyNRBQJevHMqX14Junx7zAdC5_T8SgeB_Wbo7nwXSxPLvt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:32+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQACS-sKQe3tZKpIQVc6rqVHxbeYwAMLwb8OKiPanGS8FS1OWAWNJVThvIH_gxqiLuGCnHwK5zr-1Sx6ZvZ2ZTOgnlK8psMp54CZaXPKg3nBA_lZDHL9LgYmBtupxRoStfJ2MXvh8Ngmgrs6M23thxiRRZwMRO44qie-YYAuUINetfvvQ2t3CLj_CaJ_M_vYFNMi3DvKvyRmb-y6B1sMc51jipMjz0dwDQCj4-2kWI15o34wiIM_nPWRTCV5s6kd6pcCZ4AdRAhSGRTLKEsyC8ROqbWebGr59Gp1NhYm_yXmKwRRBhCF8_fAIS_JhmgTJswKZr2nTsMX5w61MxObpYf-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:36+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:38+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T14:24:45+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:24:47+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDlzkoQ001_9ntMJyjb7JE65YxNA3dXtim1QuRgNVOpTai_vG5SG_7CPeZTWRnXkcHCu3FL_xwsXDoDl4j_gvv2JtCZGVxWwy7BSbmvOgMAyi1wAppgPdqRqdULy_blXWW0k8kgAVKFfXJb3TjOn_u4sEKEv-sh39lGA5nypVpHc2K9mdn9fvOA5wdOR7VHuWIQePsvsJCmwut0S39zB-xqql6wiPYQ-bDJZGPKJAOYzVMXAf-9u6ZZACzI8bd4uRnzIvdYYrADn7zoCiHHtZUuhgKoAYhkVE5fx0mDgAXABTBiSTrWa7N_3QnC501VxHYfoQXsQ6a02PLa7B6YG__e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:06+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:06+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:06+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T14:25:06+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:06+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:06+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:06+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:06+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:06+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:07+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:07+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:07+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:07+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:07+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:07+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:07+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:07+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:07+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:19+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T14:25:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAirQflXqORc8OmTPiA6EhPv7XaLtUqFRdtqOk-PevNKa4-GzKuQpcgosoCGKwuOh5bKrL7b9yT4_D4CqVFR3vEWEFyaHsK-jR8wV3bhKZsDYS-N2u3MMfsEwG7t-ELpCymIRTNoqqiAjLdmcgYhCtxzFAFA5povfPtxQchlFzdokEA-9xYWdbFjLa_PT3OneAoQHLMDT5KLHZQKrdo-uTmbNLmV-nIz5hTSNc2KsZOix6xAePC-WlpM-JB0Z3rH0dmNAc7vVC5u-j4ozompzqc1owQS7SQeTr4FfS-QyPyfxYmt6O7mQd0enYKwh_vKIZaUx_7GEqIsjIkZw1ih8F9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:19+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:26:22+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDRRzndP68khEN8SetTt_0_b-pBOb8_wU0kTd8oRxpum6A78jKVLPHmIM-JY3xj7fscD3Hj7GX-S__q-BjwCrQ9puwQWUMuzBDhfZm5_NnTHzKpqvbgtN3RX5qbHNwrVLfZg5G3lQZ9l-E0y5dm_I7UFJWeA1VYaYTYuKEFY7wWWKtAopxsG14SS3TmNhELzEzTif4VlWo6I3Wo382SE3pfci7AWxFJOY7-_GLd24Ha7VnKqZKWjVdPdK_FQNdLUHDyaqqYVl-iIs-DVfU23d_v4WQXFHJHF_YZ8B9UlvPwA6uFYnW3O9bGQKHww6IJOQpe3rd8thGWhRPtK56f1IL7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:26:22+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:26:25+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:26:29+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=zgkfMgAAAAAAwcHgAAABVpyI5nM&oauth_verifier=OMr8cSKxdlc704U66hCye1KXUcRCI5Ei
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:29+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:30+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/JoEyqvvH0uOgp4sNy89_gnMkXVTwTb6NeuNivgdnCyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:33+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:34+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:26:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=4b2jv6h
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:39+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:26:41+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDIQRsKsXG2L2j3t0PkpWmuhth6cEFm8DAVUVCO0chMjGaCwsghpviqbhX93N6OMfiVnKEGrjTLj_7WvOfQo32ezwmfk-e2xKJRfsH-iuafCUINGFjFMUK6sfmbjbb-3coIZkrDIWdm2NkxMgvDOFLH_AwmNF94NLRiiJbatCNqL1eWwrs0QxaN9ASzSP0Tsm_CWEXSUTrwyfhFbvQfDTe5O_rflSVUgv2AzJjS8I4V4DjBcQj8Fny17ly_dusnDIsfZbWPxQumTiE1LeLopnHeybqBPq-3hk8fgYscJTNxsFm1oyxoyV-0TsMFPoQMD-Kz1Nl-Hu5jMAxZ_hmvf98L
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:43+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:26:44+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:26:50+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=7pcvbps
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:50+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T15:26:51+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:53+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCILwnerG-aAHxal0mjylBD4AqTC7O_3rWYobIIf1DHDQsQQEC7PwGlxwNwAbXQqfLukOwImhAtODEDmYNu-cxwLRSMY6X_28eOHgsc_1k9haUpIn2Yu6vefPtSwRfL-HtkIfb-D7nFdekFVk2XgByudaFKLxyEITofYBcTEsv2r-dcZSEHzSc2WR8rb_UgSzVmQStTG8-xCawFCVhQY1TisC-_wp1k2vWowVrQrJ2AUvD_SYwv4LbdXKlJH7euv3pOYpFCvqdQ2Vuo87-lAIz9WQVxOWl07vPjioI5TNHco7Yg6FEuQfCmbQwreE_KdUuHIw7WkqX7xWU6bi_4q9wN
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:26:53+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:28:05+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:28:06+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDJcbMA2TdwaPhZxl8x4-2ACJepMbURqTy4oQPCDubqw60VOUNw874U9ja7cEIXvxZ-R57jbLy6K_6QCPHDa0jQEowm-UXzlO7g92dkI3vHqJVFDRGWzMLSM31Q8_lkJc7ZPaYTlZ5qd2rJ1JHO6di_WdiuDk-ztk6481gUu9oLw0nowyJJuYgPEKFUbpS_U5jhA1aX5JZzJD5hQiF9qUj7f17xa9BLpHcp1_xdo_l3Gl40MIsDQ3QPm03Pp4Ye26cxEYBqHJF-VTeGxHhP1LERlc1IngjwVVXk4OdxO6Vs3KiUvYhgmDzaGjy80aVkO52g5_B3erOznMDwsqcvF4j1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:28:16+08:00 ] 127.0.0.1 /index.php/Reg/Perfect_information
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:28:16+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:28:38+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:28:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=FwjFnwAAAAAAwcHgAAABVpyK71k&oauth_verifier=au2nWL8XsWqWbZRU7BYBdqEWdVXvg7XD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:08+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=FwjFnwAAAAAAwcHgAAABVpyK71k&oauth_verifier=au2nWL8XsWqWbZRU7BYBdqEWdVXvg7XD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:30:10+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:14+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQCQgsuSbpDP_7JM-DszpFTUJKgiQkIRjZd80y43Dtpcr7lJBc8RIXNZm60iAjkxQvKDnvqmS1p2m2YTqhDTpX1gxtpHO3AxH5e-ZpMfjPz_XQvRvXK3qS74OisZTiV69iY3j_6LFqkBvbAUoeaatMJtUQOVH8I1gf4UKTppwLuR7AEORpMXWPnlYMAr_6vl_Ye-vtogWvBaLPsQSPB1TDBmQsuBA9P9-634bwg6ytTljaAs--VQG1iP2ple83BrOTcjAuJmNvgIu2mGbg4ejDqnK88Gaydk3E-CbW7R0fvFlw8LJbLdEs_H19rD-_neAd-12vdILFNNDeqPJ7yyMnrK
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:16+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:30:19+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:22+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=PMr7iQAAAAAAwcHgAAABVpyMeR0&oauth_verifier=QS8hWcGo4RkPIQkVT1FdtpFqkBzAxpzG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:32+08:00 ] 127.0.0.1 /index.php/Reg/Perfect_information
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:30:32+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:35+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:36+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQDamQuCAxO_Pv4LvmnYYkjbFV6j1xPr03f4rdSr-Kb00C-KDOKls-qbuUduZAF1JA5QAfvrk0h1V5E0ay-dfAFtrUqFJKwmQ_dFdj2Mz9faeGJcwIevzYQHk22wyyaZprupibHt2_prSfuiQretzMrQ0cuzNk5hNbZS0UENPlQ3JDThEmoRJmdmvqqo_aeOFPK-rANjoE41EH3tH6CNN7JSXbMqQgC4ToUWcb4IfYjLzaNMA-PkeWpie3sFF_nFqYBSYn8wQP3RRgOp8hc6DEnFeSygwpzYb95i1jNpLBkABbcHra58pMKUPGXe0vi0dJ_7abNn0e53GSl15HLFser7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:36+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:38+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=16GjoQAAAAAAwcHgAAABVpyMxRg&oauth_verifier=Vuejywa6G5623tKtsfCtWQkotvvclO7o
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:42+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:30:43+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:30:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/0JLTf9GqMQ8qLJHu7cSe7fnjr0lPOCyE-wEvUd9FZEM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:52+08:00 ] 127.0.0.1 /index.php/Reg/Perfect_information
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:52+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:53+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:30:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awrrhvr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:31:04+08:00 ] 127.0.0.1 /index.php/Reg/Perfect_information
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:31:04+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:31:08+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:31:10+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/VRDT28dSnWeHYsZZ4dXWJW32DDzp5Zls2W4r1BJ3njo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:31:10+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:31:11+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:31:13+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQBkd66Aan2RWMLyUa7xZRKuZji-RiPHWTVGkpOSSn76XDZ_DErK1j83rhSzDk76kg84RhU4FWrjYz3weG9L0KqBkvDmdwiV4N6cE7Gcg8Lb6V858q5WdytQzouKri_8U__-DdtlQrOcAhCtQKYtWlV3dRXKCVjSRI_WdB6sqvkOMM-uXeHK6s8sVK3JlRRrd0E0o2DciT1BPVDRjDK7NAE6fPok435PUiFyy0ZvdqFE_cRriZWD7ffoufQ142PNUWX4kse4NEeesbaM2sBYRyMgPHqAs6b2tMpFnZvt0BYgrC920f78dLQxMvU8m4HKWCA3AAnl0aO-yXSpHnjZKoKV
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:31:13+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:31:15+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:31:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=WSgTpgAAAAAAwcHgAAABVpyNVHE&oauth_verifier=Mf6JiVejcfofhg9IgyfIYVuzSHaBaV6a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:31:18+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:31:25+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:32:10+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:32:12+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/hlPVsbXR1os0vQZ_Z3fGsXCrUBqYRt4my681_b3SG0g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:32:13+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:32:14+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:32:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=kV-tsQAAAAAAwcHgAAABVpyOPOM&oauth_verifier=F50Kntik9W4c05xAklCu3x2OZwpNz9yh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T15:32:18+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:32:25+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:32:30+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=54apzdm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:32:30+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:32:36+08:00 ] 127.0.0.1 /index.php/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:32:37+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:33:00+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:33:18+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/z4Y8Z_NdLoMRG2IzWx8Cd6jbEe60uFFT7dFhqgJ-vVE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:33:18+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:38:03+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:38:11+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=2d2aw2u
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:38:11+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:42:06+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:42:11+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=26ga3wv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:42:46+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=26ga3wv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:42:53+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=pmq3zw4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:44:05+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-18T15:44:05+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:44:06+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:44:11+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=j6883vw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:44:11+08:00 ] 127.0.0.1 /index.php/Index/is_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 参数错误或者未定义:where
+
+[ 2016-08-18T15:44:21+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=a5e3rrw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:44:21+08:00 ] 127.0.0.1 /index.php/Index/is_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 参数错误或者未定义:where
+
+[ 2016-08-18T15:44:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=rt8rmd4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:44:33+08:00 ] 127.0.0.1 /index.php/Index/is_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 参数错误或者未定义:where
+
+[ 2016-08-18T15:44:49+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:44:54+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:44:56+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:44:57+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:44:58+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:44:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:00+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:02+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:03+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:06+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:08+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:09+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:11+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:12+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:14+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:15+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=awjfuyk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:24+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=b2guuh7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:45:25+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=b2guuh7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:27+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=b2guuh7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:28+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=b2guuh7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:45:47+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:46:29+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:30+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:31+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:32+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:33+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:34+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:36+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:36+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:37+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:39+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:40+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:41+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:42+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=ydty3fq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 获取 Yahoo ACCESS_TOKEN出错：未知错误
+
+[ 2016-08-18T15:46:42+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:49:02+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Facebook.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:49:05+08:00 ] 127.0.0.1 /index.php/Index/callback/type/facebook?code=AQAvpDnNngmhRttojwnebNvnM91NxmLXXlhVmKx3s1dR_N9EJtdnawXK5YlfkU-ekH3vZM-kNAzzMaAGRaOEu70cAD24e_sCxHSVhxhChVXdSFTmh17J1lHvj83EbaohyiVXALoVUD_YzU9UhQYJL5EQsXCfI0oaxqSYoC0jrcbMDAejOk5g1JMlEp9JMNNXdBJ1qaAYNpOsvLZmn6e1cZ1hzCYsdN10mRkdzQbrmZZrCYbqZEguMTUYCANJQCIDEtUY-pxLPfZuY-5vCxxbtSYA9RndUsBNfzJLvPkmGvm7jMalLiHmLksoQASSsRwUsGEUw7jXUIqbNP7RbmPeNSJR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:49:05+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:52:54+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:53:01+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=53g3685
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:54:31+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/Twitter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:54:35+08:00 ] 127.0.0.1 /index.php/Index/callback/type/twitter?oauth_token=zjxSqwAAAAAAwcHgAAABVpyiooI&oauth_verifier=nGPWCC7785kysONhISiZ0JPRIl5EFTVU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:54:35+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:54:40+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:54:43+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/76riWrKvK_uJbVn9wWF9xbi6PerLQRX1ZNmT7Qlmwm8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:54:43+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:54:48+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:54:53+08:00 ] 127.0.0.1 /index.php/Index/callback/type/Yahoo?code=aet874p
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:54:58+08:00 ] 127.0.0.1 /index.php/Reg/Perfect_information
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-18T15:55:08+08:00 ] 127.0.0.1 /index.php/Reg/Perfect_information
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T15:55:08+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T16:44:28+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/yahoo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T16:44:31+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T16:44:59+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/DAMJ2mm_bYq-ivAe9DMG1sv1tKlrJ7VyiqxpNj7P0BY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T16:45:05+08:00 ] 127.0.0.1 /index.php/Index/thirdLogin/type/google.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T16:45:16+08:00 ] 127.0.0.1 /index.php/Index/callback/type/google/code/705203653192-fbouus22kr7cgjv050vojltfv68shpsu.apps.googleusercontent.com?code=4/49Fa0i6QADvUovWEIHNG_z2xFyqn-uTBONh7U2kWM9k
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-18T16:45:16+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+

@@ -1,0 +1,66 @@
+<extend name="Public:layout" />
+<block name="main-layout">
+    <!-- container -->
+    <div id="container">
+            <!-- content -->
+            <div id="content"  style=" background:#fff;">
+                 <p class="nav_box nav_box_02">
+                     <a href="#" class="nav_01"><em>01</em>決済方法/金額選択</a>
+                     <a href="#" class="nav_02 act"><em>02</em>購入確認</a>
+                     <a href="#" class="nav_03"><em>03</em>支  払</a>
+                     <a href="#" class="nav_04"><em>04</em>購入完了</a>
+                 </p>
+                 <div class="send_box">
+                     <p class="tt_01">メRCチャージ</p>
+                     <p style=" color:#8c8c8c;">下記の内容にお間違いがないかよく確認したらから「購入」ボタンをクリックしてください。</p>
+                     <table style=" width:510px; height:35px; margin:20px auto;">
+                         <tr>
+                             <td style=" font-size:14px; width:130px">账号，RC残高 :</td>
+                             <td><span class="name_input" style=" width:240px !important;"><input type="text" value="{$payinfo.rc} RC" onfocus="javascript:if(this.value=='')this.value='';"></span></td>
+                             <td><a href="#" class="id_btn" style=" padding:0 1px !important;">パスワード変更</a></td>
+                         </tr>
+                     </table>        
+                     <p class="tt_01"></p>
+                     <form action="__CONTROLLER__/pay2" method="post">
+                     <table style=" width:510px; height:35px; margin:20px auto;">
+                         <tr>
+                             <td style=" font-size:14px; width:130px">決済方法</td>
+                             <td><span class="name_input" style=" width:240px !important;"><input type="text" value="{$payinfo.payment}" onfocus="javascript:if(this.value=='')this.value='';"></span></td>
+                         </tr>
+                         <tr>
+                             <td style=" font-size:14px; width:130px">選択金額</td>
+                             <td><span class="name_input" style=" width:240px !important;"><input type="text" value="{$payinfo.payamount} RC" onfocus="javascript:if(this.value=='')this.value='';"></span></td>
+                         </tr>
+                     </table>
+                     <ul style=" width:760px; margin:0 auto; color:#666;">    
+                         <li style=" height:18px; line-height:18px; text-indent:2em;">[購入] をクリックすると外部の決済専用ページに移動します。（この段階では、まだRCの購入は完了しません。）</li>
+                         <li style=" height:18px; line-height:18px;text-indent:2em;">決済専用ページからの操作にて購入が確定いたしましたら、購入の取り消し、払い戻し等は一切行えませんのでご了承ください。
+                         </li>
+                         <li style=" height:18px; line-height:18px;text-indent:2em;">有効期限は、このたびご購入いただくRCに対しての表示となります。</li>
+                         <li style=" height:18px; line-height:18px;text-indent:2em;">上記の内容でよろしければ[購入]ボタンをクリックしてください。</li>
+                         <li style=" height:18px; line-height:18px;text-indent:2em;">お支払い方法、ご購入額などを訂正する場合は[戻る]ボタンを、RC購入を取消す場合は[キャンセル]ボタンをクリックしてください。</li>
+                     </ul>
+                     <table class="double_btn">
+                         <tr>
+                             <td>
+                                 <p class="btn_04">
+                                      <!-- <a href="#" class="btn_01"></a>
+                                      <a href="#" class="btn_02">購  入</a> -->
+                                      <input type="submit" name="submit" class="btn_04" value="購  入" style="border:none;color: #fff;font-size: 16px;">
+                                 </p>
+                             </td>
+                             <td>
+                                 <p class="btn_04">
+                                      <a href="#" class="btn_01"></a>
+                                      <a href="#" onClick="javascript :history.back(-1);" class="btn_02">戻  る</a>
+                                 </p>
+                             </td>
+                         </tr>
+                     </table>
+                    </form>
+                 </div>
+            </div>
+            <!-- //content -->
+    </div>
+    <!-- //container -->
+</block>

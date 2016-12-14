@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>创建角色</title>
+</head>
+<body>
+	<if condition="$role.state eq 1">
+	<h1>您的当前角色:</h1>
+	<font color="red">{$role.data.r_name}</font>
+	<a href="__APP__/Exlogin/index">退出</a>
+	<else />
+	<form action="__CONTROLLER__/establish_role" method="post">
+	请输入角色名称:	<input type="text" name="r_name"> <br>
+	<input type="hidden" name="g_id" value="{$g_id}">
+	<input type="hidden" name="s_id" value="{$s_id}">
+	<input type="submit" value="确定">
+	</form>
+	</if>
+</body>
+</html>

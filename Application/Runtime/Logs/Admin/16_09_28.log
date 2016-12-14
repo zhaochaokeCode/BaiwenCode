@@ -1,0 +1,74 @@
+[ 2016-09-28T14:35:58+08:00 ] 127.0.0.1 /gamenoll.com/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-28T14:35:58+08:00 ] 127.0.0.1 /gamenoll.com/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-28T14:36:01+08:00 ] 127.0.0.1 /gamenoll.com/admin.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-28T14:36:02+08:00 ] 127.0.0.1 /gamenoll.com/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-28T14:36:05+08:00 ] 127.0.0.1 /gamenoll.com/admin.php/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-28T14:36:08+08:00 ] 127.0.0.1 /gamenoll.com/admin.php/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-28T14:36:20+08:00 ] 127.0.0.1 /gamenoll.com/admin.php/News/top_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gn_news` WHERE `id` = 55 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `gn_news` SET `title`='范志强制作',`content`='<p><img src=\"http://localhost/gamenoll.com/Public/admin/ue/dialogs/emotion/images/jx2/j_0004.gif\"/><img src=\"http://localhost/gamenoll.com/Public/admin/ue/dialogs/emotion/images/jx2/j_0004.gif\"/><img src=\"http://localhost/gamenoll.com/Public/admin/ue/dialogs/emotion/images/jx2/j_0004.gif\"/><img src=\"http://localhost/gamenoll.com/Public/admin/ue/dialogs/emotion/images/jx2/j_0004.gif\"/><img src=\"http://localhost/gamenoll.com/Public/admin/ue/dialogs/emotion/images/jx2/j_0004.gif\"/><img src=\"http://localhost/gamenoll.com/Public/admin/ue/dialogs/emotion/images/jx2/j_0004.gif\"/><img src=\"http://localhost/gamenoll.com/Public/admin/ue/dialogs/emotion/images/jx2/j_0004.gif\"/><img src=\"http://localhost/gamenoll.com/Public/admin/ue/dialogs/emotion/images/jx2/j_0004.gif\"/></p>',`author`='admin',`type`='活动',`createtime`='2016-09-02 17:53:07',`belong`='30',`is_top`='1' WHERE `id` = 55 [ RunTime:0.0000s ]
+
+[ 2016-09-28T14:36:20+08:00 ] 127.0.0.1 /gamenoll.com/admin.php/News/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gn_news` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gn_news` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: row D:\WWW\gamenoll.com\Application\Admin\Controller\NewsController.class.php 第 10 行.
+SQL: SELECT * FROM `gn_news` LEFT JOIN gn_games on gn_games.g_id = gn_news.belong  WHERE ( id ) ORDER BY id DESC LIMIT 0,8   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: id D:\WWW\gamenoll.com\Application\Runtime\Cache\Admin\36087655c6ab8580337cdc45b35a926d.php 第 103 行.
+NOTIC: [8] Undefined variable: notice D:\WWW\gamenoll.com\Application\Runtime\Cache\Admin\36087655c6ab8580337cdc45b35a926d.php 第 520 行.
+NOTIC: [8] Undefined variable: notice D:\WWW\gamenoll.com\Application\Runtime\Cache\Admin\36087655c6ab8580337cdc45b35a926d.php 第 520 行.
+NOTIC: [8] Undefined variable: notice D:\WWW\gamenoll.com\Application\Runtime\Cache\Admin\36087655c6ab8580337cdc45b35a926d.php 第 520 行.
+NOTIC: [8] Undefined variable: notice D:\WWW\gamenoll.com\Application\Runtime\Cache\Admin\36087655c6ab8580337cdc45b35a926d.php 第 520 行.
+NOTIC: [8] Undefined variable: notice D:\WWW\gamenoll.com\Application\Runtime\Cache\Admin\36087655c6ab8580337cdc45b35a926d.php 第 520 行.
+NOTIC: [8] Undefined variable: notice D:\WWW\gamenoll.com\Application\Runtime\Cache\Admin\36087655c6ab8580337cdc45b35a926d.php 第 520 行.
+NOTIC: [8] Undefined variable: notice D:\WWW\gamenoll.com\Application\Runtime\Cache\Admin\36087655c6ab8580337cdc45b35a926d.php 第 520 行.
+NOTIC: [8] Undefined variable: notice D:\WWW\gamenoll.com\Application\Runtime\Cache\Admin\36087655c6ab8580337cdc45b35a926d.php 第 520 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

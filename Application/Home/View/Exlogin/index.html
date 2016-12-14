@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>模拟登陆</title>
+	<script src="__PUBLIC__/js/jquery.js"></script>
+</head>
+<body>
+欢迎<font color="red">{$_SESSION.userinfo.nicename}</font>登录 
+<a href="__CONTROLLER__/loginout">退出</a> <br>
+	<form action="__APP__/Games/choice_server" method="post">
+		<select name="g_id" id="games">
+		<foreach name="games" item="game">
+			<option value="{$game.g_id}">{$game.g_name}</option>
+		</foreach>
+		</select>
+		<br>
+		<input type="hidden" value="{$_SESSION.user.id}" name="u_id">
+		<input type="submit" value="确定" >
+	</form>
+</body>
+</html>

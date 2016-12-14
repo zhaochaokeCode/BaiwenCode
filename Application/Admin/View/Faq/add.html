@@ -1,0 +1,84 @@
+<extend name="Public:layout" />
+<block name="main-content">
+	<div class="main-content">
+		<div class="breadcrumbs" id="breadcrumbs">
+			<script type="text/javascript">
+				try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+			</script>
+
+			<ul class="breadcrumb">
+				<li>
+					<i class="icon-home home-icon"></i>
+					<a href="#">首页</a>
+				</li>
+
+				<!-- <li>
+					<a href="#">FAQ管理</a>
+				</li>
+				<li class="active">添加FAQ</li> -->
+			</ul><!-- .breadcrumb -->
+
+			<div class="nav-search" id="nav-search">
+				<form class="form-search">
+					<span class="input-icon">
+						<input type="text" placeholder="搜索 ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+						<i class="icon-search nav-search-icon"></i>
+					</span>
+				</form>
+			</div><!-- #nav-search -->
+		</div>
+
+		<div class="page-content">
+			<div class="page-header">
+				<h1>
+					FAQ管理
+					<small>
+						<i class="icon-double-angle-right"></i>
+						添加FAQ
+					</small>
+				</h1>
+			</div><!-- /.page-header -->
+
+			<div class="row">
+				<div class="col-xs-12">
+					<!-- PAGE CONTENT BEGINS -->
+
+					<form action="__CONTROLLER__/add" method="post" class="form-horizontal" role="form">
+						<div><input type="hidden" name="start" value=""></div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > FAQ标题 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="title" id="form-field-1" placeholder="FAQ标题" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+	
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> FAQ内容 </label>
+							<div class="col-sm-9">
+							<textarea name="content" class="form-control" id="form-field-8" placeholder="FAQ内容......" style="margin-top: 0px; margin-bottom: 0px; height: 150px; width:350px;"></textarea>
+							</div>
+						</div>
+						<div class="space-4"></div>
+						<div class="clearfix form-actions">
+							<div class="col-md-offset-3 col-md-9">
+								<input class="btn btn-info" type="submit" name="submit" value="添加">
+									<!-- <i class="icon-ok bigger-110"></i>
+									添加 -->
+								</input>
+
+								&nbsp; &nbsp; &nbsp;
+								<button class="btn" type="reset" name="reset">
+									<!-- <i class="icon-undo bigger-110"></i> -->
+									重置
+								</button>
+							</div>
+						</div>
+
+						<!-- <div class="hr hr-24"></div> -->
+						
+					</div><!-- PAGE CONTENT ENDS -->
+				</div><!-- /.row -->
+		</div><!-- /.page-content -->
+	</div><!-- /.main-content -->
+</block>

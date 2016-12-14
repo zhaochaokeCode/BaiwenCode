@@ -1,0 +1,62 @@
+<extend name="Public:layout" />
+<block name="main-content">
+    
+	 	<div class="main-content">
+					<div class="breadcrumbs" id="breadcrumbs">
+						<script type="text/javascript">
+							try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+						</script>
+
+						<ul class="breadcrumb">
+							<li>
+								<i class="icon-home home-icon"></i>
+								<a href="#">网站</a>
+							</li>
+
+							<!-- <li>
+								<a href="#">配置</a>
+							</li>
+							<li class="active">详细信息</li> -->
+						</ul><!-- .breadcrumb -->
+
+						<div class="nav-search" id="nav-search">
+							<form class="form-search">
+								<span class="input-icon">
+									<input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+									<i class="icon-search nav-search-icon"></i>
+								</span>
+							</form>
+						</div><!-- #nav-search -->
+					</div>
+
+					<div class="page-content">
+						<div class="page-header">
+							<h1>
+								网站
+								<small>
+									<i class="icon-double-angle-right"></i>
+								网站详细配置
+								</small>
+							</h1>
+						</div><!-- /.page-header -->
+                             
+						    <form action="__CONTROLLER__/mod" method="post" accept-charset="utf-8" enctype="multipart/form-data" >
+								<p>标   题:&nbsp &nbsp&nbsp <input type="text" value="{$website['title']}" name="title"></p>
+								<p>关 键字：&nbsp <input type="text" name="keyword" value="{$website['keyword']}"></p>
+								<p>内  容：&nbsp &nbsp <input type="text" name="content" value="{$website['content']}" /></p>
+							    <p>版  权：&nbsp &nbsp <input type="text" name="copyright" value="{$website['copyright']}" /></p>
+								<input type="hidden" name="id" value="{$website['id']}">
+								<p><input type="submit" name="sub" value="修改"></p>
+							</form>
+
+								
+
+				
+
+		
+
+				
+
+
+
+</block>

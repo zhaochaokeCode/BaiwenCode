@@ -1,0 +1,124 @@
+<extend name="Public:layout" />
+<block name="main-content">
+	<div class="main-content">
+		<div class="breadcrumbs" id="breadcrumbs">
+			<script type="text/javascript">
+				try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+			</script>
+
+			<ul class="breadcrumb">
+				<li>
+					<i class="icon-home home-icon"></i>
+					<a href="#">首页</a>
+				</li>
+
+				<!-- <li>
+					<a href="#">用户管理</a>
+				</li>
+				<li class="active">修改用户</li> -->
+			</ul><!-- .breadcrumb -->
+
+			<div class="nav-search" id="nav-search">
+				<form class="form-search">
+					<span class="input-icon">
+						<input type="text" placeholder="搜索 ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+						<i class="icon-search nav-search-icon"></i>
+					</span>
+				</form>
+			</div><!-- #nav-search -->
+		</div>
+
+		<div class="page-content">
+			<div class="page-header">
+				<h1>
+					用户管理
+					<small>
+						<i class="icon-double-angle-right"></i>
+						修改用户
+					</small>
+				</h1>
+			</div><!-- /.page-header -->
+
+			<div class="row">
+				<div class="col-xs-12">
+					<!-- PAGE CONTENT BEGINS -->
+
+					<form action="__CONTROLLER__/mod" method="post" class="form-horizontal" role="form">
+					<div><input type="hidden" name="id" value="{$user.id}"></div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 登录名 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="loginname" value="{$user.loginname}"  id="form-field-1" placeholder="登录名" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 密码 </label>
+
+							<div class="col-sm-9">
+								<input type="password" name="password" value="{$user.password}" id="form-field-1" placeholder="密码" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 确认密码 </label>
+
+							<div class="col-sm-9">
+								<input type="password" name="repwd" value="{$user.password}" id="form-field-1" placeholder="确认密码" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 昵称 </label>
+
+							<div class="col-sm-9">
+								<input type="text" name="nicename" value="{$user.nicename}" id="form-field-1" placeholder="昵称" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 邮箱 </label>
+
+							<div class="col-sm-9">
+								<input type="email" name="email" value="{$user.email}" id="form-field-1" placeholder="邮箱" class="col-xs-10 col-sm-5" style="margin-top: 0px; margin-bottom: 0px; width:350px;" />
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 性别 </label>
+
+							<div class="col-sm-9">
+								<input type="radio" name="sex" value="0" {$user['sex'] == 0 ? checked : ''} style="width:40px;"/>男
+								<input type="radio" name="sex" value="1" {$user['sex'] == 1 ? checked : ''} style="width:40px;"/>女
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 出生年月 </label>
+							
+							<div id="birth" class="col-sm-9">
+						   		<p>
+							    	<select id="sel_year" name="birth_year"></select>年
+							        <select id="sel_month" name="birth_mon"></select>月
+							        <select id="sel_day" name="birth_day"></select>日
+						      	</p>
+							</div>
+						</div>
+						<div class="space-4"></div>
+						<div class="clearfix form-actions">
+							<div class="col-md-offset-3 col-md-9">
+								<input class="btn btn-info" type="submit" name="submit" value="添加">
+									<!-- <i class="icon-ok bigger-110"></i>
+									添加 -->
+								</input>
+
+								&nbsp; &nbsp; &nbsp;
+								<button class="btn" type="reset" name="reset">
+									<!-- <i class="icon-undo bigger-110"></i> -->
+									重置
+								</button>
+							</div>
+						</div>
+					</form>
+					<!-- <div class="hr hr-24"></div> -->
+						
+					</div><!-- PAGE CONTENT ENDS -->
+				</div><!-- /.row -->
+		</div><!-- /.page-content -->
+	</div><!-- /.main-content -->
+</block>

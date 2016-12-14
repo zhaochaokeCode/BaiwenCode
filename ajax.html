@@ -1,0 +1,189 @@
+//设置完成
+  function setAccomplish(e){
+    var title = $.trim($(".shezhi [name='title']").val());
+    var description = $.trim($(".shezhi [name='description']").val());
+    var time_send_time = $(".shezhi [name='time_send_time']").val();
+    var destroy_time = $(".shezhi [name='destroy_time']").val();
+    var message_id = $.trim($(".shezhi [name='message_id']").val());
+    var countrys = {};
+    $("[name='country'] option:selected").each(function(){
+      var country = $(this).val();
+      countrys[country] = [];
+    });
+    var zone = $("[name='set_time_zone'] option:selected").val();
+    var send_zone = $("[name='set_time_zone'] option:selected").attr('send_zone');
+    if(title == ''){
+      toastr.error('请输入标题名称！');
+      return;
+    }else if($.isEmptyObject(countrys) == true){
+      toastr.error('请选择发送的国家！');
+      return;
+    }
+    if(time_send_time == '选择发布时间'){
+      time_send_time = '';
+    }
+    if(time_send_time != '选择发布时间' && time_send_time != ''){
+      if(zone == ''){
+        toastr.error('请选择要发送的时区！');
+        return;
+      }
+    }
+    if(zone != ''){
+      if(time_send_time == '选择发布时间' || time_send_time == ''){
+        toastr.error('请选择要发送的时间！');
+        return;
+      }
+    }
+    var tag = [];
+    if($('.bq_box ul li').length){    
+      $('.bq_box ul li').each(function(){
+        tag.push($(this).children('a').html());
+      })
+    }
+    countrys = JSON.stringify(countrys);  
+    var items = {'title':title,'description':description,'send_gmt':zone,'send_zone':send_zone,'country':countrys,'time_send_time':time_send_time,'destroy_time':destroy_time,'tag':tag,'message_id':message_id};
+      AjaxRequest('__APP__/messagetMessage',items,callbackMessage);
+  }
+  function callbackMessage(data){
+    if(data.code == 200){
+      toastr.success('设置成功');
+      $('.shezhi').css('display', 'none');
+      window.location.reload();
+    }else{
+      toastr.error(data.msg);
+    }
+  }
+
+李哲 2016/5/16 16:37:42
+前台调用js
+
+李哲 2016/5/16 16:38:10
+public function setMessage(){
+        if(IS_POST){
+            if(!$message_id = I('post.message_id')){
+                $returnInfo['code'] = 300;
+                $returnInfo['msg'] = '数据传输错误'; 
+                $this -> ajaxReturn($returnInfo);
+                exit();
+            }
+           $message['title'] = I('post.title');
+           $message['last_ip']=get_client_ip();
+           $message['last_time']=time();
+           $message['description'] = I('post.description');
+           if(I('post.tag') != null){
+              $message['tag'] = implode(',',I('post.tag'));
+           }           
+           $send_zone = I('post.send_zone');
+           $time_send_time = I('post.time_send_time');
+           $destroy_time = I('post.destroy_time');
+           $message['destroy_time'] = $destroy_time;//过期时间
+           $message['time_send_gmt'] = I('post.send_gmt');//和标准时间的时间差
+           $message['time_send_zone'] = I('post.send_zone');//定时发送的时区
+           $message['country'] = I('post.country'); //发送的国家
+           if($time_send_time != null){
+                $setTime = strtotime($time_send_time);
+                $message['time_send_time'] = $time_send_time;//发送的时间                
+                //计算出标准时间发送的时间戳
+                $standard_time = $setTime + I('post.send_gmt')*60*60;
+                $message['send_time'] = $standard_time;//发送的时间戳
+                if($destroy_time != 0){                
+                    $getTime = $standard_time + $destroy_time;
+                    $message['past_time'] = $getTime;// 过期的时间戳
+               }else{
+                    $message['past_time'] = 0;
+               }
+           }else{
+              $message['time_send_time'] = $time_send_time;
+              $message['send_time'] = '';
+           }            
+           // if($standard_time < time()){
+           //      $returnInfo['code'] = 300;
+           //      $returnInfo['msg'] = '您选择的时间已经过期'; 
+           //      $this -> ajaxReturn($returnInfo);
+           //      exit();
+           // }
+           if(I('post.setStatus') != null){
+            $message['status'] = 0;
+           }
+           $message['is_delete'] = 0;
+           $message['is_unlock'] = 1;
+           $m=M('Message'); 
+           if(!$m -> where('id = '.$message_id) -> save($message)){
+                $returnInfo['code'] = 300;
+                $returnInfo['msg'] = '设置失败，请重试'; 
+                $this -> ajaxReturn($returnInfo);
+                exit();
+           }                     
+           $returnInfo['code'] = 200;
+           $returnInfo['message_id'] = $message_id;
+           $this -> ajaxReturn($returnInfo);
+        }
+    }
+
+
+
+
+
+
+//后台处理
+public function setMessage(){
+        if(IS_POST){
+            if(!$message_id = I('post.message_id')){
+                $returnInfo['code'] = 300;
+                $returnInfo['msg'] = '数据传输错误'; 
+                $this -> ajaxReturn($returnInfo);
+                exit();
+            }
+           $message['title'] = I('post.title');
+           $message['last_ip']=get_client_ip();
+           $message['last_time']=time();
+           $message['description'] = I('post.description');
+           if(I('post.tag') != null){
+              $message['tag'] = implode(',',I('post.tag'));
+           }           
+           $send_zone = I('post.send_zone');
+           $time_send_time = I('post.time_send_time');
+           $destroy_time = I('post.destroy_time');
+           $message['destroy_time'] = $destroy_time;//过期时间
+           $message['time_send_gmt'] = I('post.send_gmt');//和标准时间的时间差
+           $message['time_send_zone'] = I('post.send_zone');//定时发送的时区
+           $message['country'] = I('post.country'); //发送的国家
+           if($time_send_time != null){
+                $setTime = strtotime($time_send_time);
+                $message['time_send_time'] = $time_send_time;//发送的时间                
+                //计算出标准时间发送的时间戳
+                $standard_time = $setTime + I('post.send_gmt')*60*60;
+                $message['send_time'] = $standard_time;//发送的时间戳
+                if($destroy_time != 0){                
+                    $getTime = $standard_time + $destroy_time;
+                    $message['past_time'] = $getTime;// 过期的时间戳
+               }else{
+                    $message['past_time'] = 0;
+               }
+           }else{
+              $message['time_send_time'] = $time_send_time;
+              $message['send_time'] = '';
+           }            
+           // if($standard_time < time()){
+           //      $returnInfo['code'] = 300;
+           //      $returnInfo['msg'] = '您选择的时间已经过期'; 
+           //      $this -> ajaxReturn($returnInfo);
+           //      exit();
+           // }
+           if(I('post.setStatus') != null){
+            $message['status'] = 0;
+           }
+           $message['is_delete'] = 0;
+           $message['is_unlock'] = 1;
+           $m=M('Message'); 
+           if(!$m -> where('id = '.$message_id) -> save($message)){
+                $returnInfo['code'] = 300;
+                $returnInfo['msg'] = '设置失败，请重试'; 
+                $this -> ajaxReturn($returnInfo);
+                exit();
+           }                     
+           $returnInfo['code'] = 200;
+           $returnInfo['message_id'] = $message_id;
+           $this -> ajaxReturn($returnInfo);
+        }
+    }

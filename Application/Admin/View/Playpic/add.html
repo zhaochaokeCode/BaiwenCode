@@ -1,0 +1,127 @@
+<extend name="Public:layout" />
+<block name="main-content">
+	<div class="main-content">
+		<div class="breadcrumbs" id="breadcrumbs">
+			<script type="text/javascript">
+				try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+			</script>
+
+			<ul class="breadcrumb">
+				<li>
+					<i class="icon-home home-icon"></i>
+					<a href="#">首页</a>
+				</li>
+
+				<!-- <li>
+					<a href="#">轮播图管理</a>
+				</li>
+				<li class="active">添加轮播图</li> -->
+			</ul><!-- .breadcrumb -->
+
+			<div class="nav-search" id="nav-search">
+				<form class="form-search">
+					<span class="input-icon">
+						<input type="text" placeholder="搜索 ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+						<i class="icon-search nav-search-icon"></i>
+					</span>
+				</form>
+			</div><!-- #nav-search -->
+		</div>
+
+		<div class="page-content">
+			<div class="page-header">
+				<h1>
+					轮播图管理
+					<small>
+						<i class="icon-double-angle-right"></i>
+						添加轮播图
+					</small>
+				</h1>
+			</div><!-- /.page-header -->
+
+			<div class="row">
+				<div class="col-xs-12">
+					<!-- PAGE CONTENT BEGINS -->
+
+					<form action="__CONTROLLER__/add" method="post" class="form-horizontal" role="form" enctype="multipart/form-data">
+					<input type="hidden" name="id" value="1">
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 图片一 </label>
+
+							<div class="col-sm-9">
+								<input type="file" name="pic[]" id="form-field-1" placeholder="pic[]" class="col-xs-10 col-sm-5" style="width:150px;" />
+								<!-- <input type="text" name="picurl[]" id="form-field-1" placeholder="链接地址" class="col-xs-10 col-sm-5" style="width:150px;" /> -->
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 图片二 </label>
+
+							<div class="col-sm-9">
+								<input type="file" name="pic[]" id="form-field-1" placeholder="pic[]" class="col-xs-10 col-sm-5" style="width:150px;" />
+								<!-- <input type="text" name="picurl[]" id="form-field-1" placeholder="链接地址" class="col-xs-10 col-sm-5" style="width:150px;" /> -->
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 图片三 </label>
+
+							<div class="col-sm-9">
+								<input type="file" name="pic[]" id="form-field-1" placeholder="pic[]" class="col-xs-10 col-sm-5" style="width:150px;" />
+								<!-- <input type="text" name="picurl[]" id="form-field-1" placeholder="链接地址" class="col-xs-10 col-sm-5" style="width:150px;" /> -->
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 图片四 </label>
+
+							<div class="col-sm-9">
+								<input type="file" name="pic[]" id="form-field-1" placeholder="pic[]" class="col-xs-10 col-sm-5" style="width:150px;" />
+								<!-- <input type="text" name="picurl[]" id="form-field-1" placeholder="链接地址" class="col-xs-10 col-sm-5" style="width:150px;" /> -->
+							</div>
+						</div>
+						
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 图片五 </label>
+
+							<div class="col-sm-9">
+								<input type="file" name="pic[]" id="form-field-1" placeholder="pic[]" class="col-xs-10 col-sm-5" style="width:150px;" />
+								<!-- <input type="text" name="picurl[]" id="form-field-1" placeholder="链接地址" class="col-xs-10 col-sm-5" style="width:150px;" /> -->
+							</div>
+						</div>
+						
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 使用状态  </label>
+
+							<div class="col-sm-9">
+								<input type="radio" name="state" value="1"  style="width:40px;" checked />启用
+								<input type="radio" name="state" value="0"  style="width:40px;" />停用
+							</div>
+						</div>
+
+
+
+						<!-- <div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1" > 轮播图类型 </label>
+
+							<div class="col-sm-9">
+								<input type="radio" name="type" value="0" checked style="width:40px;"/>首页大图
+								<input type="radio" name="type" value="1" style="width:40px;"/>首页中间小图
+								<input type="radio" name="type" value="2" style="width:40px;"/>右侧边栏小图
+							</div>
+						</div> -->
+
+						<div class="space-4"></div>
+						<div class="clearfix form-actions">
+							<div class="col-md-offset-3 col-md-9">
+								<input class="btn btn-info" type="submit" name="sub" value="上传图片"></input>
+							</div>
+						</div>
+					</form>
+					<!-- <div class="hr hr-24"></div> -->
+						
+					</div><!-- PAGE CONTENT ENDS -->
+				</div><!-- /.row -->
+		</div><!-- /.page-content -->
+	</div><!-- /.main-content -->
+</block>

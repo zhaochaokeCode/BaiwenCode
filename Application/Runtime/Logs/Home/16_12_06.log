@@ -1,0 +1,2605 @@
+[ 2016-12-06T10:11:06+08:00 ] ::1 /th_g/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-06T11:42:16+08:00 ] ::1 /th_g/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T11:42:19+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0050s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T11:42:19+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T20:59:25+08:00 ] ::1 /th_g/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T20:59:30+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T20:59:30+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T20:59:32+08:00 ] ::1 /th_g/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type > 0 )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T20:59:32+08:00 ] ::1 /th_g/index.php/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T20:59:53+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T20:59:54+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:00:21+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:00:21+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:01:01+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:01:01+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:03:03+08:00 ] ::1 /th_g/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type > 0 )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:03:03+08:00 ] ::1 /th_g/index.php/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:03:11+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:03:11+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:04:50+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:04:51+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:05:01+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:05:02+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:05:09+08:00 ] ::1 /th_g/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type > 0 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:05:10+08:00 ] ::1 /th_g/index.php/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:05:12+08:00 ] ::1 /th_g/index.php/guide
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `th_guide` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `th_guide` LIMIT 1   [ RunTime:0.0000s ]
+SQL: select title,content,id,is_top from th_guide  order by is_top desc , create_time desc limit 0,5 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 83 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 95 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 109 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 126 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 141 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:05:14+08:00 ] ::1 /th_g/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_view` WHERE ( type > 0 )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:05:15+08:00 ] ::1 /th_g/index.php/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:05:16+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:05:16+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:05:31+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:05:32+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:06:56+08:00 ] ::1 /th_g/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `th_view` WHERE ( type > 0 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:06:56+08:00 ] ::1 /th_g/index.php/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:06:57+08:00 ] ::1 /th_g/index.php/guide
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `th_guide` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `th_guide` LIMIT 1   [ RunTime:0.0000s ]
+SQL: select title,content,id,is_top from th_guide  order by is_top desc , create_time desc limit 0,5 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 83 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 95 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 109 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 126 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 141 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:06:59+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:06:59+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:13:52+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:13:54+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:14:31+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:14:32+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:14:33+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:14:33+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:14:34+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:14:35+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:14:35+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:14:36+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:14:36+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:14:38+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:14:59+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:15:01+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:16:50+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:16:51+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:16:53+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:17:04+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:17:06+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:17:06+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:17:06+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:17:07+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:18:18+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:18:19+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:18:19+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:18:21+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:20:13+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:20:14+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:20:14+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:20:16+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:21:02+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:21:02+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:21:03+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:21:04+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:22:05+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:22:07+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:22:14+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:22:15+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:22:28+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:22:29+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:22:37+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:22:38+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:23:06+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:23:06+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:23:39+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:23:41+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:24:24+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:24:25+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:24:35+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:24:37+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:25:23+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:25:25+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:26:10+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:26:12+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:26:17+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:26:18+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:26:26+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:26:28+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:27:08+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:27:10+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:27:51+08:00 ] ::1 /th_g/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type > 0 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:27:51+08:00 ] ::1 /th_g/index.php/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:27:53+08:00 ] ::1 /th_g/index.php/guide
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `th_guide` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `th_guide` LIMIT 1   [ RunTime:0.0000s ]
+SQL: select title,content,id,is_top from th_guide  order by is_top desc , create_time desc limit 0,5 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 83 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 95 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 109 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 126 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 141 行.
+NOTIC: [8] Undefined index: where D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\fb3926c4c830fc576cb0db977f9bff81.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-06T21:27:56+08:00 ] ::1 /th_g/index.php/index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\IndexController.class.php 第 5 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\th_g\Application\Home\Controller\CommodityController.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `th_commodity` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_commodity` WHERE ( is_top = 1 ) ORDER BY time DESC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_generalize_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_generalize_view` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `th_view` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -1 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -2 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -3 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_view` WHERE ( type = -4 ) ORDER BY update_time DESC LIMIT 8   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_hotspot` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 'p' ) LIMIT 6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `th_hotspot` WHERE ( type = 't' ) LIMIT 4   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `th_news` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_news` INNER JOIN th_tname on th_news.type = th_tname.identification  WHERE ( th_news.is_top = 1 ) ORDER BY th_news.createtime DESC LIMIT 3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `th_playpic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `th_playpic` WHERE ( state = 1 ) ORDER BY id DESC LIMIT 4   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+NOTIC: [8] Undefined variable: k D:\phpStudy\WWW\th_g\Application\Runtime\Cache\Home\39b332e5f8883cb2938d6d989e0f6c27.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-06T21:27:56+08:00 ] ::1 /th_g/index.php/index/images/video_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
